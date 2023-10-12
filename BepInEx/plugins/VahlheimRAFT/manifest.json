@@ -1,0 +1,10 @@
+{
+    "name": "ValheimRAFT",
+    "version_number": "1.4.9",
+    "website_url": "https://valheim.thunderstore.io/package/Mechanik/ValheimRAFT/",
+    "description": "This is a copy from nexusmod of ValheimRAFT",
+    "dependencies": [
+		"denikson-BepInExPack_Valheim-5.4.2105",
+		"ValheimModding-Jotunn-2.12.6"
+    ]
+}

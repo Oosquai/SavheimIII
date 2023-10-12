@@ -1,0 +1,9 @@
+MonoBleedingEdge
+valheim_Data
+steam_appid.txt
+UnityCrashHandler64.exe
+UnityPlayer.dll
+valheim.exe
+BepInEx/LogOutput.log
+BepInEx/cache/harmony_interop_cache.dat
+BepInEx/cache/chainloader_typeloader.dat
