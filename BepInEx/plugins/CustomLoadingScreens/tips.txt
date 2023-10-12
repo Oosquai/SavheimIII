@@ -1,22 +1,25 @@
 Savheim III - Press ~ (above Tab) to swap hotbars.
 Savheim III - Swords have on-demand damage types and decent parry.  Clubs stagger.  Daggers have high flanking and crit damage and a unique dodge.  Axes build momentum for high damage.  Spears can be thrown.
-Savheim III - Greatswords parry.  Atgiers knock enemies away.  Sledges stagger and knockback.  Battleaxes deal tremendous damage.  Claws have excellent flanking and crit damage and a unique dodge.
+Savheim III - Greatswords parry.  Atgiers knock enemies away.  Sledges are AOE.  Battleaxes deal high damage.  Claws have excellent flanking and crit damage, a unique dodge, and kick.
 Savheim III - Bucklers excel at parrying.  Tower shields let you block for days.  Medium shields are a blend of both.
-Savheim III - Move deathlog: When visible, press Esc, then click and drag.  Move extra hotkeys: Esc, Left-Alt, drag.  Move chest inventory: Left-Alt, drag.
+Savheim III - Move deathlog: When visible, press Esc, then click and drag.  Move extra hotkeys: Esc, Left-Alt + drag.  Move chest inventory: Left-Alt + drag.
 Savheim III - Put a Rune Focus on your hotbar and then tap that hotkey while facing certain environmental objects...
 Savheim III - Mouse over the "Craft" tab at crafting tables for a filter.
-Savheim III - Hoppers are really cool when set up properly with kilns, smelters, treasure chests, etc.  Find them in the Hammer Crafting tab once you unlock them.
+Savheim III - Hoppers are helpful when set up properly with kilns, smelters, treasure chests, etc.  Find them in the Hammer Crafting tab once you unlock them.
 Savheim III - Left mouse attacks, right mouse blocks, middle mouse does a special attack with most weapons.  Parry by blocking the moment the enemy would hit you.
-Savheim III - Block Armor = block value.  [Block Armor * Parry Bonus] = parry value.  Excess damage hits health.  Tower shields hit stamina before health.  Block Force does nothing.
-Savheim III - Backstab by Sneaking (Ctrl) and attacking something from behind that is not yet in combat.  Your weapon's backstab bonus will multiply damage.
-Savheim III - If an enemy is already in combat, you'll still get flanking bonus damage for attacking its back, but the bonus is constant per weapon type (unrelated to backstab stat).
-Savheim III - Dual wield pairs of swords, clubs, knives, or axes by equipping two of the same class.  Try the special attack!
-Savheim III - Dual wield considers only the mainhand weapon for base damage.  Dual wield damage scales with weapon type skill (i.e. "Swords") and a bit with associated Dual Wield skill.
+Savheim III - Block Armor = block value.  [Block Armor * Parry Bonus] = parry value.  Excess damage drain health.  Tower shields drain stamina before health.  Block Force does nothing.
+Savheim III - Backstab: sneaking, attack from behind, and enemy not in combat.  Flanking: Attack an enemy's back.  Critical:  Attack a staggered enemy.
+Savheim III - Dual wield pairs of swords, clubs, knives, or axes by equipping two of the same class.  Try the special attack!  Dual_* skill level and offhand stats don't affect damage.
 Savheim III - Most resources, including dungeons, will respawn eventually, but very slowly.
 Savheim III - Try to unlock as many recipes as you can...  Bronze Nails?  What do I need those for?  Craft them and see!
 Savheim III - Those who venture far return wealthy... if they return at all.
 Savheim III - Store surtling cores in boat inventories, then press Shift while controlling the boat.  Beware capsizing!
-Savheim III - Free rotate while building: Hold Numpad 1, 2, or 3 and spin mouse wheel.  Copy rotation: Numpad 0.  Perpendicular: Numpad Period.
-Savheim III - Change these keybinds in your game: Toggle Walk, Sit.  Avoid Z, X, C, F, G, T.
-Savheim III - Try offering various early game items to Eikthyr's altar.
-Savheim III - Recommended game settings:  Disable Depth of Field, Chromatic Aberration, and Motion Blur.  You can also disable Key Hints & Raven Hints.
+Savheim III - Free rotate while building: Hold L, I, or K (X, Y, and Z, respectively) and spin mouse wheel.  Copy rotation: O.  Perpendicular: P.
+Savheim III - Change these keybinds in your game: Toggle Walk, Sit.  Recommended: , and .  (avoid Z, X, C, F, G, T, I, O, P, K, and L)
+Savheim III - Try offering various early game items to Eikthyr's altar.  TALK TO HUGIN REPEATEDLY to unlock vital mod info in your Valheim Compendium (inventory -> raven icon).
+Savheim III - Recommended game settings:  Disable Depth of Field, Chromatic Aberration, and Motion Blur.  You can also disable Key Hints.  Keep Raven Hints on!
+Savheim III - Use 'E' to pull with the harpoon...  With great power comes great responsibility.
+Savheim III - You can remove gems from crafted gear.  You cannot remove gems from dropped gear.
+Savheim III - You've learned to swim!  Use crouch and jump keys.
+Savheim III - You need to eat special food to have eitr...  Wait.  eiter?  eater!?  You're an eater!  A magical eater!!  It all makes sense now.
+
