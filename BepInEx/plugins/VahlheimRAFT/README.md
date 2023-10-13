@@ -1,3 +1,14 @@
+## 
+
+Sadly <https://valheim.thunderstore.io/package/Mechanik/ValheimRAFT/1.4.9/> messed up with the original mod structure which smashed the ingame description. So we decided to reupload this mod again.
+
+**Please check original link for updates as we dont want to maintain this package!**
+
+Readme from Mechanik below:
+
+---
+
+
 ### From NexusTransfer Team
 THIS IS A REUPLOAD FROM NEXUSMODS WITH PERMISSION FROM SARCEN FOR UPLOAD. FULL CREDIT FOR THE MOD GOES TO THEM. LINK TO THE NEXUSMODS PAGE IS INCLUDED BELOW.
 https://www.nexusmods.com/valheim/mods/1136?tab=files

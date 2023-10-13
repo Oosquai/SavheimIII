@@ -1,6 +1,11 @@
+Welcome to Savheim III!
+- MUST CHANGE KEYBINDS:  Toggle Walk=,  Sit=.
+- Recommended:  Depth of Field=Off, Chromatic Aberration=Off, Motion Blur=Off.
+- You can disable Key Hints, but keep Raven Hints!
+- Move 3-hotkeys: Esc, Left-Alt + drag.  Move chest inventory: Left-Alt + drag.  Move deathlog: Esc, drag.
 
-Savheim III Patch Notes - 10/11/23
-- Welcome to Savheim III!
+*** Patch notes, 10/12/23
+- Stuff
 
 -----------------------------------------------------------
 Official Valheim Changelog
