@@ -17,11 +17,14 @@ Savheim III - Free rotate while building: Hold L, I, or K (X, Y, and Z, respecti
 Savheim III - Change these keybinds in your game: Toggle Walk, Sit.  Recommended: , and .  (avoid Z, X, C, F, G, T, I, O, P, K, and L)
 Savheim III - TALK TO HUGIN REPEATEDLY to learn, and keep learning, of Legends.  View them after in your Valheim Compendium (inventory -> raven icon).
 Savheim III - Recommended game settings:  Disable Depth of Field, Chromatic Aberration, and Motion Blur.  You can also disable Key Hints.  Keep Raven Hints on!
-Savheim III - Use 'E' to pull with the harpoon...  With great power comes great responsibility.
+Savheim III - Use 'E' to pull with the harpoon.  You'd normally harpoon things that are lighter than you, right?  ... with great power comes great responsibility.
 Savheim III - You can remove gems from crafted gear, but not from dropped gear.
-Savheim III - You've learned to swim while holding things in your hands!  And you learned how to dive!  Wat-er you waiting for??
+Savheim III - You've learned to swim while holding things in your hands!  Wat-er you waiting for??
 Savheim III - You need to eat special food to have eitr...  Wait.  eiter?  eater!?  You're an eater!  A magical eater!!  It all makes sense now.
 Savheim III - Items on the ground in the wild will despawn after 4 hours.
 Savheim III - Wards do stuff now: close doors, no death penalty, no food drain, infinite fires, no weather damage, auto repair, stamina boost.  Advanced wards also slowly damage enemies.
 Savheim III - Try offering various early game items to Eikthyr's altar.
-Savheim III - Custom rafts can't be controlled from their rudders.  Craft and place a helm instead.  Interact with the helm, then press Shift to lift the anchor.
+Savheim III - Custom rafts cannot be controlled from their rudders.  Craft and place a helm instead.  Interact with the helm, then press Shift to lift the anchor.
+Savhiem III - Keep an eye on your workbench after killing bosses or looting unusual materials for some beastly new recipes.
+Savheim III - Endgame zones will be entirely new experiences since Savheim II!
+Savheim III - This version of Savheim takes several steps to safeguard performance.

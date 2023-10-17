@@ -3,8 +3,9 @@
 - Recommended Graphics:  Depth of Field=Off, Chromatic Aberration=Off, Motion Blur=Off.
 - You can disable Key Hints, but keep Raven Hints on!
 - Move 3-hotkeys: Esc, Left-Alt + drag.  Move chest inventory: Left-Alt + drag.  Move deathlog: Esc, drag.
+- Patch Notes history: ...\Steam\steamapps\common\Valheim\
 __ 0/____________________
-     0\  Patch notes, 10/12/23
+     0\  Patch Notes, 10/12/23
 - Stuff
 
 ------------------------------------------------------------------
