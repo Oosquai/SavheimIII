@@ -8,7 +8,7 @@ Savheim III - Mouse over the "Craft" tab at crafting tables for a filter.
 Savheim III - Hoppers are helpful when set up properly with kilns, smelters, treasure chests, etc.  Find them in the Hammer Crafting tab once you unlock them.
 Savheim III - Block Armor = block value.  [Block Armor * Parry Bonus] = parry value.  Excess damage drains health.  Tower shields drain stamina before health.  Block Force does nothing.
 Savheim III - Backstab: sneaking, attack from behind, and enemy not in combat.  Flanking: Attack an enemy's back.  Critical:  Attack a staggered enemy.
-Savheim III - Dual wield pairs of swords, clubs, knives, or axes by equipping two of the same class.  Try the special attack!  Dual_* skill level and offhand stats don't affect damage.
+*Savheim III - Dual wield pairs of swords, clubs, knives, or axes by equipping two of the same class.  Try the special attack!  Dual_* skill level and offhand stats don't affect damage.
 Savheim III - Most resources, including dungeons, will respawn eventually, but very slowly.
 Savheim III - Try to unlock as many recipes as you can...  Bronze Nails?  What do I need those for?  Craft them and see!
 Savheim III - Those who venture far return wealthy... if they return at all.
