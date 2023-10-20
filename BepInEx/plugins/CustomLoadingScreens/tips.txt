@@ -28,3 +28,4 @@ Savheim III - Custom rafts cannot be controlled from their rudders.  Craft and p
 Savhiem III - Keep an eye on your workbench after killing bosses or looting unusual materials for some beastly new recipes.
 Savheim III - Endgame zones will be entirely new experiences since Savheim II!
 Savheim III - This version of Savheim takes several steps to safeguard performance.
+Savheim III - Fall damage hurts, but there are many ways to deal with it.  Try making a ward!
