@@ -1,0 +1,41 @@
+*** Savheim III Patch Notes History ***
+
+
+*** All Savheim III Loading Screen Tips ***
+Savheim III - Press ~ (above Tab) to swap hotbars.  Middle mouse does a special attack with most weapons.  Parry by blocking the moment you'd get hit.
+Savheim III - Swords - on-demand damage types.  Clubs - stagger.  Daggers - flanking, crit, and unique dodge.  Axes - chain attack DPS.  Spears - throwable.
+Savheim III - Greatswords - parry.  Atgiers - knocback.  Sledges - AOE.  Battleaxes - damage.  Claws - flanking, crit, kick, and unique dodge.
+Savheim III - Bucklers excel at parrying.  Tower shields let you block for days.  Medium shields are a blend of both.
+Savheim III - Move deathlog: When visible, press Esc, then click and drag.  Move extra hotkeys: Esc, Left-Alt + drag.  Move chest inventory: Left-Alt + drag.
+Savheim III - Put a Rune Focus on your hotbar and then tap that hotkey while facing a lore stone.
+Savheim III - Mouse over the "Craft" tab at crafting tables for a filter.
+Savheim III - Hoppers are helpful when set up properly with kilns, smelters, treasure chests, etc.  Find them in the Hammer Crafting tab once you unlock them.
+Savheim III - Block Armor = block value.  [Block Armor * Parry Bonus] = parry value.  Excess damage drains health.  Tower shields drain stamina before health.  Block Force does nothing.
+Savheim III - Backstab: sneaking, attack from behind, and enemy not in combat.  Flanking: Attack an enemy's back.  Critical:  Attack a staggered enemy.
+*Savheim III - Dual wield pairs of swords, clubs, knives, or axes by equipping two of the same class.  Try the special attack!  Dual_* skill level and offhand stats don't affect damage.
+Savheim III - Most resources, including dungeons, will respawn eventually, but very slowly.
+Savheim III - Try to unlock as many recipes as you can...  Bronze Nails?  What do I need those for?  Craft them and see!
+Savheim III - Those who venture far return wealthy... if they return at all.
+Savheim III - Store surtling cores in boat inventories, then press Shift while controlling the boat.  Does not work on custom rafts.  Beware capsizing!
+Savheim III - Free rotate while building: Hold L, I, or K (X, Y, and Z, respectively) and spin mouse wheel.  Copy rotation: O.  Perpendicular: P.
+Savheim III - Change these keybinds in your game: Toggle Walk, Sit.  Recommended: , and .  (avoid Z, X, C, F, G, T, I, O, P, K, and L)
+Savheim III - TALK TO HUGIN REPEATEDLY to learn, and keep learning, of Legends.  View them after in your Valheim Compendium (inventory -> raven icon).
+Savheim III - Recommended game settings:  Disable Depth of Field, Chromatic Aberration, and Motion Blur.  You can also disable Key Hints.  Keep Raven Hints on!
+Savheim III - Use 'E' to pull with the harpoon.  You'd normally harpoon things that are lighter than you, right?  ... with great power comes great responsibility.
+Savheim III - You can remove gems from crafted gear, but not from dropped gear.
+Savheim III - You've learned to swim while holding things in your hands!  Wat-er you waiting for??
+Savheim III - You need to eat special food to have eitr...  Wait.  eiter?  eater!?  You're an eater!  A magical eater!!  It all makes sense now.
+Savheim III - Items on the ground in the wild will despawn after 4 hours.
+Savheim III - Wards do stuff now: close doors, no death penalty, no food drain, infinite fires, no weather damage, auto repair, stamina boost.  Advanced wards also slowly damage enemies.
+Savheim III - Try offering various early game items to Eikthyr's altar.
+Savheim III - Custom rafts cannot be controlled from their rudders.  Craft and place a helm instead.  Interact with the helm, then press Shift to lift the anchor.
+Savhiem III - Keep an eye on your workbench after killing bosses or looting unusual materials for some beastly new recipes.
+Savheim III - Endgame zones will be entirely new experiences since Savheim II!
+Savheim III - This version of Savheim takes several steps to safeguard performance.
+
+*** Savheim III Title Screen Header Tips ***
+- MUST CHANGE Controls: Toggle Walk, Sit.  Recommended: , .
+- Keys reserved by mods: Z, X, C, F, G, T, I, O, P, K, L
+- Recommended Graphics:  Depth of Field=Off, Chromatic Aberration=Off, Motion Blur=Off.
+- You can disable Key Hints, but keep Raven Hints on!
+- Move 3-hotkeys: Esc, Left-Alt + drag.  Move chest inventory: Left-Alt + drag.  Move deathlog: Esc, drag.
