@@ -1,5 +1,5 @@
 Savheim III - Press ~ (above Tab) to swap hotbars.  Middle mouse does a special attack with most weapons.  Parry by blocking the moment you'd get hit.
-Savheim III - Swords - on-demand damage types.  Clubs - stagger.  Daggers - flanking, crit, and unique dodge.  Axes - chain attack DPS.  Spears - throwable.
+Savheim III - Swords - on-demand damage types.  Clubs - stagger.  Daggers - flanking, crit, and unique dodge.  Axes - chain attack DPS.  Spears - throwable (with slow auto-return to prevent loss) and improved melee attack range.
 Savheim III - Greatswords - parry.  Atgiers - knocback.  Sledges - AOE.  Battleaxes - damage.  Claws - flanking, crit, kick, and unique dodge.
 Savheim III - Bucklers excel at parrying.  Tower shields let you block for days.  Medium shields are a blend of both.
 Savheim III - Move deathlog: When visible, press Esc, then click and drag.  Move extra hotkeys: Esc, Left-Alt + drag.  Move chest inventory: Left-Alt + drag.
@@ -11,13 +11,12 @@ Savheim III - Backstab: sneaking, attack from behind, and enemy not in combat.  
 *Savheim III - Dual wield pairs of swords, clubs, knives, or axes by equipping two of the same class.  Try the special attack!  Dual_* skill level and offhand stats don't affect damage.
 Savheim III - Most resources, including dungeons, will respawn eventually, but very slowly.
 Savheim III - Try to unlock as many recipes as you can...  Bronze Nails?  What do I need those for?  Craft them and see!
-Savheim III - Those who venture far return wealthy... if they return at all.
+Savheim III - The world gets more dangerous the further from center you travel.  Those who venture far return wealthy... if they return at all.
 Savheim III - Store surtling cores in boat inventories, then press Shift while controlling the boat.  Does not work on custom rafts.  Beware capsizing!
 Savheim III - Free rotate while building: Hold L, I, or K (X, Y, and Z, respectively) and spin mouse wheel.  Copy rotation: O.  Perpendicular: P.
 Savheim III - Change these keybinds in your game: Toggle Walk, Sit.  Recommended: , and .  (avoid Z, X, C, F, G, T, I, O, P, K, and L)
 Savheim III - TALK TO HUGIN REPEATEDLY to learn, and keep learning, of Legends.  View them after in your Valheim Compendium (inventory -> raven icon).
 Savheim III - Recommended game settings:  Disable Depth of Field, Chromatic Aberration, and Motion Blur.  You can also disable Key Hints.  Keep Raven Hints on!
-Savheim III - Use 'E' to pull with the harpoon.  You'd normally harpoon things that are lighter than you, right?  ... with great power comes great responsibility.
 Savheim III - You can remove gems from crafted gear, but not from dropped gear.
 Savheim III - You've learned to swim while holding things in your hands!  Wat-er you waiting for??
 Savheim III - You need to eat special food to have eitr...  Wait.  eiter?  eater!?  You're an eater!  A magical eater!!  It all makes sense now.
@@ -28,4 +27,6 @@ Savheim III - Custom rafts cannot be controlled from their rudders.  Craft and p
 Savhiem III - Keep an eye on your workbench after killing bosses or looting unusual materials for some beastly new recipes.
 Savheim III - Endgame zones will be entirely new experiences since Savheim II!
 Savheim III - This version of Savheim takes several steps to safeguard performance.
-Savheim III - Fall damage hurts, but there are many ways to deal with it.  Try making a ward!
+Savheim III - Slope combat works much better now, but you have to aim properly!
+Savheim III - Some vikings have discovered ways to travel faster.  What happens when vikings travel too fast?  Dead vikings.  Leave your items home when practicing new forms of travel.  You've been warned.
+Savheim III - Harpoons now reel in with the Use key, but what happens if you've hooked an immovable object?  With great power comes great responsibility.
