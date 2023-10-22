@@ -25,42 +25,202 @@
 #      - Display Name
 #      - InternalID
 
-# Examples:
 groups:
-  Huge Wood Gain:
-    - Wood
-    - Fine Wood
-    - Core Wood
-    - Ancient Bark
+  Beasts:
+    - fox
+    - greyfox
+    - panther
+    - panther_yellow
+    - lynx
+    - snowleopard
+    - lizard
+#    - dragon
+#    - wolf
 
-# This will increase the default stack size for all items in this group by 50% (multiplied by 1.5).
-Huge Wood Stacks:
-  stack factor: 1.5
+  Helmet:
+    - HelmetBronze
+    - HelmetDrake
+    - HelmetDverger
+    - HelmetIron
+    - HelmetLeather
+    - HelmetOdin
+    - HelmetPadded
+    - HelmetRoot
+    - HelmetTrollLeather
+    - HelmetYule
 
-# This will increase wood gained by 10%, until you reach the first world level.
-wood:
-  amount:
-    0: 1.1
-    1: default
-    
-# This will make dragon eggs teleportable.
-dragon egg:
-  teleportable: yes
-  
-# This will make silver ore lighter and increase the stack size.
-silver ore:
-  weight: 10
-  stack: 50
-  
-# This will make you keep your food in the inventory, if you happen to die.
-food:
+  Chest:
+    - ArmorBronzeChest
+    - ArmorIronChest
+    - ArmorLeatherChest
+    - ArmorPaddedCuirass
+    - ArmorRagsChest
+    - ArmorRootChest
+    - ArmorTrollLeatherChest
+    - ArmorWolfChest
+  Legs:
+    - ArmorBronzeLegs
+    - ArmorIronLegs
+    - ArmorLeatherLegs
+    - ArmorPaddedGreaves
+    - ArmorRagsLegs
+    - ArmorRootLegs
+    - ArmorTrollLeatherLegs
+    - ArmorWolfLegs
+
+  Shoulder:
+    - CapeDeerHide
+    - CapeLinen
+    - CapeLox
+    - CapeOdin
+    - CapeTest
+    - CapeTrollHide
+    - CapeWolf
+
+  Utility:
+    - BeltStrength
+    - Wishbone
+    - SaddleLox
+    - CryptKey
+
+  TwoHandedWeapon:
+    - AtgeirBlackmetal
+    - AtgeirBronze
+    - AtgeirIron
+    - Battleaxe
+    - BattleaxeCrystal
+    - FishingRod
+    - PickaxeAntler
+    - PickaxeBronze
+    - PickaxeIron
+    - PickaxeStone
+    - SledgeCheat
+    - SledgeIron
+    - SledgeStagbreaker
+
+  OneHandedWeapon:
+    - AxeBlackMetal
+    - AxeBronze
+    - AxeFlint
+    - AxeIron
+    - AxeStone
+    - BombOoze
+    - Club
+    - KnifeBlackMetal
+    - KnifeButcher
+    - KnifeChitin
+    - KnifeCopper
+    - KnifeFlint
+    - KnifeSilver
+    - MaceBronze
+    - MaceIron
+    - MaceNeedle
+    - MaceSilver
+    - SpearBronze
+    - SpearChitin
+    - SpearElderbark
+    - SpearFlint
+    - SpearWolfFang
+    - SwordBlackmetal
+    - SwordBronze
+    - SwordCheat
+    - SwordIron
+    - SwordIronFire
+    - SwordSilver
+    - Tankard
+    - TankardOdin
+
+  Shield:
+    - ShieldBlackmetal
+    - ShieldBlackmetalTower
+    - ShieldBoneTower
+    - ShieldIronBuckler
+    - ShieldIronSquare
+    - ShieldIronTower
+    - ShieldKnight
+    - ShieldSerpentscale
+    - ShieldSilver
+    - ShieldWoodTower
+
+  Torch:
+    - Torch
+
+  Bow:
+    - Bow
+    - BowDraugrFang
+    - BowFineWood
+    - BowHuntsman
+
+  Tool:
+    - Cultivator
+    - Hammer
+    - Hoe
+
+  Ammo:
+    - ArrowBronze
+    - ArrowFire
+    - ArrowFlint
+    - ArrowFrost
+    - ArrowIron
+    - ArrowNeedle
+    - ArrowObsidian
+    - ArrowPoison
+    - ArrowSilver
+    - ArrowWood
+
+  Consumable:
+    - BarleyWine
+    - BlackSoup
+    - BloodPudding
+    - BoarJerky
+    - Bread
+    - CarrotSoup
+    - CookedDeerMeat
+    - CookedLoxMeat
+    - CookedMeat
+    - CookedWolfMeat
+    - DeerStew
+    - Eyescream
+    - FishCooked
+    - FishWraps
+    - LoxPie
+    - MeadFrostResist
+    - MeadHealthMedium
+    - MeadHealthMinor
+    - MeadPoisonResist
+    - MeadStaminaMedium
+    - MeadStaminaMinor
+    - MeadTasty
+    - MinceMeatSauce
+    - NeckTailGrilled
+    - OnionSoup
+    - QueensJam
+    - Sausages
+    - SerpentMeatCooked
+    - SerpentStew
+    - ShocklateSmoothie
+    - TurnipStew
+    - WolfJerky
+    - WolfMeatSkewer
+
+  AllEquipment:
+    - Ammo
+    - Bow
+    - Chest
+    - Helmet
+    - Legs
+    - OneHandedWeapon
+    - TwoHandedWeapon
+    - Shield
+    - Shoulder
+    - Utility
+    - Tool
+    - Torch
+
+  NoLossOnDeath:
+    - AllEquipment
+    - Beasts
+    - Consumable
+
+NoLossOnDeath:
   loss: no
-  
-# This will stop your character from picking up Ooze automatically.
-ooze:
-  pickup: no
-  
-# This will make metal float in water and teleportable.
-metal:
-  floating: yes
-  teleportable: yes
