@@ -29,4 +29,6 @@ Savheim III - Endgame zones will be entirely new experiences since Savheim II!
 Savheim III - This version of Savheim takes several steps to safeguard performance.
 Savheim III - Slope combat works much better now, but you have to aim properly!
 Savheim III - Some vikings have discovered ways to travel faster.  What happens when vikings travel too fast?  Dead vikings.  Leave your items home when practicing new forms of travel.  You've been warned.
-Savheim III - Harpoons now reel in with the Use key, but what happens if you've hooked an immovable object?  With great power comes great responsibility.
+Savheim III - Harpoons now equip instantly and have a basic secondary attack.  Primary attack tethers, and then the Use key reels the tether in if it's lighter than you...  with great power comes great responsibility.
+Savheim III - Stealth no longer consumes stamina.  Swimming consumes significantly less stamina.  Stamina regenerates faster in general.
+Savheim III - Death went to therapy and is nicer now.  You'll no longer drop equipment or consumables when you die, and you'll lose far less experience.  Resurrect each other with Surtling Cores.
