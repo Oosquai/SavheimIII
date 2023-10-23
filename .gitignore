@@ -7,3 +7,8 @@ valheim.exe
 BepInEx/LogOutput.log
 BepInEx/cache/harmony_interop_cache.dat
 BepInEx/cache/chainloader_typeloader.dat
+BepInEx/config/wackyDatabase-BulkYML
+BepInEx/plugins/WarfareFireAndIce.dll
+BepInEx/plugins/Warfare.dll
+BepInEx/plugins/Monstrum.dll
+

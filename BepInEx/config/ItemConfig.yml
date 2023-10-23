@@ -224,3 +224,7 @@ groups:
 
 NoLossOnDeath:
   loss: no
+
+Ammo:
+  stack factor: 2
+  weight factor: 0.25

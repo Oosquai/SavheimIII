@@ -32,3 +32,4 @@ Savheim III - Some vikings have discovered ways to travel faster.  What happens 
 Savheim III - Harpoons now equip instantly and have a basic secondary attack.  Primary attack tethers, and then the Use key reels the tether in if it's lighter than you...  with great power comes great responsibility.
 Savheim III - Stealth no longer consumes stamina.  Swimming consumes significantly less stamina.  Stamina regenerates faster in general.
 Savheim III - Death went to therapy and is nicer now.  You'll no longer drop equipment or consumables when you die, and you'll lose far less experience.  Resurrect each other with Surtling Cores.
+Savheim III - Boss powers are now passive and slightly reduced.
