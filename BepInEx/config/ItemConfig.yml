@@ -34,8 +34,8 @@ groups:
     - lynx
     - snowleopard
     - lizard
-#    - dragon
-#    - wolf
+    - dragon
+    - wolf
 
   Helmet:
     - HelmetBronze
@@ -167,6 +167,24 @@ groups:
     - ArrowPoison
     - ArrowSilver
     - ArrowWood
+    - BoltBlackmetal
+    - BoltBlunt_TW
+    - BoltBone
+    - BoltBronze_TW
+    - BoltCarapace
+    - BoltExplosiveFire_TW
+    - BoltExplosiveFrost_TW
+    - BoltExplosiveLightning_TW
+    - BoltExplosivePoison_TW
+    - BoltFire_TW
+    - BoltFlametal_TW
+    - BoltFrost_TW
+    - BoltIron
+    - BoltPickaxe_TW
+    - BoltPoison_TW
+    - BoltSilver_TW
+    - BoltTyranium_TW
+    - BoltWood_TW
 
   Consumable:
     - BarleyWine
@@ -222,9 +240,15 @@ groups:
     - Beasts
     - Consumable
 
+  DontSink:
+    - SerpentScale
+
 NoLossOnDeath:
   loss: no
 
 Ammo:
   stack factor: 2
   weight factor: 0.25
+
+DontSink:
+  floating: yes

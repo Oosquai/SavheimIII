@@ -1,20 +1,21 @@
 Savheim III - Press ~ (above Tab) to swap hotbars.  Middle mouse does a special attack with most weapons.  Parry by blocking the moment you'd get hit.
 Savheim III - Swords - on-demand damage types.  Clubs - stagger.  Daggers - flanking, crit, and unique dodge.  Axes - chain attack DPS.  Spears - throwable (with slow auto-return to prevent loss) and improved melee attack range.
-Savheim III - Greatswords - parry.  Atgiers - knocback.  Sledges - AOE.  Battleaxes - damage.  Claws - flanking, crit, kick, and unique dodge.
+Savheim III - Atgiers - AOE knockback.  Lances - knockback and bleed.  Claymores - parry.  Sledges - AOE.  Battlehammers - stagger.  Battleaxes - chain attack DPS.  Fists - flanking, crit, parry, and unique dodge.
 Savheim III - Bucklers excel at parrying.  Tower shields let you block for days.  Medium shields are a blend of both.
 Savheim III - Move deathlog: When visible, press Esc, then click and drag.  Move extra hotkeys: Esc, Left-Alt + drag.  Move chest inventory: Left-Alt + drag.
 Savheim III - Put a Rune Focus on your hotbar and then tap that hotkey while facing a lore stone.
 Savheim III - Mouse over the "Craft" tab at crafting tables for a filter.
 Savheim III - Hoppers are helpful when set up properly with kilns, smelters, treasure chests, etc.  Find them in the Hammer Crafting tab once you unlock them.
-Savheim III - Block Armor = block value.  [Block Armor * Parry Bonus] = parry value.  Excess damage drains health.  Tower shields drain stamina before health.  Block Force does nothing.
+Savheim III - Block Armor = how much you can block.  [Block Armor * Parry Bonus] = how much you can parry.  Excess damage drains health.  Tower shields drain stamina before health.  Block Force does nothing.
 Savheim III - Backstab: sneaking, attack from behind, and enemy not in combat.  Flanking: Attack an enemy's back.  Critical:  Attack a staggered enemy.
-*Savheim III - Dual wield pairs of swords, clubs, knives, or axes by equipping two of the same class.  Try the special attack!  Dual_* skill level and offhand stats don't affect damage.
+*Savheim III - Dual wield pairs of swords, clubs, knives, or axes by equipping two of the same class.  Try the special attack!  Offhand weapon stats don't affect damage, but they do affect block and parry.
 Savheim III - Most resources, including dungeons, will respawn eventually, but very slowly.
 Savheim III - Try to unlock as many recipes as you can...  Bronze Nails?  What do I need those for?  Craft them and see!
 Savheim III - The world gets more dangerous the further from center you travel.  Those who venture far return wealthy... if they return at all.
 Savheim III - Store surtling cores in boat inventories, then press Shift while controlling the boat.  Does not work on custom rafts.  Beware capsizing!
-Savheim III - Free rotate while building: Hold L, I, or K (X, Y, and Z, respectively) and spin mouse wheel.  Copy rotation: O.  Perpendicular: P.
-Savheim III - Change these keybinds in your game: Toggle Walk, Sit.  Recommended: , and .  (avoid Z, X, C, F, G, T, I, O, P, K, and L)
+Savheim III - Free rotate while building: Hold L, I, or K (rotate about X, Y, and Z, axis respectively) and spin mouse wheel.  Copy rotation: O.  Perpendicular: P.
+Savheim III - Advanced Build Mode:  Enter - F1, Exit - F3, Move pieces - Arrow keys, Copy rotation - Keypad7, Apply rotation - Keypad8, Increase movement & rotation - KeypadPlus, Reduce movement & rotation - KeypadMinus.
+Savheim III - Change these keybinds in your game: Toggle Walk, Sit.  Recommended: , and .  (reserved by mods: Z, X, C, F, G, T, I, O, P, K, L, F1, F3, Arrow keys, Keypad7, Keypad8, KeypadPlus, and KeypadMinus).
 Savheim III - TALK TO HUGIN REPEATEDLY to learn, and keep learning, of Legends.  View them after in your Valheim Compendium (inventory -> raven icon).
 Savheim III - Recommended game settings:  Disable Depth of Field, Chromatic Aberration, and Motion Blur.  You can also disable Key Hints.  Keep Raven Hints on!
 Savheim III - You can remove gems from crafted gear, but not from dropped gear.

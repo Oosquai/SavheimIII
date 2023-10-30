@@ -1,8 +1,10 @@
-- <color=red>MUST CHANGE Controls</color>:  Toggle Walk, Sit.  Recommended:  , .
+- <color=red>MUST CHANGE Controls</color>:  <color=#BBBBBB>Toggle Walk</color>, <color=#BBBBBB>Sit</color>.  Recommended:  , .
 - Keys reserved by mods:  Z, X, C, F, G, T, I, O, P, K, L
-- Recommended Graphics:  Depth of Field=Off, Chromatic Aberration=Off, Motion Blur=Off.
+- Recommended Graphics Settings:  Depth of Field=Off,
+   Chromatic Aberration=Off, Motion Blur=Off.
 - You can disable Key Hints, but keep Raven Hints on!
-- Move 3-hotkeys:  Esc, Left-Alt + drag.  Move chest inventory:  Left-Alt + drag.  Move deathlog:  Esc, drag.
+- Move 3-hotkeys:  Esc, Left-Alt + drag.  Move chest inventory:
+   Left-Alt + drag.  Move deathlog:  Esc, drag.
 - Patch Notes history:  <color=blue>...\Steam\steamapps\common\Valheim\</color>
 <color=yellow>__ 0/_______________________________
      0\  Savheim III Patch Notes, 10/12/23</color>
