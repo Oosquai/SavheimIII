@@ -23,7 +23,7 @@ Primary_Attack:
   SpeedFactor: 0.3
   DmgMultiplier: 1.2
   ForceMultiplier: 1
-  StaggerMultiplier: 1.2
+  StaggerMultiplier: 1
   RecoilMultiplier: 0
   AttackRange: 2.5
   AttackHeight: 1
@@ -73,7 +73,7 @@ Secondary_Attack:
   SpeedFactor: 0.3
   DmgMultiplier: 1
   ForceMultiplier: 4
-  StaggerMultiplier: 1.2
+  StaggerMultiplier: 1
   RecoilMultiplier: 0
   AttackRange: 2
   AttackHeight: 0
@@ -145,7 +145,7 @@ SE_Equip:
 SE_SET_Equip: 
 ShieldStats:
   m_blockPower: 40
-  m_blockPowerPerLevel: 0
+  m_blockPowerPerLevel: 2
   m_timedBlockBonus: 2
   m_deflectionForce: 50
   m_deflectionForcePerLevel: 10
@@ -159,13 +159,13 @@ spawn_on_terrain_hit:
 m_questItem: false
 m_teleportable: true
 m_backstabbonus: 2
-m_knockback: 30
+m_knockback: 10
 m_useDurability: true
 m_useDurabilityDrain: 1
 m_durabilityDrain: 0
 m_maxDurability: 200
 m_durabilityPerLevel: 100
-m_equipDuration: 0.2
+m_equipDuration: 0
 m_skillType: Clubs
 m_animationState: TwoHandedAxe
 m_itemType: TwoHandedWeapon

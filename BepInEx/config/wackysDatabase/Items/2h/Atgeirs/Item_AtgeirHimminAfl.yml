@@ -137,7 +137,7 @@ SE_Equip:
 SE_SET_Equip: 
 ShieldStats:
   m_blockPower: 64
-  m_blockPowerPerLevel: 0
+  m_blockPowerPerLevel: 2
   m_timedBlockBonus: 2
   m_deflectionForce: 40
   m_deflectionForcePerLevel: 5
@@ -157,7 +157,7 @@ m_useDurabilityDrain: 1
 m_durabilityDrain: 0
 m_maxDurability: 175
 m_durabilityPerLevel: 50
-m_equipDuration: 0.2
+m_equipDuration: 0
 m_skillType: Polearms
 m_animationState: Atgeir
 m_itemType: TwoHandedWeapon
