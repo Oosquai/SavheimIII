@@ -15,7 +15,7 @@ Primary_Attack:
   Attack_Random_Animation: 0
   Chain_Attacks: 0
   Hit_Terrain: true
-  Custom_AttackSpeed: 1.3
+  Custom_AttackSpeed: 1.2
   m_attackStamina: 5
   m_eitrCost: 0
   AttackHealthCost: 0
@@ -23,7 +23,7 @@ Primary_Attack:
   SpeedFactor: 0.1
   DmgMultiplier: 1
   ForceMultiplier: 1
-  StaggerMultiplier: 1
+  StaggerMultiplier: 1.5
   RecoilMultiplier: 0
   AttackRange: 1.8
   AttackHeight: 1
@@ -68,7 +68,7 @@ Secondary_Attack:
   SpeedFactor: 0.2
   DmgMultiplier: 1
   ForceMultiplier: 1
-  StaggerMultiplier: 1
+  StaggerMultiplier: 1.5
   RecoilMultiplier: 0
   AttackRange: 1.5
   AttackHeight: 0.6
@@ -106,7 +106,7 @@ Damage:
   Fire: 0
   Frost: 0
   Lightning: 0
-  Pickaxe: 49
+  Pickaxe: 65
   Pierce: 49
   Poison: 0
   Slash: 0

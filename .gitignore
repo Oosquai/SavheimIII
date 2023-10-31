@@ -11,4 +11,5 @@ BepInEx/config/wackyDatabase-BulkYML
 BepInEx/plugins/WarfareFireAndIce.dll
 BepInEx/plugins/Warfare.dll
 BepInEx/plugins/Monstrum.dll
+BepInEx/plugins/MonstrumAshlands.dll
 

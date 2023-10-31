@@ -247,7 +247,7 @@ NoLossOnDeath:
   loss: no
 
 Ammo:
-  stack factor: 2
+  stack factor: 1.25
   weight factor: 0.25
 
 DontSink:
