@@ -34,7 +34,7 @@ Primary_Attack:
   Reload_Stamina_Drain: 0
   Bow_Draw: true
   Bow_Duration_Min: 2.3
-  Bow_Stamina_Drain: 14
+  Bow_Stamina_Drain: 16
   Bow_Animation_State: bow_aim
   Attack_Angle: 90
   Attack_Ray_Width: 0
@@ -148,13 +148,13 @@ spawn_on_terrain_hit:
 m_questItem: false
 m_teleportable: true
 m_backstabbonus: 3
-m_knockback: 20
+m_knockback: 0
 m_useDurability: true
 m_useDurabilityDrain: 1
 m_durabilityDrain: 0
-m_maxDurability: 200
+m_maxDurability: 300
 m_durabilityPerLevel: 100
-m_equipDuration: 0.2
+m_equipDuration: 0
 m_skillType: Bows
 m_animationState: Bow
 m_itemType: Bow

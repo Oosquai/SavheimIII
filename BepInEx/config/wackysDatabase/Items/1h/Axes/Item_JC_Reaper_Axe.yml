@@ -16,7 +16,7 @@ Primary_Attack:
   Chain_Attacks: 2
   Hit_Terrain: true
   Custom_AttackSpeed: 1.1
-  m_attackStamina: 16
+  m_attackStamina: 14
   m_eitrCost: 0
   AttackHealthCost: 0
   m_attackHealthPercentage: 0
@@ -61,7 +61,7 @@ Secondary_Attack:
   Chain_Attacks: 0
   Hit_Terrain: true
   Custom_AttackSpeed: 1.1
-  m_attackStamina: 32
+  m_attackStamina: 28
   m_eitrCost: 0
   AttackHealthCost: 0
   m_attackHealthPercentage: 0
@@ -102,26 +102,26 @@ Secondary_Attack:
 Damage:
   Blunt: 0
   Chop: 70
-  Damage: 0
+  Damage: 120
   Fire: 0
   Frost: 0
   Lightning: 0
   Pickaxe: 0
   Pierce: 0
   Poison: 0
-  Slash: 140
+  Slash: 0
   Spirit: 0
 Damage_Per_Level:
   Blunt: 0
   Chop: 3
-  Damage: 0
+  Damage: 6
   Fire: 0
   Frost: 0
   Lightning: 0
   Pickaxe: 0
   Pierce: 0
   Poison: 0
-  Slash: 5
+  Slash: 0
   Spirit: 0
 Armor:
   armor: 20

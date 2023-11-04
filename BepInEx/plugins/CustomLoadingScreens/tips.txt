@@ -1,6 +1,7 @@
 Savheim III - Press ~ (above Tab) to swap hotbars.  Middle mouse does a special attack with most weapons.  Parry by blocking the moment you'd get hit.
-Savheim III - Swords - on-demand damage types.  Clubs - stagger.  Daggers - flanking, crit, and unique dodge.  Axes - chain attack DPS.  Spears - throwable (with slow auto-return to prevent loss) and improved melee attack range.
-Savheim III - Atgiers - AOE knockback.  Lances - knockback and bleed.  Claymores - parry.  Sledges - AOE.  Battlehammers - stagger.  Battleaxes - chain attack DPS.  Fists - flanking, crit, parry, and unique dodge.
+Savheim III - Swords - on-demand damage types.  Clubs - stagger.  Daggers - flanking, crit, and unique dodge.  Axes - chain attack DPS.  Spears - throwable (with slow auto-return to prevent loss) and improved melee attack range.  Warpikes - stabby spears.
+Savheim III - Atgiers - AOE knockback.  Lances - knockback and bleed.  Claymores - parry.  Sledges - AOE.  Battlehammers - stagger.  Battleaxes - Execute or stagger poke.  Fists - flanking, crit, parry, and unique dodge.
+Savheim III - Bows - normal draw and projectile speeds.  Greatbows - slower draw speed, faster projectile speed, greater range and damage.  Crossbows - slow reload, very high damage and knockback.
 Savheim III - Bucklers excel at parrying.  Tower shields let you block for days.  Medium shields are a blend of both.
 Savheim III - Move deathlog: When visible, press Esc, then click and drag.  Move extra hotkeys: Esc, Left-Alt + drag.  Move chest inventory: Left-Alt + drag.
 Savheim III - Put a Rune Focus on your hotbar and then tap that hotkey while facing a lore stone.
@@ -29,7 +30,7 @@ Savhiem III - Keep an eye on your workbench after killing bosses or looting unus
 Savheim III - Endgame zones will be entirely new experiences since Savheim II!
 Savheim III - This version of Savheim takes several steps to safeguard performance.
 Savheim III - Slope combat works much better now, but you have to aim properly!
-Savheim III - Some vikings have discovered ways to travel faster.  What happens when vikings travel too fast?  Dead vikings.  Leave your items home when practicing new forms of travel.  You've been warned.
+Savheim III - Some vikings have discovered ways to travel faster.  What happens when vikings travel too fast?  Dead vikings.  You've been warned.
 Savheim III - Harpoons now equip instantly and have a basic secondary attack.  Primary attack tethers, and then the Use key reels the tether in if it's lighter than you...  with great power comes great responsibility.
 Savheim III - Stealth no longer consumes stamina.  Swimming consumes significantly less stamina.  Stamina regenerates faster in general.
 Savheim III - Death went to therapy and is nicer now.  You'll no longer drop equipment or consumables when you die, and you'll lose far less experience.  Resurrect each other with Surtling Cores.

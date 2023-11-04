@@ -102,27 +102,27 @@ Secondary_Attack:
 Damage:
   Blunt: 0
   Chop: 0
-  Damage: 0
+  Damage: 57
   Fire: 0
   Frost: 0
   Lightning: 0
-  Pickaxe: 49
-  Pierce: 49
+  Pickaxe: 76
+  Pierce: 0
   Poison: 0
   Slash: 0
-  Spirit: 0
+  Spirit: 30
 Damage_Per_Level:
   Blunt: 0
   Chop: 0
-  Damage: 0
+  Damage: 6
   Fire: 0
   Frost: 0
   Lightning: 0
   Pickaxe: 5
-  Pierce: 5
+  Pierce: 0
   Poison: 0
   Slash: 0
-  Spirit: 0
+  Spirit: 3
 Armor:
   armor: 20
   armorPerLevel: 1

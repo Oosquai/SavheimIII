@@ -34,7 +34,7 @@ Primary_Attack:
   Reload_Stamina_Drain: 0
   Bow_Draw: true
   Bow_Duration_Min: 2.5
-  Bow_Stamina_Drain: 14
+  Bow_Stamina_Drain: 12
   Bow_Animation_State: bow_aim
   Attack_Angle: 90
   Attack_Ray_Width: 0
@@ -102,27 +102,27 @@ Secondary_Attack:
 Damage:
   Blunt: 0
   Chop: 0
-  Damage: 0
+  Damage: 72
   Fire: 0
   Frost: 0
   Lightning: 0
   Pickaxe: 0
-  Pierce: 36
+  Pierce: 0
   Poison: 0
   Slash: 0
-  Spirit: 2.5
+  Spirit: 6
 Damage_Per_Level:
   Blunt: 0
   Chop: 0
-  Damage: 0
+  Damage: 3
   Fire: 0
   Frost: 0
   Lightning: 0
   Pickaxe: 0
-  Pierce: 2
+  Pierce: 0
   Poison: 0
   Slash: 0
-  Spirit: 2.5
+  Spirit: 1
 Armor:
   armor: 15
   armorPerLevel: 1
@@ -148,13 +148,13 @@ spawn_on_terrain_hit:
 m_questItem: false
 m_teleportable: true
 m_backstabbonus: 3
-m_knockback: 25
+m_knockback: 0
 m_useDurability: true
 m_useDurabilityDrain: 1
 m_durabilityDrain: 0
-m_maxDurability: 100
+m_maxDurability: 300
 m_durabilityPerLevel: 50
-m_equipDuration: 0.2
+m_equipDuration: 0
 m_skillType: Bows
 m_animationState: Bow
 m_itemType: Bow

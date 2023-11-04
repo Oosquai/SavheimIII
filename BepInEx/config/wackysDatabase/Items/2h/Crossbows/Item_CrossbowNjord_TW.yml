@@ -152,9 +152,9 @@ m_knockback: 230
 m_useDurability: true
 m_useDurabilityDrain: 1
 m_durabilityDrain: 0
-m_maxDurability: 200
-m_durabilityPerLevel: 100
-m_equipDuration: 0.2
+m_maxDurability: 300
+m_durabilityPerLevel: 75
+m_equipDuration: 0
 m_skillType: Crossbows
 m_animationState: Crossbow
 m_itemType: Bow
