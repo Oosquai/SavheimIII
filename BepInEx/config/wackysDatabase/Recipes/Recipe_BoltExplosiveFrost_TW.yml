@@ -1,0 +1,14 @@
+name: BoltExplosiveFrost_TW
+clonePrefabName: 
+craftingStation: $piece_ymirforge_TW
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: 
+amount: 20
+disabled: false
+requireOnlyOneIngredient: false
+reqs:
+- BorealWood_TW:4:0:True
+- TyraniumBar_TW:2:0:True
+- GlacierCrystal_TW:2:0:True
+- SwordCheat:1:0:True

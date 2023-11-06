@@ -167,6 +167,17 @@ groups:
     - ArrowPoison
     - ArrowSilver
     - ArrowWood
+    - TorchArrow
+    - MistTorchArrow
+    - ArrowCarapace
+    - ArrowBone_TW
+    - ArrowPickaxe_TW
+    - ArrowTyranium_TW
+    - ArrowFlametal_TW
+    - ArrowExplosiveLightning_TW
+    - ArrowExplosivePoison_TW
+    - ArrowExplosiveFrost_TW
+    - ArrowExplosiveFire_TW
     - BoltBlackmetal
     - BoltBlunt_TW
     - BoltBone
@@ -245,10 +256,6 @@ groups:
 
 NoLossOnDeath:
   loss: no
-
-Ammo:
-  stack factor: 1.25
-  weight factor: 0.25
 
 DontSink:
   floating: yes

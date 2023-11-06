@@ -1,0 +1,13 @@
+name: TorchArrow
+clonePrefabName: 
+craftingStation: $piece_workbench
+minStationLevel: 2
+maxStationLevelCap: 
+repairStation: 
+amount: 20
+disabled: false
+requireOnlyOneIngredient: false
+reqs:
+- Wood:8:0:True
+- Resin:8:0:True
+- DeerHide:2:0:True

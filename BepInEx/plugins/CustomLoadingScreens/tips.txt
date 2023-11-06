@@ -36,3 +36,6 @@ Savheim III - Stealth no longer consumes stamina.  Swimming consumes significant
 Savheim III - Death went to therapy and is nicer now.  You'll no longer drop equipment or consumables when you die, and you'll lose far less experience.  Resurrect each other with Surtling Cores.
 Savheim III - Boss powers are now passive and slightly reduced.
 Savheim III - Most weapon classes have received physics upgrades to give them unique and improved playstyles.  Give them all a second swing, even if you decided against them last playthrough.
+Savheim III - Zone progression:  Meadows -> Black Forest -> Swamp -> Mountains -> Plains -> Mistlands -> Ashlands & Deep North.  Ashlands and Deep North are equally-deadly end-game zones.
+Savheim III - Thank you to Iron Gate Studio for making Valheim such a beautiful game, to all the creative modders out there for so many massive additions to it, and to the community for beautiful fanart.
+Savheim III - Bows and Greatbows now have a zoom with right click while aiming, and you can press Interact (default E) to cancel the draw without firing an arrow.

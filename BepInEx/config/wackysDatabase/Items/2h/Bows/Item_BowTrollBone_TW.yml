@@ -1,7 +1,7 @@
 name: BowTrollBone_TW
 m_weight: 1.5
 m_name: $bow_trollbone_TW
-m_description: $bow_trollbone_description_TW
+m_description: "A light, quick bow made of troll bones that trades damage for speed."
 clonePrefabName: 
 mockName: 
 customIcon: 
@@ -33,8 +33,8 @@ Primary_Attack:
   ReloadTime: 2
   Reload_Stamina_Drain: 0
   Bow_Draw: true
-  Bow_Duration_Min: 2.5
-  Bow_Stamina_Drain: 7
+  Bow_Duration_Min: 1.5
+  Bow_Stamina_Drain: 5
   Bow_Animation_State: bow_aim
   Attack_Angle: 90
   Attack_Ray_Width: 0
@@ -44,7 +44,7 @@ Primary_Attack:
   Pickaxe_Special: false
   Last_Chain_Dmg_Multiplier: 2
   Attack_Projectile: 
-  Projectile_Vel: 60
+  Projectile_Vel: 50
   Projectile_Accuraccy: 0
   Projectiles: 1
   AEffects:
@@ -107,7 +107,7 @@ Damage:
   Frost: 0
   Lightning: 0
   Pickaxe: 0
-  Pierce: 37
+  Pierce: 25
   Poison: 0
   Slash: 0
   Spirit: 0
@@ -128,7 +128,7 @@ Armor:
   armorPerLevel: 1
 FoodStats: 
 Moddifiers:
-  m_movementModifier: -0.05
+  m_movementModifier: -0.03
   m_EitrRegen: 0
 SE_Equip: 
 SE_SET_Equip: 
