@@ -1,0 +1,20 @@
+# Items
+## Item names and descriptions
+
+item_campsite: "Campingplatz-Ressourcen"
+item_campsite_desc: "Grundlegendes Campingzubehör-Set für den Aufbau Ihres Campingplatzes."
+
+# Pieces
+## Buildable components
+
+piece_campsite_firepit: "Kleines Lagerfeuer"
+piece_campsite_firepit_desc: "Dieses gemütliche Lagerfeuer ist gerade groß genug, um Ihre Hände aufzuwärmen."
+
+piece_sleepingbag: "Schlafsack"
+piece_sleepingbag_desc: "Für den Abenteurer ohne Schnickschnack. Schlafen Sie unter den Sternen, egal wo Sie sind."
+
+campsite_smalltent: "Kleines Zelt"
+campsite_smalltent_desc: "Für den erfahrenen Abenteurer. Halten Sie mit diesem einfachen Zelt Schnee und Regen von Ihrem Gesicht fern."
+
+campsite_bigtent: "Großes Zelt"
+campsite_bigtent_desc: "Für den abgenutzten Abenteurer. Mit diesem geräumigen Zelt können Sie eine kleine Außenpostenbasis errichten."
