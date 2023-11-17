@@ -1,0 +1,12 @@
+name: odin_hammer
+clonePrefabName: 
+craftingStation: $piece_workbench
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: true
+requireOnlyOneIngredient: false
+reqs:
+- Wood:5:0:False
+- Stone:5:0:False

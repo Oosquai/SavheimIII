@@ -1,0 +1,14 @@
+name: VAbolt_frost
+clonePrefabName: 
+craftingStation: $piece_forge
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: 
+amount: 20
+disabled: true
+requireOnlyOneIngredient: false
+reqs:
+- Wood:8:0:False
+- Silver:2:0:False
+- FreezeGland:2:0:False
+- Feathers:2:0:False

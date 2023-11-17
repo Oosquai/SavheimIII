@@ -5,11 +5,10 @@ minStationLevel: 1
 maxStationLevelCap: 
 repairStation: 
 amount: 20
-disabled: false
+disabled: true
 requireOnlyOneIngredient: false
 reqs:
 - Wood:8:0:True
 - BlackMetal:2:0:True
 - Guck:1:0:True
 - SwordCheat:1:0:True
-

@@ -5,11 +5,10 @@ minStationLevel: 1
 maxStationLevelCap: 
 repairStation: 
 amount: 20
-disabled: false
+disabled: true
 requireOnlyOneIngredient: false
 reqs:
 - YggdrasilWood:8:0:True
 - Carapace:4:0:True
 - Eitr:1:0:True
 - SwordCheat:1:0:True
-

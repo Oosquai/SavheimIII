@@ -1,0 +1,14 @@
+name: VAblackmetal_sledge
+clonePrefabName: 
+craftingStation: $piece_forge
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: true
+requireOnlyOneIngredient: false
+reqs:
+- BlackMetal:24:12:False
+- Iron:8:4:False
+- Thunderstone:8:4:False
+- LoxPelt:2:2:False

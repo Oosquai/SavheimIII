@@ -109,7 +109,7 @@ Secondary_Attack:
     Trail_Effect: 
     Burst_Effect: 
 Damage:
-  Blunt: 155
+  Blunt: 145
   Chop: 0
   Damage: 0
   Fire: 20
@@ -121,10 +121,10 @@ Damage:
   Slash: 0
   Spirit: 0
 Damage_Per_Level:
-  Blunt: 6
+  Blunt: 4
   Chop: 0
   Damage: 0
-  Fire: 0
+  Fire: 2
   Frost: 0
   Lightning: 0
   Pickaxe: 0
@@ -143,7 +143,7 @@ SE_Equip:
   EffectName: SE_Bash_8_TW
 SE_SET_Equip: 
 ShieldStats:
-  m_blockPower: 76
+  m_blockPower: 74
   m_blockPowerPerLevel: 2
   m_timedBlockBonus: 2
   m_deflectionForce: 50

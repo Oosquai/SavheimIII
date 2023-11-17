@@ -5,7 +5,7 @@ minStationLevel: 1
 maxStationLevelCap: 
 repairStation: 
 amount: 20
-disabled: false
+disabled: true
 requireOnlyOneIngredient: false
 reqs:
 - BorealWood_TW:4:0:True

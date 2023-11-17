@@ -1,0 +1,11 @@
+name: $PlumgaClutterTool
+clonePrefabName: 
+craftingStation: $piece_workbench
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: $piece_workbench
+amount: 1
+disabled: true
+requireOnlyOneIngredient: false
+reqs:
+- Wood:2:1:False

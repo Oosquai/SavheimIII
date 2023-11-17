@@ -1,0 +1,12 @@
+name: VAArrowAncient
+clonePrefabName: 
+craftingStation: $piece_fletchertable_TW
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: 
+amount: 20
+disabled: false
+requireOnlyOneIngredient: false
+reqs:
+- Feathers:2:0:False
+- ElderBark:8:0:False

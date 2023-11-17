@@ -1,0 +1,12 @@
+name: VAArrowBone
+clonePrefabName: 
+craftingStation: $piece_workbench
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: 
+amount: 20
+disabled: true
+requireOnlyOneIngredient: false
+reqs:
+- Feathers:1:0:False
+- BoneFragments:8:0:False

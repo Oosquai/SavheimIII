@@ -101,7 +101,7 @@ Secondary_Attack:
     Burst_Effect: 
 Damage:
   Blunt: 0
-  Chop: 80
+  Chop: 90
   Damage: 0
   Fire: 0
   Frost: 15
@@ -116,12 +116,12 @@ Damage_Per_Level:
   Chop: 3
   Damage: 0
   Fire: 0
-  Frost: 0
+  Frost: 2
   Lightning: 0
   Pickaxe: 0
   Pierce: 0
   Poison: 0
-  Slash: 5
+  Slash: 4
   Spirit: 0
 Armor:
   armor: 20

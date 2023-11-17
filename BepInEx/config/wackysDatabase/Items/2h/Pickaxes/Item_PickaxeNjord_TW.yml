@@ -86,7 +86,7 @@ Secondary_Attack:
   Lower_Dmg_Per_Hit: true
   Hit_Through_Walls: false
   Multi_Hit: true
-  Pickaxe_Special: false
+  Pickaxe_Special: true
   Last_Chain_Dmg_Multiplier: 2
   Attack_Projectile: 
   Projectile_Vel: 10
@@ -116,10 +116,10 @@ Damage_Per_Level:
   Chop: 0
   Damage: 0
   Fire: 0
-  Frost: 0
+  Frost: 2
   Lightning: 0
   Pickaxe: 5
-  Pierce: 5
+  Pierce: 4
   Poison: 0
   Slash: 0
   Spirit: 0
@@ -133,7 +133,7 @@ Moddifiers:
 SE_Equip: 
 SE_SET_Equip: 
 ShieldStats:
-  m_blockPower: 2
+  m_blockPower: 76
   m_blockPowerPerLevel: 2
   m_timedBlockBonus: 2
   m_deflectionForce: 20

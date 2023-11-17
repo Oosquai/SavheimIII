@@ -5,11 +5,10 @@ minStationLevel: 1
 maxStationLevelCap: 
 repairStation: 
 amount: 20
-disabled: false
+disabled: true
 requireOnlyOneIngredient: false
 reqs:
 - BorealWood_TW:2:0:True
 - TyraniumBar_TW:2:0:True
 - GlacierGland_TW:1:0:True
 - SwordCheat:1:0:True
-

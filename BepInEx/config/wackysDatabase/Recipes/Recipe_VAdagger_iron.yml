@@ -1,0 +1,13 @@
+name: VAdagger_iron
+clonePrefabName: 
+craftingStation: $piece_forge
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: true
+requireOnlyOneIngredient: false
+reqs:
+- ElderBark:2:1:False
+- LeatherScraps:2:1:False
+- Iron:8:4:False

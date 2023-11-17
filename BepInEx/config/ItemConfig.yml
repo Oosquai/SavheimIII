@@ -232,6 +232,15 @@ groups:
     - WolfJerky
     - WolfMeatSkewer
 
+  AllWood:
+    - Wood
+    - FineWood
+    - RoundLog
+    - YggdrasilWood
+    - BorealWood_TW
+    - BorealPineWood_TW
+    - ScorchedWood_TW
+
   AllEquipment:
     - Ammo
     - Bow
@@ -259,3 +268,6 @@ NoLossOnDeath:
 
 DontSink:
   floating: yes
+
+AllWood:
+  weight factor: 0.5

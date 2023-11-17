@@ -1,0 +1,14 @@
+name: VAarrow_surtling_fire
+clonePrefabName: 
+craftingStation: $piece_forge
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: 
+amount: 20
+disabled: true
+requireOnlyOneIngredient: false
+reqs:
+- Feathers:2:0:False
+- Wood:10:0:False
+- Obsidian:2:0:False
+- SurtlingCore:1:0:False

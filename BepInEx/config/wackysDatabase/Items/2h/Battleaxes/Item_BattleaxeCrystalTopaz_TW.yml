@@ -68,7 +68,7 @@ Secondary_Attack:
   SpeedFactor: 0.1
   DmgMultiplier: 0.5
   ForceMultiplier: 2
-  StaggerMultiplier: 1.5
+  StaggerMultiplier: 3
   RecoilMultiplier: 0
   AttackRange: 2.5
   AttackHeight: 1

@@ -1,0 +1,13 @@
+name: VAserpent_buckler
+clonePrefabName: 
+craftingStation: $piece_forge
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: true
+requireOnlyOneIngredient: false
+reqs:
+- SerpentScale:6:4:False
+- FineWood:3:1:False
+- Iron:3:2:False
