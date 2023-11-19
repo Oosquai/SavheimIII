@@ -1,0 +1,10 @@
+{
+	"lore_overview_title": "Norse Demigods: Overview",
+	"lore_abilities_title": "Norse Demigods: Abilities",
+	"lore_attributes_title": "Norse Demigods: Attributes",
+	"lore_wolves_title": "Norse Demigods: Wolves",
+	"lore_overview_tooltip": "§ By using a <color=orange>{0}</color>, which should be automatically placed in your inventory, or otherwise crafted, you will invoke the power of the gods to become a demigod living among mortals.\n\n§ Demigods possess unique <color=orange>abilities</color> and <color=orange>attributes</color>, which are covered in details in other sections. Attributes are generally passive, whereas abilities are triggered with a hotkey\n\n§ <color=orange>Energy</color> is required to use most abilities, which is passively regenerated every <color=orange>{1}</color> seconds by default, as well as via abilities and attributes.\n\n§ You will increase your <color=orange>demigod skill level</color> generally in combat, meaning attacking enemies, blocking or enduring their attacks.\n\n§ There is a legend that <color=orange>Megingjord</color> can be infused with energy to become even more powerful. Thunder and forging...",
+	"runestone_menu_panel_title": "What demigod will you choose?",
+	"runestone_menu_choose_button_label": "I choose you!",
+	"runestone_menu_confirmation_dialog_panel_text": "You are already a <color=#00ffff>demigod</color>.\n\nBy selecting a different demigod you will <color=orange>lose all the progress</color> with your current demigod.\n\nAre you sure you would like to proceed?"
+}
