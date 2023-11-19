@@ -5,10 +5,8 @@ minStationLevel: 1
 maxStationLevelCap: 
 repairStation: 
 amount: 1
-disabled: false
+disabled: true
 requireOnlyOneIngredient: false
 reqs:
 - Wood:1:1:True
 - Mandible:1:1:True
-- SwordCheat:1:0:True
-

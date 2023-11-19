@@ -1,0 +1,14 @@
+name: BMP_NeckTotem
+clonePrefabName: 
+craftingStation: $piece_workbench
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: true
+requireOnlyOneIngredient: false
+reqs:
+- TrophyNeck:2:0:True
+- AncientSeed:4:2:True
+- NeckTail:8:4:True
+- Resin:20:10:True

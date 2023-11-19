@@ -1,7 +1,7 @@
 name: VAElderRoundShield
 m_weight: 3
 m_name: $item_elder_roundshield
-m_description: $item_elder_roundshield_description
+m_description: "Wood fused with the blood of the Elder, it offers some protection against poison."
 clonePrefabName: 
 mockName: 
 customIcon: 

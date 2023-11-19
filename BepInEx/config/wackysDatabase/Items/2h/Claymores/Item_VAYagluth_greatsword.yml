@@ -1,7 +1,7 @@
 name: VAYagluth_greatsword
 m_weight: 4
 m_name: $item_yagluth_greatsword
-m_description: $item_yagluth_greatsword_description
+m_description: "A giant blade hewn from blackmetal and the remains of Yagluth himself. Your enemies will recoil in fear when struck with this weapon."
 clonePrefabName: 
 mockName: 
 customIcon: 
@@ -68,7 +68,7 @@ Secondary_Attack:
   SpeedFactor: 0.2
   DmgMultiplier: 3
   ForceMultiplier: 1
-  StaggerMultiplier: 0.3
+  StaggerMultiplier: 0.4
   RecoilMultiplier: 0
   AttackRange: 3
   AttackHeight: 1

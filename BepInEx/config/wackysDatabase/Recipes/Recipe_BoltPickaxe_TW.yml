@@ -5,10 +5,10 @@ minStationLevel: 1
 maxStationLevelCap: 
 repairStation: 
 amount: 20
-disabled: false
+disabled: true
 requireOnlyOneIngredient: false
 reqs:
 - ElderBark:8:0:True
 - Resin:1:0:True
-- SwordCheat:1:0:True
+- SurtlingCore:1:0:True
 - Feathers:2:0:True

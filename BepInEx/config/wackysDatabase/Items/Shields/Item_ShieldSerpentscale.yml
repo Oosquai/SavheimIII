@@ -1,7 +1,7 @@
 name: ShieldSerpentscale
 m_weight: 5
 m_name: $item_shield_serpentscale
-m_description: $item_shield_serpentscale_description
+m_description: "A sturdy shield of overlapping scales that remembers the frigid temperatures of the depths."
 clonePrefabName: 
 mockName: 
 customIcon: 
@@ -152,7 +152,7 @@ m_maxQuality: 3
 m_value: 0
 ConsumableStatusEffect: 
 damageModifiers:
-- Pierce:Resistant
+- Frost:Resistant
 GEffects:
   Hit_Effects:
   - vfx_clubhit

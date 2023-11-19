@@ -153,6 +153,7 @@ m_value: 0
 ConsumableStatusEffect: 
 damageModifiers:
 - Pierce:Resistant
+- Blunt:Resistant
 GEffects:
   Hit_Effects:
   - vfx_clubhitTW

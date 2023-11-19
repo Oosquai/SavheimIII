@@ -1,7 +1,7 @@
 name: VAYagluthAtgeir
 m_weight: 2.5
 m_name: $item_yagluth_atgeir
-m_description: $item_yagluth_atgeir_description
+m_description: "A fragment of Yagluth's crown, mounted on a pike. It still emits an undying fiery anger that will strike staggering fear into the hearts of your enemies."
 clonePrefabName: 
 mockName: 
 customIcon: 

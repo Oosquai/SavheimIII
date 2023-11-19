@@ -1,0 +1,13 @@
+name: SledgeBronze_TW
+clonePrefabName: 
+craftingStation: $piece_forge
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: true
+requireOnlyOneIngredient: false
+reqs:
+- RoundLog:10:5:True
+- Bronze:12:6:True
+- TrophyGreydwarfBrute:1:0:True

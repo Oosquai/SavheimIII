@@ -1,7 +1,7 @@
 name: ShieldBoneTower
 m_weight: 4
 m_name: $item_shield_bonetower
-m_description: $item_shield_bonetower_description
+m_description: "The bones of dead warriors make for good protection, especially against slashing attacks."
 clonePrefabName: 
 mockName: 
 customIcon: 
@@ -18,12 +18,12 @@ Armor:
   armorPerLevel: 1
 FoodStats: 
 Moddifiers:
-  m_movementModifier: -0.2
+  m_movementModifier: -0.15
   m_EitrRegen: 0
 SE_Equip: 
 SE_SET_Equip: 
 ShieldStats:
-  m_blockPower: 32
+  m_blockPower: 26
   m_blockPowerPerLevel: 6
   m_timedBlockBonus: 0
   m_deflectionForce: 100
@@ -52,7 +52,8 @@ m_toolTier: 1
 m_maxQuality: 3
 m_value: 0
 ConsumableStatusEffect: 
-damageModifiers: []
+damageModifiers:
+- Slash:Resistant
 GEffects:
   Hit_Effects:
   - vfx_clubhit

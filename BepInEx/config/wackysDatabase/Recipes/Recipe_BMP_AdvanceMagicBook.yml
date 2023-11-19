@@ -1,0 +1,14 @@
+name: BMP_AdvanceMagicBook
+clonePrefabName: 
+craftingStation: $piece_workbench
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+requireOnlyOneIngredient: false
+reqs:
+- YmirRemains:5:0:True
+- SurtlingCore:5:0:True
+- Crystal:12:0:True
+- AncientSeed:12:0:True

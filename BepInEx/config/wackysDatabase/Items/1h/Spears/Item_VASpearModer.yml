@@ -1,7 +1,7 @@
 name: VASpearModer
 m_weight: 1.5
 m_name: $item_spear_moder
-m_description: "A blade of ice, continually frozen by tears from Moder herself. It attacks faster than other spears."
+m_description: "A blade of ice, continually frozen by tears from Moder herself. It flies as though powered by dragonflight."
 clonePrefabName: 
 mockName: 
 customIcon: 
@@ -15,7 +15,7 @@ Primary_Attack:
   Attack_Random_Animation: 0
   Chain_Attacks: 0
   Hit_Terrain: true
-  Custom_AttackSpeed: 1.3
+  Custom_AttackSpeed: 1
   m_attackStamina: 12
   m_eitrCost: 0
   AttackHealthCost: 0
@@ -89,7 +89,7 @@ Secondary_Attack:
   Pickaxe_Special: false
   Last_Chain_Dmg_Multiplier: 2
   Attack_Projectile: VAspearmoder_projectile
-  Projectile_Vel: 20
+  Projectile_Vel: 30
   Projectile_Accuraccy: 1
   Projectiles: 1
   AEffects:

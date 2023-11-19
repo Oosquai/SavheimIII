@@ -151,7 +151,8 @@ m_toolTier: 0
 m_maxQuality: 3
 m_value: 0
 ConsumableStatusEffect: 
-damageModifiers: []
+damageModifiers:
+- Blunt:Resistant
 GEffects:
   Hit_Effects:
   - vfx_clubhitTW

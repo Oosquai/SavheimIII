@@ -5,10 +5,10 @@ minStationLevel: 2
 maxStationLevelCap: 
 repairStation: 
 amount: 1
-disabled: false
+disabled: true
 requireOnlyOneIngredient: false
 reqs:
 - TrophyTheElder:1:0:True
 - SurtlingCore:10:0:True
-- SwordCheat:1:0:True
+- Eitr:25:5:True
 - Flametal:0:1:True

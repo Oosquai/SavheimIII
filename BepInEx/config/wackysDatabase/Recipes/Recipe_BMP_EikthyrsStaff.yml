@@ -1,0 +1,14 @@
+name: BMP_EikthyrsStaff
+clonePrefabName: 
+craftingStation: $piece_workbench
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: true
+requireOnlyOneIngredient: false
+reqs:
+- TrophyEikthyr:1:0:True
+- HardAntler:3:1:True
+- Wood:25:12:True
+- Flint:10:5:True
