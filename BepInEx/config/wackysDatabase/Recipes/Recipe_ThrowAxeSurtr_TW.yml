@@ -1,0 +1,13 @@
+name: ThrowAxeSurtr_TW
+clonePrefabName: 
+craftingStation: $piece_ymirforge_TW
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: 
+amount: 10
+disabled: false
+requireOnlyOneIngredient: false
+reqs:
+- ScorchedWood_TW:10:0:True
+- AshenClaw_TW:4:0:True
+- Flametal:3:0:True

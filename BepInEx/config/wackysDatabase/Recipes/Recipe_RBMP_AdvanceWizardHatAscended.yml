@@ -1,0 +1,14 @@
+name: RBMP_AdvanceWizardHatAscended
+clonePrefabName: BMP_AdvanceWizardHatAscended
+craftingStation: $piece_magetable
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+requireOnlyOneIngredient: false
+reqs:
+- Eitr:46:23:True
+- JuteBlue:14:7:True
+- LinenThread:14:7:True
+- Feathers:6:0:True

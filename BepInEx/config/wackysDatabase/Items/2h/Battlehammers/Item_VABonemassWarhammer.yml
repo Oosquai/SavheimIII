@@ -1,5 +1,5 @@
 name: VABonemassWarhammer
-m_weight: 2.5
+m_weight: 4
 m_name: $item_bonemass_warhammer
 m_description: $item_bonemass_warhammer_description
 clonePrefabName: 
@@ -11,19 +11,19 @@ sizeMultiplier: 1
 scale_weight_by_quality: 0
 Primary_Attack:
   AttackType: Horizontal
-  Attack_Animation: battleaxe_attack
+  Attack_Animation: greatsword
   Attack_Random_Animation: 0
   Chain_Attacks: 3
   Hit_Terrain: true
   Custom_AttackSpeed: 1
-  m_attackStamina: 20
+  m_attackStamina: 16
   m_eitrCost: 0
   AttackHealthCost: 0
   m_attackHealthPercentage: 0
-  SpeedFactor: 0.1
+  SpeedFactor: 0.3
   DmgMultiplier: 1
   ForceMultiplier: 1
-  StaggerMultiplier: 1.7
+  StaggerMultiplier: 1.5
   RecoilMultiplier: 0
   AttackRange: 2.5
   AttackHeight: 1
@@ -37,15 +37,15 @@ Primary_Attack:
   Bow_Stamina_Drain: 0
   Bow_Animation_State: ''
   Attack_Angle: 90
-  Attack_Ray_Width: 0.5
-  Lower_Dmg_Per_Hit: false
+  Attack_Ray_Width: 0.3
+  Lower_Dmg_Per_Hit: true
   Hit_Through_Walls: true
   Multi_Hit: true
   Pickaxe_Special: false
   Last_Chain_Dmg_Multiplier: 2
   Attack_Projectile: 
-  Projectile_Vel: 20
-  Projectile_Accuraccy: 0
+  Projectile_Vel: 10
+  Projectile_Accuraccy: 10
   Projectiles: 1
   AEffects:
     Hit_Effects: 
@@ -56,19 +56,19 @@ Primary_Attack:
     Burst_Effect: 
 Secondary_Attack:
   AttackType: Horizontal
-  Attack_Animation: battleaxe_secondary
+  Attack_Animation: atgeir_secondary
   Attack_Random_Animation: 0
   Chain_Attacks: 0
   Hit_Terrain: true
   Custom_AttackSpeed: 1
-  m_attackStamina: 10
+  m_attackStamina: 26
   m_eitrCost: 0
   AttackHealthCost: 0
   m_attackHealthPercentage: 0
-  SpeedFactor: 0.1
-  DmgMultiplier: 0.5
-  ForceMultiplier: 2
-  StaggerMultiplier: 4.2
+  SpeedFactor: 0.3
+  DmgMultiplier: 2
+  ForceMultiplier: 1
+  StaggerMultiplier: 2
   RecoilMultiplier: 0
   AttackRange: 2.5
   AttackHeight: 1
@@ -81,10 +81,10 @@ Secondary_Attack:
   Bow_Duration_Min: 0
   Bow_Stamina_Drain: 0
   Bow_Animation_State: ''
-  Attack_Angle: 30
-  Attack_Ray_Width: 0.5
+  Attack_Angle: 360
+  Attack_Ray_Width: 0.3
   Lower_Dmg_Per_Hit: true
-  Hit_Through_Walls: false
+  Hit_Through_Walls: true
   Multi_Hit: true
   Pickaxe_Special: false
   Last_Chain_Dmg_Multiplier: 2
@@ -112,7 +112,7 @@ Damage:
   Slash: 0
   Spirit: 0
 Damage_Per_Level:
-  Blunt: 4
+  Blunt: 6
   Chop: 0
   Damage: 0
   Fire: 0
@@ -120,7 +120,7 @@ Damage_Per_Level:
   Lightning: 0
   Pickaxe: 0
   Pierce: 0
-  Poison: 2
+  Poison: 3
   Slash: 0
   Spirit: 0
 Armor:
@@ -131,6 +131,7 @@ Moddifiers:
   m_movementModifier: -0.2
   m_EitrRegen: 0
 SE_Equip: 
+  EffectName: SE_Bash_5_TW
 SE_SET_Equip: 
 ShieldStats:
   m_blockPower: 48

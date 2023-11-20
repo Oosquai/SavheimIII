@@ -117,9 +117,10 @@ Armor:
   armorPerLevel: 1
 FoodStats: 
 Moddifiers:
-  m_movementModifier: -0.1
+  m_movementModifier: -0.15
   m_EitrRegen: 0
 SE_Equip: 
+  EffectName: SE_Savheim_Elemental_Resistance
 SE_SET_Equip: 
 ShieldStats:
   m_blockPower: 122

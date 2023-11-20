@@ -117,9 +117,10 @@ Armor:
   armorPerLevel: 1
 FoodStats: 
 Moddifiers:
-  m_movementModifier: -0.2
+  m_movementModifier: -0.15
   m_EitrRegen: 0
 SE_Equip: 
+  EffectName: SE_Savheim_Blunt_Resistance
 SE_SET_Equip: 
 ShieldStats:
   m_blockPower: 124
@@ -152,7 +153,6 @@ m_maxQuality: 3
 m_value: 0
 ConsumableStatusEffect: 
 damageModifiers:
-- Blunt:Resistant
 GEffects:
   Hit_Effects:
   - vfx_clubhitTW

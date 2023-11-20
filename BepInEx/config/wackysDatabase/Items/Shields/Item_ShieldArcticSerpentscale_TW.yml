@@ -1,7 +1,7 @@
 name: ShieldArcticSerpentscale_TW
 m_weight: 6
 m_name: $shield_arcticserpent_TW
-m_description: $shield_arcticserpent_description_TW
+m_description: "A sturdy tower shield made with the strong scales of an arctic serpent. It protects you from the cold and piercing attacks."
 clonePrefabName: 
 mockName: 
 customIcon: 
@@ -117,9 +117,10 @@ Armor:
   armorPerLevel: 1
 FoodStats: 
 Moddifiers:
-  m_movementModifier: -0.15
+  m_movementModifier: -0.1
   m_EitrRegen: 0
 SE_Equip: 
+  EffectName: SE_Savheim_FrostPierce_Resistance
 SE_SET_Equip: 
 ShieldStats:
   m_blockPower: 120
@@ -151,9 +152,7 @@ m_toolTier: 0
 m_maxQuality: 3
 m_value: 0
 ConsumableStatusEffect: 
-damageModifiers:
-- Pierce:Resistant
-- Blunt:Resistant
+damageModifiers: []
 GEffects:
   Hit_Effects:
   - vfx_clubhitTW

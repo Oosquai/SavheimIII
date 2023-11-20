@@ -2,7 +2,8 @@ Savheim III - Press ~ (above Tab) to swap hotbars.  Middle mouse does a special 
 Savheim III - Swords - on-demand damage types.  Clubs - stagger.  Daggers - flanking, crit, and unique dodge.  Axes - chain attack DPS.  Spears - throwable (with slow auto-return to prevent loss) and improved melee attack range.  Warpikes - stabby spears.
 Savheim III - Atgiers - AOE knockback.  Lances - knockback and bleed.  Greatswords - parry.  Sledges - AOE.  Battlehammers - stagger.  Battleaxes - Execute or stagger poke.  Fists - flanking, crit, parry, unique effects, and unique dodge.
 Savheim III - Bows - normal draw and projectile speeds.  Greatbows - slower draw speed, faster projectile speed, greater range and damage, knockback.  Crossbows - slow reload, very high damage and knockback.  Zoom with right click while aiming.  Press Interact (default E) to cancel draw.
-Savheim III - Bucklers excel at parrying.  Tower shields let you block for days.  Medium shields are a blend of both.
+Savheim III - Bucklers excel at parrying.  Tower shields let you block for days, and some of them offer special resists.  Medium shields are a blend of both.
+Savheim III - Boss weapons offer a variety of perks, including stronger upgrades, unique effects, and more.
 Savheim III - Move deathlog: When visible, press Esc, then click and drag.  Move extra hotkeys: Esc, Left-Alt + drag.  Move chest inventory: Left-Alt + drag.
 Savheim III - Put a Rune Focus on your hotbar and then tap that hotkey while facing a lore stone.
 Savheim III - Mouse over the "Craft" tab at crafting tables for a filter.

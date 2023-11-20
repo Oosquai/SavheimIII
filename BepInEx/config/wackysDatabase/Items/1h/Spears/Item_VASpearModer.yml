@@ -89,7 +89,7 @@ Secondary_Attack:
   Pickaxe_Special: false
   Last_Chain_Dmg_Multiplier: 2
   Attack_Projectile: VAspearmoder_projectile
-  Projectile_Vel: 30
+  Projectile_Vel: 40
   Projectile_Accuraccy: 1
   Projectiles: 1
   AEffects:
@@ -116,10 +116,10 @@ Damage_Per_Level:
   Chop: 0
   Damage: 0
   Fire: 0
-  Frost: 2
+  Frost: 3
   Lightning: 0
   Pickaxe: 0
-  Pierce: 4
+  Pierce: 5
   Poison: 0
   Slash: 0
   Spirit: 0

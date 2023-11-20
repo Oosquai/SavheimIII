@@ -112,7 +112,7 @@ Damage:
   Slash: 0
   Spirit: 16
 Damage_Per_Level:
-  Blunt: 3
+  Blunt: 8
   Chop: 0
   Damage: 0
   Fire: 0
@@ -131,6 +131,7 @@ Moddifiers:
   m_movementModifier: -0.05
   m_EitrRegen: 0
 SE_Equip: 
+  EffectName: SE_Bash_2_TW
 SE_SET_Equip: 
 ShieldStats:
   m_blockPower: 12

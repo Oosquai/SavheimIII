@@ -117,9 +117,10 @@ Armor:
   armorPerLevel: 1
 FoodStats: 
 Moddifiers:
-  m_movementModifier: -0.15
+  m_movementModifier: -0.1
   m_EitrRegen: 0
 SE_Equip: 
+  EffectName: SE_Savheim_Frost_Resistance
 SE_SET_Equip: 
 ShieldStats:
   m_blockPower: 60
@@ -151,8 +152,7 @@ m_toolTier: 3
 m_maxQuality: 3
 m_value: 0
 ConsumableStatusEffect: 
-damageModifiers:
-- Frost:Resistant
+damageModifiers: []
 GEffects:
   Hit_Effects:
   - vfx_clubhit

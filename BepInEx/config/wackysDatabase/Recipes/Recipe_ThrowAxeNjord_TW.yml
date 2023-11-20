@@ -1,0 +1,13 @@
+name: ThrowAxeNjord_TW
+clonePrefabName: 
+craftingStation: $piece_ymirforge_TW
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: 
+amount: 10
+disabled: false
+requireOnlyOneIngredient: false
+reqs:
+- BorealWood_TW:10:0:True
+- FrozenClaw_TW:4:0:True
+- TyraniumBar_TW:3:0:True
