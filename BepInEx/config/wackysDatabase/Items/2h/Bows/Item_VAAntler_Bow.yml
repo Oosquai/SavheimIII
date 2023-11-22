@@ -1,7 +1,7 @@
 name: VAAntler_Bow
 m_weight: 1.5
 m_name: $item_bow_antler
-m_description: $item_bow_antler_description
+m_description: "Herald of lightning, may all hear Eikthyr's thunder.  Lighter than similar weapons, you're light on your feet with this."
 clonePrefabName: 
 mockName: 
 customIcon: 

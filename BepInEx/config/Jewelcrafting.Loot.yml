@@ -105,15 +105,6 @@ equipment:
   blacklist:
     - jewelers bag
     - knifewrench
-    - dragon
-    - fox
-    - greyfox
-    - lizard
-    - lynx
-    - panther
-    - panther_yellow
-    - snowleopard
-    - wolf
     - rune focus
       
 gem drops:

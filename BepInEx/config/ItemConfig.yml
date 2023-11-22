@@ -26,17 +26,6 @@
 #      - InternalID
 
 groups:
-  Beasts:
-    - fox
-    - greyfox
-    - panther
-    - panther_yellow
-    - lynx
-    - snowleopard
-    - lizard
-    - dragon
-    - wolf
-
   Helmet:
     - HelmetBronze
     - HelmetDrake
@@ -48,6 +37,56 @@ groups:
     - HelmetRoot
     - HelmetTrollLeather
     - HelmetYule
+    - HelmetCarapace
+    - HelmetMage
+    - HelmetArcticBear_TW
+    - HelmetBlackBear_TW
+    - HelmetBold_TW
+    - HelmetBoldCarapace_TW
+    - HelmetBoldFlametal_TW
+    - HelmetDestruction_TW
+    - HelmetDestructionTyranium_TW
+    - HelmetFenrir_TW
+    - HelmetFenrirBM_TW
+    - HelmetFenrirCarapace_TW
+    - HelmetFenrirTyranium_TW
+    - HelmetGrizzlyBear_TW
+    - HelmetLeather_TW
+    - HelmetLegion_TW
+    - HelmetLegionFlametal_TW
+    - HelmetRazorback_TW
+    - HelmetRogue_TW
+    - HelmetRogueBM_TW
+    - HelmetRogueCarapace_TW
+    - HelmetRogueIron_TW
+    - HelmetRogueSilver_TW
+    - HelmetRogueTyranium_TW
+    - HelmetSacrifice_TW
+    - HelmetSacrificeFlametal_TW
+    - HelmetUllr_TW
+    - HelmetVidar_TW
+    - HelmetVidarBM_TW
+    - HelmetVidarCarapace_TW
+    - HelmetVidarFlametal_TW
+    - HelmetVigorous_TW
+    - HelmetVigorousBM_TW
+    - HelmetVigorousCarapace_TW
+    - HelmetVigorousIron_TW
+    - HelmetVigorousSilver_TW
+    - HelmetVigorousTyranium_TW
+    - HelmetWarrior_TW
+    - HelmetWarriorBM_TW
+    - HelmetWarriorCarapace_TW
+    - HelmetWarriorFlametal_TW
+    - HelmetWarriorSilver_TW
+    - BMP_AdvanceWizardHat
+    - BMP_BeginnersWizardHat
+    - BMP_PolarWolfHood
+    - BMP_RedWizardHat
+    - BMP_RedWizardHelm
+    - BMP_ShamanHat
+    - BMP_TrollMagicHood
+    - VDS_AtlantianCrown
 
   Chest:
     - ArmorBronzeChest
@@ -58,6 +97,47 @@ groups:
     - ArmorRootChest
     - ArmorTrollLeatherChest
     - ArmorWolfChest
+    - ArmorCarapaceChest
+    - ArmorMageChest
+    - ArmorBoldCarapaceChest_TW
+    - ArmorBoldChest_TW
+    - ArmorBoldFlametalChest_TW
+    - ArmorDestructionChest_TW
+    - ArmorDestructionTyraniumChest_TW
+    - ArmorFenrirBMChest_TW
+    - ArmorFenrirCarapaceChest_TW
+    - ArmorFenrirChest_TW
+    - ArmorFenrirTyraniumChest_TW
+    - ArmorLeatherChest_TW
+    - ArmorLegionChest_TW
+    - ArmorLegionFlametalChest_TW
+    - ArmorRogueBMChest_TW
+    - ArmorRogueCarapaceChest_TW
+    - ArmorRogueChest_TW
+    - ArmorRogueIronChest_TW
+    - ArmorRogueSilverChest_TW
+    - ArmorRogueTyraniumChest_TW
+    - ArmorSacrificeChest_TW
+    - ArmorSacrificeFlametalChest_TW
+    - ArmorUllrChest_TW
+    - ArmorVidarBMChest_TW
+    - ArmorVidarCarapaceChest_TW
+    - ArmorVidarChest_TW
+    - ArmorVidarFlametalChest_TW
+    - ArmorVigorousBMChest_TW
+    - ArmorVigorousCarapaceChest_TW
+    - ArmorVigorousChest_TW
+    - ArmorVigorousIronChest_TW
+    - ArmorVigorousSilverChest_TW
+    - ArmorVigorousTyraniumChest_TW
+    - ArmorWarriorBMChest_TW
+    - ArmorWarriorCarapaceChest_TW
+    - ArmorWarriorChest_TW
+    - ArmorWarriorFlametalChest_TW
+    - ArmorWarriorSilverChest_TW
+    - BMP_PolarWolfChest
+    - BMP_RedWizardChest
+
   Legs:
     - ArmorBronzeLegs
     - ArmorIronLegs
@@ -67,6 +147,46 @@ groups:
     - ArmorRootLegs
     - ArmorTrollLeatherLegs
     - ArmorWolfLegs
+    - ArmorCarapaceLegs
+    - ArmorMageLegs
+    - ArmorBoldCarapaceLegs_TW
+    - ArmorBoldFlametalLegs_TW
+    - ArmorBoldLegs_TW
+    - ArmorDestructionLegs_TW
+    - ArmorDestructionTyraniumLegs_TW
+    - ArmorFenrirBMLegs_TW
+    - ArmorFenrirCarapaceLegs_TW
+    - ArmorFenrirLegs_TW
+    - ArmorFenrirTyraniumLegs_TW
+    - ArmorLeatherLegs_TW
+    - ArmorLegionFlametalLegs_TW
+    - ArmorLegionLegs_TW
+    - ArmorRogueBMLegs_TW
+    - ArmorRogueCarapaceLegs_TW
+    - ArmorRogueIronLegs_TW
+    - ArmorRogueLegs_TW
+    - ArmorRogueSilverLegs_TW
+    - ArmorRogueTyraniumLegs_TW
+    - ArmorSacrificeFlametalLegs_TW
+    - ArmorSacrificeLegs_TW
+    - ArmorUllrLegs_TW
+    - ArmorVidarBMLegs_TW
+    - ArmorVidarCarapaceLegs_TW
+    - ArmorVidarFlametalLegs_TW
+    - ArmorVidarLegs_TW
+    - ArmorVigorousBMLegs_TW
+    - ArmorVigorousCarapaceLegs_TW
+    - ArmorVigorousIronLegs_TW
+    - ArmorVigorousLegs_TW
+    - ArmorVigorousSilverLegs_TW
+    - ArmorVigorousTyraniumLegs_TW
+    - ArmorWarriorBMLegs_TW
+    - ArmorWarriorCarapaceLegs_TW
+    - ArmorWarriorFlametalLegs_TW
+    - ArmorWarriorLegs_TW
+    - ArmorWarriorSilverLegs_TW
+    - BMP_PolarWolfLegs
+    - BMP_RedWizardLegs
 
   Shoulder:
     - CapeDeerHide
@@ -76,12 +196,77 @@ groups:
     - CapeTest
     - CapeTrollHide
     - CapeWolf
+    - CapeFeather
+    - CapeTrollBlack_TW
+    - BMP_CultistCape
+    - BMP_RedWizardCape
+    - BMP_TrollMagicCape
+    - CapeRotten_TW
+    - CapeArcticWolf_TW
+    - CapeAshenScale_TW
+    - CapeMammoth_TW
 
   Utility:
     - BeltStrength
     - Wishbone
     - SaddleLox
     - CryptKey
+    - BeltYmir_TW
+    - Traveler'sBeigeBackpack
+    - Traveler'sBrownBackpack
+    - Traveler'sRedBackpack
+    - Traveler'sBlueBackpack
+    - Traveler'sGreenBackpack
+    - Traveler'sYellowBackpack
+    - Traveler'sTealBackpack
+    - Traveler'sPurpleBackpack
+    - Traveler'sGrayBackpack
+    - Traveler'sBlackBackpack
+    - BBH_BlackForest_Quiver
+    - BBH_OdinPlus_Quiver
+    - BBH_PlainsLox_Quiver
+    - BBH_Seeker_Quiver
+    - JC_blueish_Necklace
+    - JC_Gem_Bag
+    - JC_Necklace_Blue
+    - JC_Necklace_Green
+    - JC_Necklace_Purple
+    - JC_Necklace_Red
+    - JC_Necklace_Yellow
+    - JC_Ring_Blue
+    - JC_Ring_Green
+    - JC_Ring_Purple
+    - JC_Ring_Red
+    - BMP_AdvanceMagicBook
+    - BMP_BeginnersMagicBook
+    - BMP_DruidsTome
+    - BMP_Dvergr_Earring
+    - BMP_DvergrBelt
+    - BMP_Eitr_Earring
+    - BMP_EitrBelt
+    - BMP_ElementalistBelt
+    - BMP_FireResist_Earring
+    - BMP_FrostResist_Earring
+    - BMP_LightBelt
+    - BMP_NecromancerBelt
+    - BMP_PoisonResist_Earring
+    - JC_Blue_Necklace
+    - JC_Blue_Ring
+    - JC_Cyan_Necklace
+    - JC_Cyan_Ring
+    - JC_Green_Necklace
+    - JC_Green_Ring
+    - JC_Purple_Necklace
+    - JC_Purple_Ring
+    - JC_Red_Necklace
+    - JC_Red_Ring
+    - SaddleBear_TW
+    - SaddleBoar_TW
+    - SaddleProwler_TW
+    - JC_SoulNecklace_Necklace
+    - JC_SoulRing_Ring
+    - NecklaceTyr_TW
+    - RingLoki_TW
 
   TwoHandedWeapon:
     - AtgeirBlackmetal
@@ -97,6 +282,128 @@ groups:
     - SledgeCheat
     - SledgeIron
     - SledgeStagbreaker
+    - PickaxeBlackMetal
+    - AtgeirHimminAfl
+    - SpearCarapace
+    - SledgeDemolisher
+    - SwordKrom
+    - SwordMistwalker
+    - KnifeSkollAndHati
+    - StaffFireball
+    - StaffIceShards
+    - StaffShield
+    - StaffSkeleton
+    - StaffFireballAncient
+    - StaffIceShardsAncient
+    - JC_Lightning_Staff
+    - JC_Poison_Staff
+    - JC_Reaper_Battleaxe
+    - JC_Reaper_Pickaxe
+    - JC_Reaper_TH_Mace
+    - JC_Reaper_TH_Sword
+    - BMP_ArcticStaff
+    - BMP_HealStaff
+    - BMP_LightningStaff
+    - BMP_PoisonStaff
+    - BMP_SurtlingStaff
+    - VAAntler_greataxe
+    - VAatgeir_antler
+    - VABonemassGreatsword
+    - VABonemassWarhammer
+    - VAdagger_bronze_2h
+    - VAdagger_iron_2h
+    - VAdagger_silver_2h
+    - VAElderHammer
+    - VAYagluth_greatsword
+    - VAYagluthAtgeir
+    - AtgeirFlint_TW
+    - AtgeirSilver_TW
+    - BastardBlackmetal_TW
+    - BastardBone_TW
+    - BastardChitin_TW
+    - BastardDvergr_TW
+    - BastardFlint_TW
+    - BastardSilver_TW
+    - BattleaxeBlackmetal_TW
+    - BattleaxeBronze_TW
+    - BattleaxeCrystal_TW
+    - BattleaxeCrystalAmethyst_TW
+    - BattleaxeCrystalEmerald_TW
+    - BattleaxeDvergr_TW
+    - BattleaxeFlint_TW
+    - BattleaxeIron_TW
+    - BattleaxeSilver_TW
+    - BattlehammerBlackmetal_TW
+    - BattlehammerDvergr_TW
+    - BattlehammerIron_TW
+    - BattlehammerSilver_TW
+    - BattlehammerTrollbone_TW
+    - ClaymoreBlackmetal_TW
+    - ClaymoreBone_TW
+    - ClaymoreBronze_TW
+    - ClaymoreChitin_TW
+    - ClaymoreDvergr_TW
+    - ClaymoreIron_TW
+    - ClaymoreSilver_TW
+    - DualAxeDemonic_TW
+    - FistBlackmetal_TW
+    - FistBronze_TW
+    - FistChitin_TW
+    - FistDvergr_TW
+    - FistFlint_TW
+    - FistIron_TW
+    - FistQueen_TW
+    - FistSilver_TW
+    - GreatClub_TW
+    - LanceBlackmetal_TW
+    - LanceDvergr_TW
+    - PickaxeDvergr_TW
+    - PickaxeSilver_TW
+    - ScytheVampiric_TW
+    - SledgeBlackmetal_TW
+    - SledgeBonemass_TW
+    - SledgeBronze_TW
+    - SledgeDemolisher_TW
+    - SledgeIron_TW
+    - SledgeSilver_TW
+    - SledgeStagbreaker_TW
+    - ThrowAxeBlackmetal_TW
+    - ThrowAxeBronze_TW
+    - ThrowAxeDvergr_TW
+    - ThrowAxeFlint_TW
+    - ThrowAxeIron_TW
+    - ThrowAxeSilver_TW
+    - TridentBlackmetal_TW
+    - AtgeirNjord_TW
+    - AtgeirSurtr_TW
+    - BastardNjord_TW
+    - BastardSurtr_TW
+    - BattleaxeCrystalSapphire_TW
+    - BattleaxeCrystalTopaz_TW
+    - BattleaxeDragon_TW
+    - BattleaxeNjord_TW
+    - BattleaxeSurtr_TW
+    - BattlehammerNjord_TW
+    - BattlehammerSurtr_TW
+    - ClaymoreJotunn_TW
+    - ClaymoreNjord_TW
+    - ClaymoreSurtr_TW
+    - DualAxeKrom_TW
+    - DualHammerRageHatred_TW
+    - DualSpearSvigaFrekk_TW
+    - DualSwordSkadi_TW
+    - FistNjord_TW
+    - FistSurtr_TW
+    - GlacierBlade_TW
+    - LanceNjord_TW
+    - LanceSurtr_TW
+    - PickaxeNjord_TW
+    - PickaxeSurtr_TW
+    - SledgeNjord_TW
+    - SledgeSurtr_TW
+    - ThrowAxeNjord_TW
+    - ThrowAxeSurtr_TW
+    - VolcanicBlade_TW
 
   OneHandedWeapon:
     - AxeBlackMetal
@@ -129,6 +436,66 @@ groups:
     - SwordSilver
     - Tankard
     - TankardOdin
+    - Torch
+    - Lantern
+    - AxeJotunBane
+    - BombBile
+    - JC_Reaper_Axe
+    - JC_Reaper_Knife
+    - JC_Reaper_Mace
+    - JC_Reaper_Spear
+    - JC_Reaper_Sword
+    - BMP_FlameScepter
+    - BMP_FlameWand
+    - BMP_IceScepter
+    - BMP_IceWand
+    - BMP_LightningScepter
+    - BMP_LightningWand
+    - BMP_PoisonWand
+    - VAAntler_dagger
+    - VAAntler_Sword
+    - VABonemassDagger
+    - VAElder_mace
+    - VASpearModer
+    - VASwordModer
+    - VAVine_Sword
+    - BMP_FlameScepterAncient
+    - BMP_IceScepterAncient
+    - AxeDvergr_TW
+    - AxeSilver_TW
+    - BombFire_TW
+    - BombFrost_TW
+    - BombLightning_TW
+    - BombSpirit_TW
+    - KnifeBronze_TW
+    - KnifeIron_TW
+    - KnifeViper_TW
+    - MaceChitin_TW
+    - MaceDvergr_TW
+    - MaceFlint_TW
+    - SpearBlackmetal_TW
+    - SwordBone_TW
+    - SwordChitin_TW
+    - SwordFlint_TW
+    - SwordScimitar_TW
+    - WarpikeBlackmetal_TW
+    - WarpikeBone_TW
+    - WarpikeChitin_TW
+    - WarpikeDvergr_TW
+    - WarpikeElder_TW
+    - WarpikeObsidian_TW
+    - AxeNjord_TW
+    - AxeSurtr_TW
+    - KnifeNjord_TW
+    - KnifeSurtr_TW
+    - MaceNjord_TW
+    - MaceSurtr_TW
+    - SpearNjord_TW
+    - SpearSurtr_TW
+    - SwordNjord_TW
+    - SwordSurtr_TW
+    - WarpikeNjord_TW
+    - WarpikeSurtr_TW
 
   Shield:
     - ShieldBlackmetal
@@ -141,20 +508,64 @@ groups:
     - ShieldSerpentscale
     - ShieldSilver
     - ShieldWoodTower
-
-  Torch:
-    - Torch
+    - ShieldCarapaceBuckler
+    - ShieldCarapace
+    - JC_Reaper_Shield
+    - JC_Shield_Buckler
+    - JC_Shield_Tower
+    - LanternSoulcatcher
+    - VAElderRoundShield
+    - ShieldBlackmetalBuckler_TW
+    - ShieldBronzeBanded_TW
+    - ShieldBronzeTower_TW
+    - ShieldCarapaceTower_TW
+    - ShieldChitin_TW
+    - ShieldChitinBuckler_TW
+    - ShieldChitinTower_TW
+    - ShieldSilverBuckler_TW
+    - ShieldArcticSerpentscale_TW
+    - ShieldFlametalBuckler_TW
+    - ShieldNjord_TW
+    - ShieldNjordTower_TW
+    - ShieldSurtr_TW
+    - ShieldSurtrTower_TW
+    - ShieldTyraniumBuckler_TW
 
   Bow:
     - Bow
     - BowDraugrFang
     - BowFineWood
     - BowHuntsman
+    - BowSpineSnap
+    - CrossbowArbalest
+    - BBH_Seeker_Bow
+    - JC_Reaper_Bow
+    - JC_Reaper_Crossbow
+    - VAAntler_Bow
+    - VACrossbowElder
+    - VACrossbowModer
+    - BowBlackmetal_TW
+    - BowTrollBone_TW
+    - CrossbowBlackmetal_TW
+    - CrossbowBronze_TW
+    - CrossbowIron_TW
+    - CrossbowSilver_TW
+    - GreatbowBlackmetal_TW
+    - GreatbowDvergr_TW
+    - GreatbowModer_TW
+    - BowNjord_TW
+    - BowSurtr_TW
+    - BowUllr_TW
+    - CrossbowNjord_TW
+    - CrossbowSurtr_TW
+    - GreatbowNjord_TW
+    - GreatbowSurtr_TW
 
   Tool:
     - Cultivator
     - Hammer
     - Hoe
+    - RuneFocus
 
   Ammo:
     - ArrowBronze
@@ -167,35 +578,31 @@ groups:
     - ArrowPoison
     - ArrowSilver
     - ArrowWood
-    - TorchArrow
-    - MistTorchArrow
     - ArrowCarapace
-    - ArrowBone_TW
-    - ArrowPickaxe_TW
-    - ArrowTyranium_TW
-    - ArrowFlametal_TW
-    - ArrowExplosiveLightning_TW
-    - ArrowExplosivePoison_TW
-    - ArrowExplosiveFrost_TW
-    - ArrowExplosiveFire_TW
-    - BoltBlackmetal
-    - BoltBlunt_TW
     - BoltBone
-    - BoltBronze_TW
-    - BoltCarapace
-    - BoltExplosiveFire_TW
-    - BoltExplosiveFrost_TW
-    - BoltExplosiveLightning_TW
-    - BoltExplosivePoison_TW
-    - BoltFire_TW
-    - BoltFlametal_TW
-    - BoltFrost_TW
     - BoltIron
-    - BoltPickaxe_TW
+    - BoltBlackmetal
+    - BoltCarapace
+    - TurretBoltWood
+    - TurretBolt
+    - MistTorchArrow
+    - TorchArrow
+    - VAArrowAncient
+    - VAArrowGreenMetal
+    - VABoltWood
+    - VAChitinArrow
+    - ArrowBone_TW
+    - BoltBlunt_TW
+    - BoltBronze_TW
+    - BoltFire_TW
+    - BoltFrost_TW
     - BoltPoison_TW
     - BoltSilver_TW
-    - BoltTyranium_TW
     - BoltWood_TW
+    - ArrowFlametal_TW
+    - ArrowTyranium_TW
+    - BoltFlametal_TW
+    - BoltTyranium_TW
 
   Consumable:
     - BarleyWine
@@ -231,6 +638,64 @@ groups:
     - TurnipStew
     - WolfJerky
     - WolfMeatSkewer
+    - MushroomMagecap
+    - MushroomJotunpuffs
+    - CookedEgg
+    - cookedbugmeat
+    - cookedharemeat
+    - CookedChickenMeat
+    - Meatplatter
+    - HoneyGlazedChicken
+    - Mistharesupreme
+    - Salad
+    - MushroomOmelette
+    - fishandbread
+    - MagicallyStuffedShroom
+    - YggdrasilPorridge
+    - SeekerAspic
+    - MeadHealthMajor
+    - MeadStaminaLingering
+    - MeadEitrMinor
+    - ct_bonfireinabottle
+    - ct_campfireinabottle
+    - ct_livingroominabottle
+    - BMP_MountainSoup
+    - BMP_MountainStew
+    - BMP_MushroomJam
+    - BMP_MushroomPie
+    - BMP_SautedMeatMushroom
+    - BearJerky_TW
+    - CookedBearSteak_TW
+    - CookedFoxMeat_TW
+    - FoxJerky_TW
+    - MixedGrill_TW
+    - RottingElkMeat_TW
+    - AshenOmelet_TW
+    - CookedAshenSharkMeat_TW
+    - CookedCrabMeat_TW
+    - CookedDimetrodonMeat_TW
+    - CookedScorpidMeat_TW
+    - DrakkarChili_TW
+    - MeatPie_TW
+    - RootPie_TW
+    - ScorpidKebab_TW
+    - SharkFinSoup_TW
+    - ArcticOmelet_TW
+    - ArcticStew_TW
+    - CookedArcticBearSteak_TW
+    - CookedArcticSerpentMeat_TW
+    - CookedArcticWolfMeat_TW
+    - CookedMammothMeat_TW
+    - FishPie_TW
+    - ShroomTart_TW
+    - MeadLightningResist_TW
+    - MeadStaminaLingeringMedium_TW
+    - MeadStaminaLingeringMinor_TW
+    - AshenRoot_TW
+    - MushroomFlamecap_TW
+    - MushroomWintercap_TW
+    - PrimalLeak_TW
+    - TundraBerry_TW
 
   AllWood:
     - Wood
@@ -253,11 +718,9 @@ groups:
     - Shoulder
     - Utility
     - Tool
-    - Torch
 
   NoLossOnDeath:
     - AllEquipment
-    - Beasts
     - Consumable
 
   DontSink:

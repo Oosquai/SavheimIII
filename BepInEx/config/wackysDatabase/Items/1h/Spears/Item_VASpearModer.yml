@@ -1,7 +1,7 @@
 name: VASpearModer
 m_weight: 1.5
 m_name: $item_spear_moder
-m_description: "A blade of ice, continually frozen by tears from Moder herself. It flies as though powered by dragonflight."
+m_description: "A blade of ice, continually frozen by tears from Moder herself. It flies as though powered by dragonflight when thrown."
 clonePrefabName: 
 mockName: 
 customIcon: 

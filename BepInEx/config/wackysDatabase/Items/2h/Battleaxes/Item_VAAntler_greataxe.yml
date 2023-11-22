@@ -1,7 +1,7 @@
 name: VAAntler_greataxe
 m_weight: 2.5
 m_name: $item_battleaxe_antler
-m_description: $item_battleaxe_antler_description
+m_description: "Twin antlers sharpened and chained, they still spark with Eikthyr's life.  Lighter than similar weapons, you're light on your feet with this."
 clonePrefabName: 
 mockName: 
 customIcon: 

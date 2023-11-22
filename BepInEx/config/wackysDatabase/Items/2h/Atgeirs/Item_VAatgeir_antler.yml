@@ -1,7 +1,7 @@
 name: VAatgeir_antler
 m_weight: 2.5
 m_name: $item_atgeir_antler
-m_description: $item_atgeir_antler_description
+m_description: "A branch from Eikthyr's crown attached to a pole, the Antlergeir.  Lighter than similar weapons, you're light on your feet with this."
 clonePrefabName: 
 mockName: 
 customIcon: 

@@ -1,7 +1,7 @@
 name: VAAntler_dagger
 m_weight: 0.3
 m_name: $item_dagger_antler
-m_description: $item_dagger_antler_description
+m_description: "A sharpened shard from Eikthyr's antlers, still teaming with electricity.  Lighter than similar weapons, you're light on your feet and quicker to parry with this."
 clonePrefabName: 
 mockName: 
 customIcon: 

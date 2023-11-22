@@ -1,7 +1,7 @@
 name: StaffIceShards
 m_weight: 0.3
 m_name: $item_stafficeshards
-m_description: $item_stafficeshards_description
+m_description: "A staff as cold as the three-year winter that will herald the end of times.  The special attack swings the frozen core in a tight circle, chilling anyone foolish enough to get too close."
 clonePrefabName: 
 mockName: 
 customIcon: 
@@ -63,8 +63,8 @@ Secondary_Attack:
   Chain_Attacks: 0
   Hit_Terrain: true
   Custom_AttackSpeed: 1.2
-  m_attackStamina: 0
-  m_eitrCost: 50
+  m_attackStamina: 20
+  m_eitrCost: 30
   AttackHealthCost: 0
   m_attackHealthPercentage: 0
   SpeedFactor: 0.2
@@ -85,7 +85,7 @@ Secondary_Attack:
   Bow_Animation_State: ''
   Attack_Angle: 360
   Attack_Ray_Width: 0.3
-  Lower_Dmg_Per_Hit: false
+  Lower_Dmg_Per_Hit: true
   Hit_Through_Walls: true
   Multi_Hit: true
   Pickaxe_Special: false

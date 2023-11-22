@@ -1,0 +1,358 @@
+Traveler's Beige Backpack:
+  description: "Carry stuff in whichever colorful style suits your viking taste, or just keep this bag in your inventory if you're that uncultured."
+  size: 4x2
+  appearance:
+    Sleepbag: hidden
+    BackpackStrapTop: hidden
+  crafting:
+    station: Workbench
+    level: 1
+    costs:
+      BronzeNails: 5
+      DeerHide: 10
+      LeatherScraps: 10
+  upgrade:
+    1:
+      Iron: 5
+      ElderBark: 10
+      Guck: 2
+      size: 4x3
+    2:
+      Silver: 5
+      WolfPelt: 3
+      JuteRed: 2
+      size: 4x4
+    3:
+      BlackMetal: 5
+      LinenThread: 10
+      LoxPelt: 2
+      size: 5x4
+    4:
+      Carapace: 5
+      ScaleHide: 5
+      JuteBlue: 2
+      size: 6x4
+
+Traveler's Brown Backpack:
+  description: "Carry stuff in whichever colorful style suits your viking taste, or just keep this bag in your inventory if you're that uncultured."
+  size: 4x2
+  appearance:
+    Sleepbag: hidden
+    BackpackStrapTop: hidden
+    BackpackFlap: 82470C
+  crafting:
+    station: Workbench
+    level: 1
+    costs:
+      BronzeNails: 5
+      DeerHide: 10
+      LeatherScraps: 10
+  upgrade:
+    1:
+      Iron: 5
+      ElderBark: 10
+      Guck: 2
+      size: 4x3
+    2:
+      Silver: 5
+      WolfPelt: 3
+      JuteRed: 2
+      size: 4x4
+    3:
+      BlackMetal: 5
+      LinenThread: 10
+      LoxPelt: 2
+      size: 5x4
+    4:
+      Carapace: 5
+      ScaleHide: 5
+      JuteBlue: 2
+      size: 6x4
+
+Traveler's Red Backpack:
+  description: "Carry stuff in whichever colorful style suits your viking taste, or just keep this bag in your inventory if you're that uncultured."
+  size: 4x2
+  appearance:
+    Sleepbag: hidden
+    BackpackStrapTop: hidden
+    BackpackFlap: 8A0A0A
+  crafting:
+    station: Workbench
+    level: 1
+    costs:
+      BronzeNails: 5
+      DeerHide: 10
+      LeatherScraps: 10
+  upgrade:
+    1:
+      Iron: 5
+      ElderBark: 10
+      Guck: 2
+      size: 4x3
+    2:
+      Silver: 5
+      WolfPelt: 3
+      JuteRed: 2
+      size: 4x4
+    3:
+      BlackMetal: 5
+      LinenThread: 10
+      LoxPelt: 2
+      size: 5x4
+    4:
+      Carapace: 5
+      ScaleHide: 5
+      JuteBlue: 2
+      size: 6x4
+
+Traveler's Blue Backpack:
+  description: "Carry stuff in whichever colorful style suits your viking taste, or just keep this bag in your inventory if you're that uncultured."
+  size: 4x2
+  appearance:
+    Sleepbag: hidden
+    BackpackStrapTop: hidden
+    BackpackFlap: 1A1ACA
+  crafting:
+    station: Workbench
+    level: 1
+    costs:
+      BronzeNails: 5
+      DeerHide: 10
+      LeatherScraps: 10
+  upgrade:
+    1:
+      Iron: 5
+      ElderBark: 10
+      Guck: 2
+      size: 4x3
+    2:
+      Silver: 5
+      WolfPelt: 3
+      JuteRed: 2
+      size: 4x4
+    3:
+      BlackMetal: 5
+      LinenThread: 10
+      LoxPelt: 2
+      size: 5x4
+    4:
+      Carapace: 5
+      ScaleHide: 5
+      JuteBlue: 2
+      size: 6x4
+
+Traveler's Green Backpack:
+  description: "Carry stuff in whichever colorful style suits your viking taste, or just keep this bag in your inventory if you're that uncultured."
+  size: 4x2
+  appearance:
+    Sleepbag: hidden
+    BackpackStrapTop: hidden
+    BackpackFlap: 0A8A0A
+  crafting:
+    station: Workbench
+    level: 1
+    costs:
+      BronzeNails: 5
+      DeerHide: 10
+      LeatherScraps: 10
+  upgrade:
+    1:
+      Iron: 5
+      ElderBark: 10
+      Guck: 2
+      size: 4x3
+    2:
+      Silver: 5
+      WolfPelt: 3
+      JuteRed: 2
+      size: 4x4
+    3:
+      BlackMetal: 5
+      LinenThread: 10
+      LoxPelt: 2
+      size: 5x4
+    4:
+      Carapace: 5
+      ScaleHide: 5
+      JuteBlue: 2
+      size: 6x4
+
+Traveler's Yellow Backpack:
+  description: "Carry stuff in whichever colorful style suits your viking taste, or just keep this bag in your inventory if you're that uncultured."
+  size: 4x2
+  appearance:
+    Sleepbag: hidden
+    BackpackStrapTop: hidden
+    BackpackFlap: EDED15
+  crafting:
+    station: Workbench
+    level: 1
+    costs:
+      BronzeNails: 5
+      DeerHide: 10
+      LeatherScraps: 10
+  upgrade:
+    1:
+      Iron: 5
+      ElderBark: 10
+      Guck: 2
+      size: 4x3
+    2:
+      Silver: 5
+      WolfPelt: 3
+      JuteRed: 2
+      size: 4x4
+    3:
+      BlackMetal: 5
+      LinenThread: 10
+      LoxPelt: 2
+      size: 5x4
+    4:
+      Carapace: 5
+      ScaleHide: 5
+      JuteBlue: 2
+      size: 6x4
+
+Traveler's Teal Backpack:
+  description: "Carry stuff in whichever colorful style suits your viking taste, or just keep this bag in your inventory if you're that uncultured."
+  size: 4x2
+  appearance:
+    Sleepbag: hidden
+    BackpackStrapTop: hidden
+    BackpackFlap: 15EDED
+  crafting:
+    station: Workbench
+    level: 1
+    costs:
+      BronzeNails: 5
+      DeerHide: 10
+      LeatherScraps: 10
+  upgrade:
+    1:
+      Iron: 5
+      ElderBark: 10
+      Guck: 2
+      size: 4x3
+    2:
+      Silver: 5
+      WolfPelt: 3
+      JuteRed: 2
+      size: 4x4
+    3:
+      BlackMetal: 5
+      LinenThread: 10
+      LoxPelt: 2
+      size: 5x4
+    4:
+      Carapace: 5
+      ScaleHide: 5
+      JuteBlue: 2
+      size: 6x4
+
+Traveler's Purple Backpack:
+  description: "Carry stuff in whichever colorful style suits your viking taste, or just keep this bag in your inventory if you're that uncultured."
+  size: 4x2
+  appearance:
+    Sleepbag: hidden
+    BackpackStrapTop: hidden
+    BackpackFlap: 9A12C7
+  crafting:
+    station: Workbench
+    level: 1
+    costs:
+      BronzeNails: 5
+      DeerHide: 10
+      LeatherScraps: 10
+  upgrade:
+    1:
+      Iron: 5
+      ElderBark: 10
+      Guck: 2
+      size: 4x3
+    2:
+      Silver: 5
+      WolfPelt: 3
+      JuteRed: 2
+      size: 4x4
+    3:
+      BlackMetal: 5
+      LinenThread: 10
+      LoxPelt: 2
+      size: 5x4
+    4:
+      Carapace: 5
+      ScaleHide: 5
+      JuteBlue: 2
+      size: 6x4
+
+Traveler's Gray Backpack:
+  description: "Carry stuff in whichever colorful style suits your viking taste, or just keep this bag in your inventory if you're that uncultured."
+  size: 4x2
+  appearance:
+    Sleepbag: hidden
+    BackpackStrapTop: hidden
+    BackpackFlap: 575757
+  crafting:
+    station: Workbench
+    level: 1
+    costs:
+      BronzeNails: 5
+      DeerHide: 10
+      LeatherScraps: 10
+  upgrade:
+    1:
+      Iron: 5
+      ElderBark: 10
+      Guck: 2
+      size: 4x3
+    2:
+      Silver: 5
+      WolfPelt: 3
+      JuteRed: 2
+      size: 4x4
+    3:
+      BlackMetal: 5
+      LinenThread: 10
+      LoxPelt: 2
+      size: 5x4
+    4:
+      Carapace: 5
+      ScaleHide: 5
+      JuteBlue: 2
+      size: 6x4
+
+Traveler's Black Backpack:
+  description: "Carry stuff in whichever colorful style suits your viking taste, or just keep this bag in your inventory if you're that uncultured."
+  size: 4x2
+  appearance:
+    Sleepbag: hidden
+    BackpackStrapTop: hidden
+    BackpackFlap: 3a3a3a
+  crafting:
+    station: Workbench
+    level: 1
+    costs:
+      BronzeNails: 5
+      DeerHide: 10
+      LeatherScraps: 10
+  upgrade:
+    1:
+      Iron: 5
+      ElderBark: 10
+      Guck: 2
+      size: 4x3
+    2:
+      Silver: 5
+      WolfPelt: 3
+      JuteRed: 2
+      size: 4x4
+    3:
+      BlackMetal: 5
+      LinenThread: 10
+      LoxPelt: 2
+      size: 5x4
+    4:
+      Carapace: 5
+      ScaleHide: 5
+      JuteBlue: 2
+      size: 6x4

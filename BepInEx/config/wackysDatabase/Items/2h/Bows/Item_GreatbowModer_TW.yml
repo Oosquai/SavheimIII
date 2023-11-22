@@ -1,7 +1,7 @@
 name: GreatbowModer_TW
 m_weight: 3
 m_name: $greatbow_moder_TW
-m_description: "Moder's magic flows through this greatbow, causing each arrow fired to split into two projectiles."
+m_description: "Moder's magic flows through this greatbow, causing each arrow fired to split into two projectiles.  This bow scales exceptionally well with higher quality arrows."
 clonePrefabName: 
 mockName: 
 customIcon: 
@@ -104,10 +104,10 @@ Damage:
   Chop: 0
   Damage: 0
   Fire: 0
-  Frost: 38
+  Frost: 22
   Lightning: 0
   Pickaxe: 0
-  Pierce: 15
+  Pierce: 22
   Poison: 0
   Slash: 0
   Spirit: 0
@@ -116,10 +116,10 @@ Damage_Per_Level:
   Chop: 0
   Damage: 0
   Fire: 0
-  Frost: 6
+  Frost: 3
   Lightning: 0
   Pickaxe: 0
-  Pierce: 4
+  Pierce: 3
   Poison: 0
   Slash: 0
   Spirit: 0

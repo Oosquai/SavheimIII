@@ -1,0 +1,14 @@
+name: BMP_ThunderStaff
+clonePrefabName: 
+craftingStation: $piece_magetable
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: true
+requireOnlyOneIngredient: false
+reqs:
+- Thunderstone:5:0:True
+- Eitr:36:18:True
+- Mandible:10:5:True
+- Iron:42:21:True
