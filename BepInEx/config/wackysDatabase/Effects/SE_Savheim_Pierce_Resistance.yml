@@ -5,7 +5,7 @@ IconName: ShieldSerpentscale
 CustomIcon: 
 FlashIcon: false
 CooldownIcon: false
-Tooltip: "Protects you from piercing attacks, like arrows."
+Tooltip: "Protects you from piercing attacks, like arrows or Deathsquitos."
 Attributes: None
 StartMessageLoc: TopLeft
 StartMessage: ''

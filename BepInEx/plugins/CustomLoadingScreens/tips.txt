@@ -19,7 +19,7 @@ Savheim III - The world gets more dangerous the further from center you travel. 
 Savheim III - Store surtling cores in boat inventories, then press Shift while controlling the boat.  Does not work on custom rafts.  Beware capsizing!
 Savheim III - Mouse over your boat's mast to modify your sail.  Please remember some of us have kids who might be watching us play as you sail by.
 Savheim III - Look closely at the description on your hammer for new ways to build.
-Savheim III - Change these keybinds in your game: Toggle Walk, Sit.  Recommended: , and .  (reserved by mods: Z, X, C, I, O, P, K, L, F1, F3, F6, Arrow keys, Keypad7, Keypad8, KeypadPlus, KeypadMinus, and Shift-{1-6}).
+Savheim III - Change these keybinds in your game: Toggle Walk, Sit.  Recommended: , and .  (reserved by mods: Z, X, C, F, G, I, O, P, K, L, F1, F3, Arrow keys, Keypad7, Keypad8, KeypadPlus, KeypadMinus, and Shift-{1-6}).
 Savheim III - Check your Valheim Compendium (inventory -> raven icon) for useful game and mod information, including Active Effects.
 Savheim III - Recommended game settings:  Disable Depth of Field, Chromatic Aberration, and Motion Blur.  You can also disable Key Hints.  You can disable Raven hints if you don't like Hugin, but at least give him a cracker first.
 Savheim III - You've learned to swim while holding things in your hands!  Go swimming!  Wat-er you waiting for??
@@ -33,8 +33,9 @@ Savheim III - Harpoons now have a basic secondary attack.  Primary attack tether
 Savheim III - All hand-held gear now equips instantly, making for more engaging gameplay.  You may sometimes notice animation glitching because of this, but I think it's worth the tradeoff.  Tell me what you think!
 Savheim III - Stealth no longer consumes stamina.  Swimming consumes significantly less stamina.  Stamina regenerates faster in general.  Food and rested buffs help even more with stamina.
 Savheim III - Death went to therapy and is nicer now.  You'll no longer drop equipment or consumables when you die, and you'll lose far less experience.  Resurrect each other with Surtling Cores.
-Savheim III - Boss powers now have both passive and active aspects.  Read about them at the starting stones or in your Valheim Compendium (inventory -> raven icon).
+Savheim III - Boss powers now have both passive and active aspects, and you get to choose two!  Read about them at the starting stones or in your Valheim Compendium (inventory -> raven icon).  Keybinds are hardcoded to F and G, regardless of in-game settings.
 Savheim III - Most weapon classes have received physics upgrades to give them unique and improved playstyles.  Give them all a second swing, even if you decided against them last playthrough.
 Savheim III - Zone progression:  Meadows -> Black Forest -> Swamp -> Mountains -> Plains -> Mistlands -> Ashlands & Deep North.  Ashlands and Deep North are intended to be equally-deadly end-game zones.
-Savheim III - Rested gives more buffs now, but it can't be teleported.  Press F6 to toggle showing which items near you are or aren't contributing to Comfort.  Rest in groups for extra comfort!
+Savheim III - The Rested buff gives more benefits now, but it can't be teleported.  There are more ways to gain Rested though, each level of Comfort adds more Rested time than it used to, and you can Rest in Groups for extra Comfort!
+Savheim III - Groups offer various benefits.  Commands:  /invite <name>; /leave; /remove <name>; /promote <name>; /p <chat text>; Left-Alt & middle mouse to group-ping.
 Savheim III - Thank you to Iron Gate Studio for making Valheim such a beautiful game, to all the creative modders out there for so many massive additions to it, and to the community for beautiful fanart.

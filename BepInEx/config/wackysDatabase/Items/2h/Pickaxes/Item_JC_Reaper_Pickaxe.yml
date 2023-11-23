@@ -106,7 +106,7 @@ Damage:
   Fire: 15
   Frost: 15
   Lightning: 15
-  Pickaxe: 76
+  Pickaxe: 87
   Pierce: 15
   Poison: 0
   Slash: 0
@@ -118,7 +118,7 @@ Damage_Per_Level:
   Fire: 2
   Frost: 2
   Lightning: 2
-  Pickaxe: 5
+  Pickaxe: 6
   Pierce: 2
   Poison: 0
   Slash: 0
