@@ -212,16 +212,17 @@ groups:
     - SaddleLox
     - CryptKey
     - BeltYmir_TW
-    - Traveler'sBeigeBackpack
-    - Traveler'sBrownBackpack
-    - Traveler'sRedBackpack
-    - Traveler'sBlueBackpack
-    - Traveler'sGreenBackpack
-    - Traveler'sYellowBackpack
-    - Traveler'sTealBackpack
-    - Traveler'sPurpleBackpack
-    - Traveler'sGrayBackpack
-    - Traveler'sBlackBackpack
+    - bp_explorer
+    - BeigeBackpack
+    - BrownBackpack
+    - RedBackpack
+    - BlueBackpack
+    - GreenBackpack
+    - YellowBackpack
+    - TealBackpack
+    - PurpleBackpack
+    - GrayBackpack
+    - BlackBackpack
     - BBH_BlackForest_Quiver
     - BBH_OdinPlus_Quiver
     - BBH_PlainsLox_Quiver

@@ -1,5 +1,5 @@
-Traveler's Beige Backpack:
-  description: "Carry stuff in whichever colorful style suits your viking taste, or just keep this bag in your inventory if you're that uncultured."
+Beige Backpack:
+  description: "Carry stuff in whichever colorful style suits your viking taste, or just keep this bag in your inventory if you're that uncultured.  Items stored in here will be kept on death."
   size: 4x2
   appearance:
     Sleepbag: hidden
@@ -33,8 +33,8 @@ Traveler's Beige Backpack:
       JuteBlue: 2
       size: 6x4
 
-Traveler's Brown Backpack:
-  description: "Carry stuff in whichever colorful style suits your viking taste, or just keep this bag in your inventory if you're that uncultured."
+Brown Backpack:
+  description: "Carry stuff in whichever colorful style suits your viking taste, or just keep this bag in your inventory if you're that uncultured.  Items stored in here will be kept on death."
   size: 4x2
   appearance:
     Sleepbag: hidden
@@ -69,8 +69,8 @@ Traveler's Brown Backpack:
       JuteBlue: 2
       size: 6x4
 
-Traveler's Red Backpack:
-  description: "Carry stuff in whichever colorful style suits your viking taste, or just keep this bag in your inventory if you're that uncultured."
+Red Backpack:
+  description: "Carry stuff in whichever colorful style suits your viking taste, or just keep this bag in your inventory if you're that uncultured.  Items stored in here will be kept on death."
   size: 4x2
   appearance:
     Sleepbag: hidden
@@ -105,8 +105,8 @@ Traveler's Red Backpack:
       JuteBlue: 2
       size: 6x4
 
-Traveler's Blue Backpack:
-  description: "Carry stuff in whichever colorful style suits your viking taste, or just keep this bag in your inventory if you're that uncultured."
+Blue Backpack:
+  description: "Carry stuff in whichever colorful style suits your viking taste, or just keep this bag in your inventory if you're that uncultured.  Items stored in here will be kept on death."
   size: 4x2
   appearance:
     Sleepbag: hidden
@@ -141,8 +141,8 @@ Traveler's Blue Backpack:
       JuteBlue: 2
       size: 6x4
 
-Traveler's Green Backpack:
-  description: "Carry stuff in whichever colorful style suits your viking taste, or just keep this bag in your inventory if you're that uncultured."
+Green Backpack:
+  description: "Carry stuff in whichever colorful style suits your viking taste, or just keep this bag in your inventory if you're that uncultured.  Items stored in here will be kept on death."
   size: 4x2
   appearance:
     Sleepbag: hidden
@@ -177,8 +177,8 @@ Traveler's Green Backpack:
       JuteBlue: 2
       size: 6x4
 
-Traveler's Yellow Backpack:
-  description: "Carry stuff in whichever colorful style suits your viking taste, or just keep this bag in your inventory if you're that uncultured."
+Yellow Backpack:
+  description: "Carry stuff in whichever colorful style suits your viking taste, or just keep this bag in your inventory if you're that uncultured.  Items stored in here will be kept on death."
   size: 4x2
   appearance:
     Sleepbag: hidden
@@ -213,8 +213,8 @@ Traveler's Yellow Backpack:
       JuteBlue: 2
       size: 6x4
 
-Traveler's Teal Backpack:
-  description: "Carry stuff in whichever colorful style suits your viking taste, or just keep this bag in your inventory if you're that uncultured."
+Teal Backpack:
+  description: "Carry stuff in whichever colorful style suits your viking taste, or just keep this bag in your inventory if you're that uncultured.  Items stored in here will be kept on death."
   size: 4x2
   appearance:
     Sleepbag: hidden
@@ -249,8 +249,8 @@ Traveler's Teal Backpack:
       JuteBlue: 2
       size: 6x4
 
-Traveler's Purple Backpack:
-  description: "Carry stuff in whichever colorful style suits your viking taste, or just keep this bag in your inventory if you're that uncultured."
+Purple Backpack:
+  description: "Carry stuff in whichever colorful style suits your viking taste, or just keep this bag in your inventory if you're that uncultured.  Items stored in here will be kept on death."
   size: 4x2
   appearance:
     Sleepbag: hidden
@@ -285,8 +285,8 @@ Traveler's Purple Backpack:
       JuteBlue: 2
       size: 6x4
 
-Traveler's Gray Backpack:
-  description: "Carry stuff in whichever colorful style suits your viking taste, or just keep this bag in your inventory if you're that uncultured."
+Gray Backpack:
+  description: "Carry stuff in whichever colorful style suits your viking taste, or just keep this bag in your inventory if you're that uncultured.  Items stored in here will be kept on death."
   size: 4x2
   appearance:
     Sleepbag: hidden
@@ -321,8 +321,8 @@ Traveler's Gray Backpack:
       JuteBlue: 2
       size: 6x4
 
-Traveler's Black Backpack:
-  description: "Carry stuff in whichever colorful style suits your viking taste, or just keep this bag in your inventory if you're that uncultured."
+Black Backpack:
+  description: "Carry stuff in whichever colorful style suits your viking taste, or just keep this bag in your inventory if you're that uncultured.  Items stored in here will be kept on death."
   size: 4x2
   appearance:
     Sleepbag: hidden
