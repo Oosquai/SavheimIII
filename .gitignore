@@ -1,5 +1,6 @@
 MonoBleedingEdge
 valheim_Data
+!valheim_Data/boot.config
 steam_appid.txt
 UnityCrashHandler64.exe
 UnityPlayer.dll
