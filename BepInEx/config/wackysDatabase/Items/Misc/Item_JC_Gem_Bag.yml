@@ -1,7 +1,7 @@
 name: JC_Gem_Bag
 m_weight: 1
 m_name: $jc_gem_bag
-m_description: "A magical bag to store all your gems.  Gems you pick up are automatically added to this bag.  Items stored in here will be kept on death."
+m_description: "A magical bag to store all your gems.  Gems you pick up are automatically added to this bag.  This container and all contents will stay with your tombstone on death."
 clonePrefabName: 
 mockName: 
 customIcon: 

@@ -1,0 +1,12 @@
+name: ct_campfireinabottle
+clonePrefabName: 
+craftingStation: $piece_cauldron
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+requireOnlyOneIngredient: false
+reqs:
+- CookedDeerMeat:1:0:True
+- Coal:1:0:True

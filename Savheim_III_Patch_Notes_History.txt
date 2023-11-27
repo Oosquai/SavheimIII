@@ -3,39 +3,45 @@
 
 *** All Savheim III Loading Screen Tips ***
 Savheim III - Press ~ (above Tab) to swap hotbars.  Middle mouse does a special attack with most weapons.  Parry by blocking the moment you'd get hit.
-Savheim III - Swords - on-demand damage types.  Clubs - stagger.  Daggers - flanking, crit, and unique dodge.  Axes - chain attack DPS.  Spears - throwable.
-Savheim III - Greatswords - parry.  Atgiers - knocback.  Sledges - AOE.  Battleaxes - damage.  Claws - flanking, crit, kick, and unique dodge.
-Savheim III - Bucklers excel at parrying.  Tower shields let you block for days.  Medium shields are a blend of both.
-Savheim III - Move deathlog: When visible, press Esc, then click and drag.  Move extra hotkeys: Esc, Left-Alt + drag.  Move chest inventory: Left-Alt + drag.
+Savheim III - Swords - on-demand damage types.  Clubs - stagger.  Daggers - flanking, crit, and unique dodge.  Axes - chain attack DPS.  Spears - throwable (with slow auto-return to prevent loss) and improved melee attack range.  Warpikes - stabby spears.
+Savheim III - Atgiers - AOE knockback.  Lances - knockback and bleed.  Claymores - parry & speed.  Bastard Swords - parry & damage.  Sledges - AOE.  Battlehammers - stagger.  Battleaxes - execute.  Crystal Battleaxes - stagger poke.  Fists - flanking, crit, parry, unique effects, and unique dodge.
+Savheim III - Bows - normal draw and projectile speeds.  Greatbows - slower draw speed, faster projectile speed, greater range and damage, knockback.  Crossbows - slow reload, very high damage and knockback.  Zoom with right click while aiming.  Press Interact (default E) to cancel draw.
+Savheim III - Bucklers excel at parrying.  Tower shields let you block for days, and some of them offer special resists.  Medium shields are a blend of both.
+Savheim III - Boss weapons offer a variety of perks, including stronger upgrades, unique effects, and more.  Some are crafted, some are unique drops.
+Savheim III - No more than 3 sockets can be crafted into any piece of gear.
+Savheim III - You can reposition some GUI windows by clicking & dragging, or Left-Alt and then click & drag.  Press Esc to get a cursor.
 Savheim III - Put a Rune Focus on your hotbar and then tap that hotkey while facing a lore stone.
-Savheim III - Mouse over the "Craft" tab at crafting tables for a filter.
-Savheim III - Hoppers are helpful when set up properly with kilns, smelters, treasure chests, etc.  Find them in the Hammer Crafting tab once you unlock them.
-Savheim III - Block Armor = block value.  [Block Armor * Parry Bonus] = parry value.  Excess damage drains health.  Tower shields drain stamina before health.  Block Force does nothing.
+Savheim III - Learn to dodge and parry to make combat much more engaging and effective.  Dodge - hold block and press jump.  Parry - block just in time.  Most weapons have special attacks on the middle mouse button!
+Savheim III - Block Armor = how much you can block.  [Block Armor * Parry Bonus] = how much you can parry.  Excess damage drains health.  Tower shields drain stamina before health.  Block Force does nothing.
 Savheim III - Backstab: sneaking, attack from behind, and enemy not in combat.  Flanking: Attack an enemy's back.  Critical:  Attack a staggered enemy.
-*Savheim III - Dual wield pairs of swords, clubs, knives, or axes by equipping two of the same class.  Try the special attack!  Dual_* skill level and offhand stats don't affect damage.
+Savheim III - Dual wield pairs of swords, clubs, knives, or axes by equipping two of the same class.  Try their special attacks!  Offhand weapon stats don't affect damage, but they do affect block and parry.
 Savheim III - Most resources, including dungeons, will respawn eventually, but very slowly.
+Savheim III - Mouse over the CRAFT tab in crafting menus to see a filter.  Use the SEARCH tab to browse recipes you've discovered.
 Savheim III - Try to unlock as many recipes as you can...  Bronze Nails?  What do I need those for?  Craft them and see!
-Savheim III - Those who venture far return wealthy... if they return at all.
+Savheim III - The world gets more dangerous the further from center you travel.  Those who venture far return wealthy... if they return at all.
 Savheim III - Store surtling cores in boat inventories, then press Shift while controlling the boat.  Does not work on custom rafts.  Beware capsizing!
-Savheim III - Free rotate while building: Hold L, I, or K (X, Y, and Z, respectively) and spin mouse wheel.  Copy rotation: O.  Perpendicular: P.
-Savheim III - Change these keybinds in your game: Toggle Walk, Sit.  Recommended: , and .  (avoid Z, X, C, F, G, T, I, O, P, K, and L)
-Savheim III - TALK TO HUGIN REPEATEDLY to learn, and keep learning, of Legends.  View them after in your Valheim Compendium (inventory -> raven icon).
-Savheim III - Recommended game settings:  Disable Depth of Field, Chromatic Aberration, and Motion Blur.  You can also disable Key Hints.  Keep Raven Hints on!
-Savheim III - Use 'E' to pull with the harpoon.  You'd normally harpoon things that are lighter than you, right?  ... with great power comes great responsibility.
-Savheim III - You can remove gems from crafted gear, but not from dropped gear.
-Savheim III - You've learned to swim while holding things in your hands!  Wat-er you waiting for??
-Savheim III - You need to eat special food to have eitr...  Wait.  eiter?  eater!?  You're an eater!  A magical eater!!  It all makes sense now.
-Savheim III - Items on the ground in the wild will despawn after 4 hours.
-Savheim III - Wards do stuff now: close doors, no death penalty, no food drain, infinite fires, no weather damage, auto repair, stamina boost.  Advanced wards also slowly damage enemies.
-Savheim III - Try offering various early game items to Eikthyr's altar.
-Savheim III - Custom rafts cannot be controlled from their rudders.  Craft and place a helm instead.  Interact with the helm, then press Shift to lift the anchor.
-Savhiem III - Keep an eye on your workbench after killing bosses or looting unusual materials for some beastly new recipes.
+Savheim III - Mouse over your boat's mast to modify your sail.  Please remember some of us have kids who might be watching us play as you sail by.
+Savheim III - Look closely at the description on your hammer for new ways to build.
+Savheim III - Change these keybinds in your game: Toggle Walk, Sit.  Recommended: , and .  (reserved by mods: Z, X, C, F, G, I, O, P, K, L, F1, F3, Arrow keys, Keypad7, Keypad8, KeypadPlus, KeypadMinus, and Shift-{1-6}).
+Savheim III - Check your Valheim Compendium (inventory -> raven icon) for useful game and mod information, including Active Effects.
+Savheim III - Recommended game settings:  Disable Depth of Field, Chromatic Aberration, and Motion Blur.  You can also disable Key Hints.  You can disable Raven hints if you don't like Hugin, but at least give him a cracker first.
+Savheim III - You've learned to swim while holding things in your hands!  Go swimming!  Wat-er you waiting for??
+Savheim III - Items on the ground in the wild will despawn after 4 hours.  "The wild" means areas away from where you've built.
+Savheim III - Wards do stuff now:  close doors, no death penalty, no food drain, infinite fires, no weather damage, auto repair, stamina boost.  Advanced wards also slowly damage enemies.
 Savheim III - Endgame zones will be entirely new experiences since Savheim II!
 Savheim III - This version of Savheim takes several steps to safeguard performance.
+Savheim III - Slope combat works much better now, but you have to aim properly!
+Savheim III - Harpoons now have a basic secondary attack.  Primary attack tethers, and then the Use key reels the tether in if it's lighter than you.  If it's heavier than you, well, with great power comes great responsibility.
+Savheim III - All hand-held gear now equips instantly, making for more engaging gameplay.  You may sometimes notice animation glitching because of this, but I think it's worth the tradeoff.  Tell me what you think!
+Savheim III - Stealth no longer consumes stamina.  Swimming consumes significantly less stamina.  Stamina regenerates faster in general.  Food and rested buffs help even more with stamina.
+Savheim III - Death went to therapy and is nicer now.  You'll no longer drop equipment or consumables when you die, and you'll lose far less experience.  Resurrect each other with Surtling Cores.
+Savheim III - Boss powers now have both passive and active aspects, and you get to choose two!  Read about them at the starting stones or in your Valheim Compendium (inventory -> raven icon).  Keybinds are hardcoded to F and G, regardless of in-game settings.
+Savheim III - Most weapon classes have received physics upgrades to give them unique and improved playstyles.  Give them all a second swing, even if you decided against them last playthrough.
+Savheim III - Zone progression:  Meadows -> Black Forest -> Swamp -> Mountains -> Plains -> Mistlands -> Ashlands & Deep North.  Ashlands and Deep North are intended to be equally-deadly end-game zones.
+Savheim III - The Rested buff gives more benefits now, but it can't be teleported.  There are more ways to gain Rested though, and each level of Comfort adds more Rested time than it used to.
+Savheim III - Thank you to Iron Gate Studio for making Valheim such a beautiful game, to all the creative modders out there for so many massive additions to it, and to the community for beautiful fanart.
 
 *** Savheim III Title Screen Header Tips ***
-- MUST CHANGE Controls: Toggle Walk, Sit.  Recommended: , .
-- Keys reserved by mods: Z, X, C, F, G, T, I, O, P, K, L
-- Recommended Graphics:  Depth of Field=Off, Chromatic Aberration=Off, Motion Blur=Off.
-- You can disable Key Hints, but keep Raven Hints on!
-- Move 3-hotkeys: Esc, Left-Alt + drag.  Move chest inventory: Left-Alt + drag.  Move deathlog: Esc, drag.
+- MUST CHANGE Controls: Toggle Walk, Sit.  Recommended:  , .
+- Move windows: click & drag (some need Left-Alt). Esc for cursor.
+- Patch Notes history:  <color=blue>...\Steam\steamapps\common\Valheim\</color>

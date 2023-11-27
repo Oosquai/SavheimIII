@@ -212,23 +212,23 @@ groups:
     - SaddleLox
     - CryptKey
     - BeltYmir_TW
-    - bp_explorer
-    - BeigeBackpack
-    - BrownBackpack
-    - RedBackpack
-    - BlueBackpack
-    - GreenBackpack
-    - YellowBackpack
-    - TealBackpack
-    - PurpleBackpack
-    - GrayBackpack
-    - BlackBackpack
+#    - bp_explorer
+#    - BeigeBackpack
+#    - BrownBackpack
+#    - RedBackpack
+#    - BlueBackpack
+#    - GreenBackpack
+#    - YellowBackpack
+#    - TealBackpack
+#    - PurpleBackpack
+#    - GrayBackpack
+#    - BlackBackpack
     - BBH_BlackForest_Quiver
     - BBH_OdinPlus_Quiver
     - BBH_PlainsLox_Quiver
     - BBH_Seeker_Quiver
     - JC_blueish_Necklace
-    - JC_Gem_Bag
+#    - JC_Gem_Bag
     - JC_Necklace_Blue
     - JC_Necklace_Green
     - JC_Necklace_Purple
@@ -307,6 +307,7 @@ groups:
     - BMP_LightningStaff
     - BMP_PoisonStaff
     - BMP_SurtlingStaff
+    - BMP_NeckTotem
     - VAAntler_greataxe
     - VAatgeir_antler
     - VABonemassGreatsword
@@ -405,6 +406,11 @@ groups:
     - ThrowAxeNjord_TW
     - ThrowAxeSurtr_TW
     - VolcanicBlade_TW
+    - StaffSkrymir_TW
+    - StaffStorm_TW
+    - StaffImpDemon_TW
+    - DualSwordScimitar_TW
+    - DualHammerStormstrike_TW
 
   OneHandedWeapon:
     - AxeBlackMetal
