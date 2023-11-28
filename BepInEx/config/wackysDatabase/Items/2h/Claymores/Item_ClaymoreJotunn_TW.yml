@@ -134,7 +134,7 @@ SE_Equip:
   EffectName: SE_Executioner_25_TW
 SE_SET_Equip: 
 ShieldStats:
-  m_blockPower: 70
+  m_blockPower: 76
   m_blockPowerPerLevel: 2
   m_timedBlockBonus: 2.5
   m_deflectionForce: 50

@@ -1,7 +1,7 @@
 name: DualSwordScimitar_TW
 m_weight: 0.3
 m_name: $dual_swordscimitar_TW
-m_description: "These deadly dual swords were built for speed."
+m_description: $dual_swordscimitar_description_TW
 clonePrefabName: 
 mockName: 
 customIcon: 

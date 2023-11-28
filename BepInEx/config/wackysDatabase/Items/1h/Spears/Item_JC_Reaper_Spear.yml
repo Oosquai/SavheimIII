@@ -1,7 +1,7 @@
 name: JC_Reaper_Spear
 m_weight: 1.5
 m_name: $jc_reaper_spear
-m_description: $jc_reaper_spear_description
+m_description: "A spear made from bone, blessed by heaven itself.  This weapon flies faster and further than any other spear when thrown, and it deals 10% bonus damage to world bosses."
 clonePrefabName: 
 mockName: 
 customIcon: 
@@ -89,7 +89,7 @@ Secondary_Attack:
   Pickaxe_Special: false
   Last_Chain_Dmg_Multiplier: 2
   Attack_Projectile: JC_Reaper_Spear_Pro
-  Projectile_Vel: 20
+  Projectile_Vel: 50
   Projectile_Accuraccy: 1
   Projectiles: 1
   AEffects:

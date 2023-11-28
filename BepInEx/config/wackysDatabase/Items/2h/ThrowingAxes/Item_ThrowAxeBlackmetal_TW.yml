@@ -102,7 +102,7 @@ Secondary_Attack:
     Burst_Effect: 
 Damage:
   Blunt: 0
-  Chop: 50
+  Chop: 0
   Damage: 0
   Fire: 0
   Frost: 0

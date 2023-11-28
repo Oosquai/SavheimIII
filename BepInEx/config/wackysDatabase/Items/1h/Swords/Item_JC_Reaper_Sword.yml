@@ -1,7 +1,7 @@
 name: JC_Reaper_Sword
 m_weight: 0.8
 m_name: $jc_reaper_sword
-m_description: $jc_reaper_sword_description
+m_description: "A sword made from bone, blessed by heaven itself.  This weapon has a very quick thrust, excellent parrying ability, and deals 10% bonus damage to world bosses."
 clonePrefabName: 
 mockName: 
 customIcon: 
@@ -60,7 +60,7 @@ Secondary_Attack:
   Attack_Random_Animation: 0
   Chain_Attacks: 0
   Hit_Terrain: true
-  Custom_AttackSpeed: 1
+  Custom_AttackSpeed: 1.5
   m_attackStamina: 28
   m_eitrCost: 0
   AttackHealthCost: 0
@@ -135,7 +135,7 @@ SE_SET_Equip:
 ShieldStats:
   m_blockPower: 57
   m_blockPowerPerLevel: 2
-  m_timedBlockBonus: 2
+  m_timedBlockBonus: 2.5
   m_deflectionForce: 20
   m_deflectionForcePerLevel: 5
 m_maxStackSize: 1

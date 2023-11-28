@@ -1,7 +1,7 @@
 name: JC_Reaper_TH_Sword
 m_weight: 4
 m_name: $jc_reaper_th_sword
-m_description: $jc_reaper_th_sword_description
+m_description: "A claymore made from bone, blessed by heaven itself.  This weapon swings faster than other claymores, has improved parrying capability, and deals 10% bonus damage to world bosses."
 clonePrefabName: 
 mockName: 
 customIcon: 
@@ -15,7 +15,7 @@ Primary_Attack:
   Attack_Random_Animation: 0
   Chain_Attacks: 3
   Hit_Terrain: true
-  Custom_AttackSpeed: 1
+  Custom_AttackSpeed: 1.4
   m_attackStamina: 16
   m_eitrCost: 0
   AttackHealthCost: 0
@@ -135,7 +135,7 @@ SE_SET_Equip:
 ShieldStats:
   m_blockPower: 76
   m_blockPowerPerLevel: 2
-  m_timedBlockBonus: 2.5
+  m_timedBlockBonus: 3
   m_deflectionForce: 50
   m_deflectionForcePerLevel: 10
 m_maxStackSize: 1

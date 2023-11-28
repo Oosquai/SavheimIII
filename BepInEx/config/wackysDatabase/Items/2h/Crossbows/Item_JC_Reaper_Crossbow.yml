@@ -1,7 +1,7 @@
 name: JC_Reaper_Crossbow
 m_weight: 1.5
 m_name: $jc_reaper_crossbow
-m_description: $jc_reaper_crossbow_description
+m_description: "A crossbow made from bone, blessed by heaven itself.  This weapon has a slightly improved reload time and deals 10% bonus damage to world bosses."
 clonePrefabName: 
 mockName: 
 customIcon: 
@@ -30,7 +30,7 @@ Primary_Attack:
   Spawn_On_Trigger: 
   Requires_Reload: true
   Reload_Animation: reload_crossbow
-  ReloadTime: 3.1
+  ReloadTime: 3
   Reload_Stamina_Drain: 1
   Bow_Draw: false
   Bow_Duration_Min: 0

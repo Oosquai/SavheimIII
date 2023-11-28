@@ -1,7 +1,7 @@
 name: JC_Reaper_TH_Mace
 m_weight: 4
 m_name: $jc_reaper_th_mace
-m_description: $jc_reaper_th_mace_description
+m_description: "A giant mace made from bone, blessed by heaven itself.  This weapon has a larger explosion on its special attack and deals 10% bonus damage to world bosses."
 clonePrefabName: 
 mockName: 
 customIcon: 
@@ -87,7 +87,7 @@ Secondary_Attack:
   Bow_Stamina_Drain: 0
   Bow_Animation_State: ''
   Attack_Angle: 90
-  Attack_Ray_Width: 4
+  Attack_Ray_Width: 5
   Lower_Dmg_Per_Hit: true
   Hit_Through_Walls: false
   Multi_Hit: true
