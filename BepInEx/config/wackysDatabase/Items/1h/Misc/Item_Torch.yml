@@ -1,7 +1,7 @@
 name: Torch
 m_weight: 1
 m_name: $item_torch
-m_description: $item_torch_description
+m_description: "It brings light and precious warmth on cold nights, driving back the darkness.  This can be upgraded with a certain kind of leather."
 clonePrefabName: 
 mockName: 
 customIcon: 
@@ -112,6 +112,17 @@ Damage:
   Slash: 0
   Spirit: 0
 Damage_Per_Level: 
+  Blunt: 2
+  Chop: 0
+  Damage: 0
+  Fire: 4
+  Frost: 0
+  Lightning: 0
+  Pickaxe: 0
+  Pierce: 0
+  Poison: 0
+  Slash: 0
+  Spirit: 0
 Armor:
   armor: 15
   armorPerLevel: 1
@@ -148,7 +159,7 @@ m_skillType: Clubs
 m_animationState: Torch
 m_itemType: Torch
 m_toolTier: 0
-m_maxQuality: 1
+m_maxQuality: 2
 m_value: 0
 ConsumableStatusEffect: 
 damageModifiers:

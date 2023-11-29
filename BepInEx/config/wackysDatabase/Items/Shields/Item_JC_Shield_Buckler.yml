@@ -1,7 +1,7 @@
 name: JC_Shield_Buckler
 m_weight: 5
 m_name: $jc_shield_buckler
-m_description: "A shield made from bone, blessed by heaven itself. This shield is exceptional at parrying attacks and has 10% increased block power against world bosses."
+m_description: "A shield made from a mysterious, otherworldly material. This shield is exceptional at parrying attacks and has 10% increased block power against world bosses."
 clonePrefabName: 
 mockName: 
 customIcon: 

@@ -1,7 +1,7 @@
 name: JC_Shield_Tower
 m_weight: 3
 m_name: $jc_shield_tower
-m_description: $jc_shield_tower_description
+m_description: "A giant shield made from a mysterious, otherworldly material.  This shield is a bulwark against the elements and has 10% increased block power against world bosses."
 clonePrefabName: 
 mockName: 
 customIcon: 

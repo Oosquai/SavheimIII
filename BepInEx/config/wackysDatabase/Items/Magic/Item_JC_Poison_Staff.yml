@@ -1,7 +1,7 @@
 name: JC_Poison_Staff
 m_weight: 0.3
 m_name: $jc_poison_staff
-m_description: "A poison staff made from bone, corrupted and foul.  The special attack is a wild melee swing to send foes flying, giving poison time to work.  This weapon deals 10% bonus damage to world bosses."
+m_description: "A poison staff made from a mysterious, otherworldly material, but corrupted and foul.  The special attack is a wild melee swing that can send foes flying, giving poison time to do its work.  This weapon deals 10% bonus damage to world bosses."
 clonePrefabName: 
 mockName: 
 customIcon: 

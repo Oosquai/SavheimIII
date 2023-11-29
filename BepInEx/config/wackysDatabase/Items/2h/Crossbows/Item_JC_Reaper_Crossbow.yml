@@ -1,7 +1,7 @@
 name: JC_Reaper_Crossbow
 m_weight: 1.5
 m_name: $jc_reaper_crossbow
-m_description: "A crossbow made from bone, blessed by heaven itself.  This weapon has a slightly improved reload time and deals 10% bonus damage to world bosses."
+m_description: "A crossbow made from a mysterious, otherworldly material.  This weapon has an improved reload time and deals 10% bonus damage to world bosses."
 clonePrefabName: 
 mockName: 
 customIcon: 

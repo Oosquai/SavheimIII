@@ -1,7 +1,7 @@
 name: JC_Reaper_Shield
 m_weight: 3
 m_name: $jc_reaper_shield
-m_description: $jc_reaper_shield_description
+m_description: "A shield made from a mysterious, otherworldly material.  This shield offers additional protection against piercing attacks and has 10% increased block power against world bosses."
 clonePrefabName: 
 mockName: 
 customIcon: 
