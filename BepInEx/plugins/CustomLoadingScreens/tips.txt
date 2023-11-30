@@ -11,12 +11,12 @@ Savheim III - Learn to dodge and parry to make combat much more engaging and eff
 Savheim III - Block Armor = how much you can block.  [Block Armor * Parry Bonus] = how much you can parry.  Excess damage drains health.  Tower shields drain stamina before health.  Block Force does nothing.
 Savheim III - Backstab: sneaking, attack from behind, and enemy not in combat.  Flanking: Attack an enemy's back.  Critical:  Attack a staggered enemy.
 Savheim III - Dual wield pairs of swords, clubs, knives, or axes by equipping two of the same class.  Try their special attacks!  Offhand weapon stats don't affect damage, but they do affect block and parry.
-Savheim III - Camps will respawn about once every in-game season (25 in-game days).  Resources and dungeons will respawn about once every in-game year (100 in-game days).
+Savheim III - Camps will respawn after about one in-game season (25 in-game days).  Resources and dungeons will respawn after about one in-game year (100 in-game days).
 Savheim III - Try to unlock as many recipes as you can...  Bronze Nails?  What do I need those for?  Craft them and see!
 Savheim III - The world gets more dangerous the further from center you travel.  Those who venture far return wealthy... if they return at all.
 Savheim III - Store surtling cores in boat inventories, then press Shift while controlling the boat.  Does not work on custom rafts.  Beware capsizing!
 Savheim III - Mouse over a banner or boat mast to link an image.  Try imgur.com (use the Direct Link URL) or just right-click an online image and select "Copy image address."  Please remember some of us have kids who might be watching us play.
-Savheim III - Look closely at your Hammer's description for new ways to build.
+Savheim III - Lots of important information has been added to item tooltips.  For example, look closely at your Hammer's description for new ways to build.
 Savheim III - Change these keybinds in your game: Toggle Walk, Sit.  Recommended: , and .  (reserved by mods: Z, X, C, F, G, I, O, P, K, L, F1, F3, Arrow keys, Keypad7, Keypad8, KeypadPlus, KeypadMinus, and Shift-{1-6}).
 Savheim III - Check your Valheim Compendium (inventory -> raven icon) for useful game and mod information, including Active Effects.
 Savheim III - Recommended game settings:  Disable Depth of Field, Chromatic Aberration, and Motion Blur.  You can also disable Key Hints.  You can disable Raven hints if you don't like Hugin, but at least give him a cracker first.
@@ -36,6 +36,7 @@ Savheim III - Zone progression:  Meadows -> Black Forest -> Swamp -> Mountains -
 Savheim III - The Rested buff gives more benefits now, but it can't be teleported.  There are more ways to gain Rested though, and each level of Comfort adds more Rested time than it used to.
 Savheim III - Thank you to Iron Gate Studio for making Valheim such a beautiful game, to all the creative modders out there for so many massive additions to it, and to the community for beautiful fanart.
 *Savheim III - If you're playing at 3440x1440 resolution, please go to \Valheim\BepInEx\config, delete Azumatt.BowsBeforeHoes.cfg, then remove "_3440x1440" from the filename of Azumatt.BowsBeforeHoes_3440x1440.cfg.
+*Savheim III - The game takes a while to load with so many mods installed.  Please be patient.
 *Savheim III - KNOWN BUG:  Please unequip your current quiver before crafting or equipping a different one.  There is currently a bug with quivers that cause weird interactions when you have a quiver equipped and try to craft or equip a different quiver.
 *Savheim III - KNOWN BUG:  Don't split stacks inside Backpacks or Quivers and then drop the split quantity from your cursor onto the ground.  This causes an error.  I don't think it hurts anything, but I don't know for sure.
 *Savheim III - KNOWN BUG:  You can rename some NPCs, but the name won't update until you leave and return to the area, causing the nameplate to reload.

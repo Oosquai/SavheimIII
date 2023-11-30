@@ -1,7 +1,7 @@
 Name: SE_Savheim_Blunt_Resistance
 Status_m_name: Blunt Resist
 Category: ''
-IconName: ShieldCarapaceTower_TW
+IconName: potion_frostresist
 CustomIcon: 
 FlashIcon: false
 CooldownIcon: false

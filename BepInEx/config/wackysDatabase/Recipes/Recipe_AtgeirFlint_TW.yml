@@ -1,0 +1,13 @@
+name: AtgeirFlint_TW
+clonePrefabName: 
+craftingStation: $piece_workbench
+minStationLevel: 2
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: true
+requireOnlyOneIngredient: false
+reqs:
+- Flint:8:4:True
+- Wood:10:5:True
+- FoxPelt_TW:3:0:True

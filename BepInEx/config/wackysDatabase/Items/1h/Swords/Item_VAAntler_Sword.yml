@@ -1,7 +1,7 @@
 name: VAAntler_Sword
 m_weight: 0.8
 m_name: $item_sword_antler
-m_description: "Twisted antlers bound by chains from Eikthyr's remains, still seething with energy.  Lighter than similar weapons, you're light on your feet and quicker to parry with this."
+m_description: "Twisted antlers bound by chains from Eikthyr's remains, still seething with energy.  Lighter than similar weapons, you're light on your feet with this."
 clonePrefabName: 
 mockName: 
 customIcon: 
@@ -117,7 +117,7 @@ Damage_Per_Level:
   Damage: 0
   Fire: 0
   Frost: 0
-  Lightning: 4
+  Lightning: 2
   Pickaxe: 0
   Pierce: 0
   Poison: 0
@@ -135,7 +135,7 @@ SE_SET_Equip:
 ShieldStats:
   m_blockPower: 12
   m_blockPowerPerLevel: 2
-  m_timedBlockBonus: 2.5
+  m_timedBlockBonus: 2
   m_deflectionForce: 20
   m_deflectionForcePerLevel: 5
 m_maxStackSize: 1

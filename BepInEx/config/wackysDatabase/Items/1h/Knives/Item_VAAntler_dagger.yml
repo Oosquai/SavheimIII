@@ -1,7 +1,7 @@
 name: VAAntler_dagger
 m_weight: 0.3
 m_name: $item_dagger_antler
-m_description: "A sharpened shard from Eikthyr's antlers, still teaming with electricity.  Lighter than similar weapons, you're light on your feet and quicker to parry with this."
+m_description: "A sharpened shard from Eikthyr's antlers, still teaming with electricity."
 clonePrefabName: 
 mockName: 
 customIcon: 
@@ -135,7 +135,7 @@ SE_SET_Equip:
 ShieldStats:
   m_blockPower: 11
   m_blockPowerPerLevel: 1
-  m_timedBlockBonus: 5
+  m_timedBlockBonus: 4
   m_deflectionForce: 10
   m_deflectionForcePerLevel: 5
 m_maxStackSize: 1

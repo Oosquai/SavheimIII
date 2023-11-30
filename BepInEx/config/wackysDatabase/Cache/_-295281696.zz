@@ -1,7 +1,7 @@
 name: TorchTest
 m_weight: 1
 m_name: TorchTest
-m_description: $item_torch_description
+m_description: It brings light and precious warmth on cold nights, driving back the darkness.  This can be upgraded with a certain kind of leather.
 clonePrefabName: Torch
 mockName: 
 customIcon: 
@@ -111,7 +111,18 @@ Damage:
   Poison: 0
   Slash: 0
   Spirit: 0
-Damage_Per_Level: 
+Damage_Per_Level:
+  Blunt: 2
+  Chop: 0
+  Damage: 0
+  Fire: 4
+  Frost: 0
+  Lightning: 0
+  Pickaxe: 0
+  Pierce: 0
+  Poison: 0
+  Slash: 0
+  Spirit: 0
 Armor:
   armor: 15
   armorPerLevel: 1
@@ -119,7 +130,8 @@ FoodStats:
 Moddifiers:
   m_movementModifier: -0.05
   m_EitrRegen: 0
-SE_Equip: 
+SE_Equip:
+  EffectName: SE_Savheim_Torch
 SE_SET_Equip: 
 ShieldStats:
   m_blockPower: 3
@@ -151,9 +163,7 @@ m_toolTier: 0
 m_maxQuality: 2
 m_value: 0
 ConsumableStatusEffect: 
-damageModifiers:
-- 2048:Resistant
-- 1024:Resistant
+damageModifiers: []
 GEffects:
   Hit_Effects:
   - sfx_club_hit

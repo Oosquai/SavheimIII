@@ -594,6 +594,7 @@ groups:
     - TurretBolt
     - MistTorchArrow
     - TorchArrow
+    - SeekerArrow
     - VAArrowAncient
     - VAArrowGreenMetal
     - VABoltWood

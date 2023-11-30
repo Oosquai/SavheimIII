@@ -116,8 +116,8 @@ Damage_Per_Level:
   Chop: 0
   Damage: 0
   Fire: 0
-  Frost: 6
-  Lightning: 0
+  Frost: 0
+  Lightning: 6
   Pickaxe: 0
   Pierce: 0
   Poison: 0
