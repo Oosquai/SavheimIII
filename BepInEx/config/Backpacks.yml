@@ -41,14 +41,14 @@ Brown Backpack:
   appearance:
     Sleepbag: hidden
     BackpackStrapTop: hidden
-    BackpackFlap: 82470C
+    BackpackBody: BD8512
   crafting:
     station: Workbench
     level: 1
     costs:
       BronzeNails: 5
       DeerHide: 10
-      LeatherScraps: 10
+      FoxPelt_TW: 10
   upgrade:
     1:
       Iron: 5
@@ -78,14 +78,28 @@ Red Backpack:
   appearance:
     Sleepbag: hidden
     BackpackStrapTop: hidden
-    BackpackFlap: 8A0A0A
+    BackpackFlap: 3F3F3F
+    BackpackBody: 6F0000
+    PouchFront: 3F3F3F
+    PouchLeft: 3F3F3F
+    BackpackStrapBottom: 3F3F3F
+    ToolstrapTop: 3F3F3F
+    ToolstrapBottom: 3F3F3F
+    RingBottomLeft: 3F3F3F
+    MetalclipLeft: 666666
+    MetalclipFrontRight: 666666
+    MetalclipFrontLeft: 666666
+    Knife: 888888
+    Knifesheath: 666666
+    Pickaxe: 888888
   crafting:
     station: Workbench
     level: 1
     costs:
       BronzeNails: 5
-      DeerHide: 10
+      BlackBearPelt_TW: 10
       LeatherScraps: 10
+      Raspberry: 10
   upgrade:
     1:
       Iron: 5
@@ -115,14 +129,21 @@ Blue Backpack:
   appearance:
     Sleepbag: hidden
     BackpackStrapTop: hidden
-    BackpackFlap: 1A1ACA
+    BackpackFlap: 002FFF
+    BackpackBody: 888888
+    PouchFront: 002FFF
+    PouchLeft: 002FFF
+    BackpackStrapBottom: 002FFF
+    ToolstrapTop: 002FFF
+    ToolstrapBottom: 002FFF
+    RingBottomLeft: 002FFF
   crafting:
     station: Workbench
     level: 1
     costs:
       BronzeNails: 5
       DeerHide: 10
-      LeatherScraps: 10
+      TrollHide: 10
   upgrade:
     1:
       Iron: 5
@@ -152,7 +173,14 @@ Green Backpack:
   appearance:
     Sleepbag: hidden
     BackpackStrapTop: hidden
-    BackpackFlap: 0A8A0A
+    BackpackFlap: 888888
+    BackpackBody: 086B08
+    PouchFront: 888888
+    PouchLeft: 888888
+    BackpackStrapBottom: 888888
+    ToolstrapTop: 888888
+    ToolstrapBottom: 888888
+    RingBottomLeft: 888888
   crafting:
     station: Workbench
     level: 1
@@ -160,43 +188,7 @@ Green Backpack:
       BronzeNails: 5
       DeerHide: 10
       LeatherScraps: 10
-  upgrade:
-    1:
-      Iron: 5
-      ElderBark: 10
-      Guck: 2
-      size: 4x3
-    2:
-      Silver: 5
-      WolfPelt: 3
-      JuteRed: 2
-      size: 4x4
-    3:
-      BlackMetal: 5
-      LinenThread: 10
-      LoxPelt: 2
-      size: 5x4
-    4:
-      Carapace: 5
-      ScaleHide: 5
-      JuteBlue: 2
-      size: 6x4
-
-Yellow Backpack:
-  description: "Carry stuff in whichever colorful style suits your viking taste, or use the Hidden variant if you're that uncultured.  This container and all contents will stay with your tombstone on death."
-  size: 4x2
-  unique: global
-  appearance:
-    Sleepbag: hidden
-    BackpackStrapTop: hidden
-    BackpackFlap: EDED15
-  crafting:
-    station: Workbench
-    level: 1
-    costs:
-      BronzeNails: 5
-      DeerHide: 10
-      LeatherScraps: 10
+      Dandelion: 10
   upgrade:
     1:
       Iron: 5
@@ -226,14 +218,22 @@ Teal Backpack:
   appearance:
     Sleepbag: hidden
     BackpackStrapTop: hidden
-    BackpackFlap: 15EDED
+    BackpackFlap: 00BFFF
+    BackpackBody: 888888
+    PouchFront: 00BFFF
+    PouchLeft: 00BFFF
+    BackpackStrapBottom: 888888
+    ToolstrapTop: 888888
+    ToolstrapBottom: 888888
+    RingBottomLeft: 888888
   crafting:
     station: Workbench
     level: 1
     costs:
       BronzeNails: 5
       DeerHide: 10
-      LeatherScraps: 10
+      TrollHide: 10
+      Dandelion: 10
   upgrade:
     1:
       Iron: 5
@@ -263,14 +263,28 @@ Purple Backpack:
   appearance:
     Sleepbag: hidden
     BackpackStrapTop: hidden
-    BackpackFlap: 9A12C7
+    BackpackFlap: C000C0
+    BackpackBody: 6000C0
+    PouchFront: C000C0
+    PouchLeft: C000C0
+    BackpackStrapBottom: C000C0
+    ToolstrapTop: C000C0
+    ToolstrapBottom: C000C0
+    RingBottomLeft: C000C0
+    MetalclipLeft: 666666
+    MetalclipFrontRight: 666666
+    MetalclipFrontLeft: 666666
+    Knife: 888888
+    Knifesheath: 666666
+    Pickaxe: 888888
   crafting:
     station: Workbench
     level: 1
     costs:
       BronzeNails: 5
-      DeerHide: 10
+      TrollHide: 10
       LeatherScraps: 10
+      Raspberry: 10
   upgrade:
     1:
       Iron: 5
@@ -300,7 +314,14 @@ Gray Backpack:
   appearance:
     Sleepbag: hidden
     BackpackStrapTop: hidden
-    BackpackFlap: 575757
+    BackpackFlap: 555555
+    BackpackBody: 3F3F3F
+    PouchFront: 555555
+    PouchLeft: 555555
+    BackpackStrapBottom: 555555
+    ToolstrapTop: 555555
+    ToolstrapBottom: 555555
+    RingBottomLeft: 555555
   crafting:
     station: Workbench
     level: 1
@@ -308,6 +329,7 @@ Gray Backpack:
       BronzeNails: 5
       DeerHide: 10
       LeatherScraps: 10
+      Coal: 10
   upgrade:
     1:
       Iron: 5
@@ -337,14 +359,28 @@ Black Backpack:
   appearance:
     Sleepbag: hidden
     BackpackStrapTop: hidden
-    BackpackFlap: 3a3a3a
+    BackpackFlap: 333333
+    BackpackBody: 333333
+    PouchFront: 333333
+    PouchLeft: 333333
+    BackpackStrapBottom: 333333
+    ToolstrapTop: 333333
+    ToolstrapBottom: 333333
+    RingBottomLeft: 333333
+    MetalclipLeft: 666666
+    MetalclipFrontRight: 666666
+    MetalclipFrontLeft: 666666
+    Knife: 888888
+    Knifesheath: 666666
+    Pickaxe: 888888
   crafting:
     station: Workbench
     level: 1
     costs:
       BronzeNails: 5
-      DeerHide: 10
-      LeatherScraps: 10
+      BlackBearPelt_TW: 10
+      GrizzlyBearPelt_TW: 10
+      Tar: 10
   upgrade:
     1:
       Iron: 5
@@ -397,6 +433,7 @@ Hidden Backpack:
       BronzeNails: 5
       DeerHide: 10
       LeatherScraps: 10
+      GreydwarfEye: 10
   upgrade:
     1:
       Iron: 5
