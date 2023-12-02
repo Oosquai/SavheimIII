@@ -1,5 +1,5 @@
 Beige Backpack:
-  description: "Carry stuff in whichever colorful style suits your viking taste, or use the Hidden variant if you're that uncultured.  This container and all contents will stay with your tombstone on death."
+  description: "Carry stuff in whichever colorful style suits your viking taste, or just keep it in your inventory if you're that uncultured.  This container and all contents will stay with your tombstone on death."
   size: 4x2
   unique: global
   appearance:
@@ -35,7 +35,7 @@ Beige Backpack:
       size: 6x4
 
 Brown Backpack:
-  description: "Carry stuff in whichever colorful style suits your viking taste, or use the Hidden variant if you're that uncultured.  This container and all contents will stay with your tombstone on death."
+  description: "Carry stuff in whichever colorful style suits your viking taste, or just keep it in your inventory if you're that uncultured.  This container and all contents will stay with your tombstone on death."
   size: 4x2
   unique: global
   appearance:
@@ -72,7 +72,7 @@ Brown Backpack:
       size: 6x4
 
 Red Backpack:
-  description: "Carry stuff in whichever colorful style suits your viking taste, or use the Hidden variant if you're that uncultured.  This container and all contents will stay with your tombstone on death."
+  description: "Carry stuff in whichever colorful style suits your viking taste, or just keep it in your inventory if you're that uncultured.  This container and all contents will stay with your tombstone on death."
   size: 4x2
   unique: global
   appearance:
@@ -123,7 +123,7 @@ Red Backpack:
       size: 6x4
 
 Blue Backpack:
-  description: "Carry stuff in whichever colorful style suits your viking taste, or use the Hidden variant if you're that uncultured.  This container and all contents will stay with your tombstone on death."
+  description: "Carry stuff in whichever colorful style suits your viking taste, or just keep it in your inventory if you're that uncultured.  This container and all contents will stay with your tombstone on death."
   size: 4x2
   unique: global
   appearance:
@@ -167,7 +167,7 @@ Blue Backpack:
       size: 6x4
 
 Green Backpack:
-  description: "Carry stuff in whichever colorful style suits your viking taste, or use the Hidden variant if you're that uncultured.  This container and all contents will stay with your tombstone on death."
+  description: "Carry stuff in whichever colorful style suits your viking taste, or just keep it in your inventory if you're that uncultured.  This container and all contents will stay with your tombstone on death."
   size: 4x2
   unique: global
   appearance:
@@ -212,7 +212,7 @@ Green Backpack:
       size: 6x4
 
 Teal Backpack:
-  description: "Carry stuff in whichever colorful style suits your viking taste, or use the Hidden variant if you're that uncultured.  This container and all contents will stay with your tombstone on death."
+  description: "Carry stuff in whichever colorful style suits your viking taste, or just keep it in your inventory if you're that uncultured.  This container and all contents will stay with your tombstone on death."
   size: 4x2
   unique: global
   appearance:
@@ -257,7 +257,7 @@ Teal Backpack:
       size: 6x4
 
 Purple Backpack:
-  description: "Carry stuff in whichever colorful style suits your viking taste, or use the Hidden variant if you're that uncultured.  This container and all contents will stay with your tombstone on death."
+  description: "Carry stuff in whichever colorful style suits your viking taste, or just keep it in your inventory if you're that uncultured.  This container and all contents will stay with your tombstone on death."
   size: 4x2
   unique: global
   appearance:
@@ -283,7 +283,7 @@ Purple Backpack:
     costs:
       BronzeNails: 5
       TrollHide: 10
-      LeatherScraps: 10
+      FoxPelt_TW: 10
       Raspberry: 10
   upgrade:
     1:
@@ -308,7 +308,7 @@ Purple Backpack:
       size: 6x4
 
 Gray Backpack:
-  description: "Carry stuff in whichever colorful style suits your viking taste, or use the Hidden variant if you're that uncultured.  This container and all contents will stay with your tombstone on death."
+  description: "Carry stuff in whichever colorful style suits your viking taste, or just keep it in your inventory if you're that uncultured.  This container and all contents will stay with your tombstone on death."
   size: 4x2
   unique: global
   appearance:
@@ -353,7 +353,7 @@ Gray Backpack:
       size: 6x4
 
 Black Backpack:
-  description: "Carry stuff in whichever colorful style suits your viking taste, or use the Hidden variant if you're that uncultured.  This container and all contents will stay with your tombstone on death."
+  description: "Carry stuff in whichever colorful style suits your viking taste, or just keep it in your inventory if you're that uncultured.  This container and all contents will stay with your tombstone on death."
   size: 4x2
   unique: global
   appearance:
@@ -379,8 +379,8 @@ Black Backpack:
     costs:
       BronzeNails: 5
       BlackBearPelt_TW: 10
-      GrizzlyBearPelt_TW: 10
-      Tar: 10
+      LeatherScraps: 10
+      Coal: 10
   upgrade:
     1:
       Iron: 5
@@ -403,37 +403,35 @@ Black Backpack:
       JuteBlue: 2
       size: 6x4
 
-Hidden Backpack:
-  description: "This Hidden Backpack is for those uncultured Vikings who don't want to show off their stylish bag.  It won't show on your back, but it's also invisible on the ground and lacks any icon graphic other than the quality numeral in the corner of the icon.  This container and all contents will stay with your tombstone on death."
+Yellow Backpack:
+  description: "Carry stuff in whichever colorful style suits your viking taste, or just keep it in your inventory if you're that uncultured.  This container and all contents will stay with your tombstone on death."
   size: 4x2
   unique: global
   appearance:
-    ToolstrapBottom: hidden
-    Pickaxe: hidden
-    RingBottomLeft: hidden
-    BackpackBody: hidden
-    MetalclipLeft: hidden
-    ToolstrapTop: hidden
-    PouchFront: hidden
-    PouchLeft: hidden
-    Knifesheath: hidden
-    Knife: hidden
-    MetalclipFrontRight: hidden
-    Pot: hidden
     Sleepbag: hidden
     BackpackStrapTop: hidden
-    BackpackStrapBottom: hidden
-    MetalclipFrontLeft: hidden
-    BackpackFlap: hidden
-    Teapot: hidden
+    BackpackFlap: 333333
+    BackpackBody: 333333
+    PouchFront: 333333
+    PouchLeft: FFFF00
+    BackpackStrapBottom: FFFF00
+    ToolstrapTop: FFFF00
+    ToolstrapBottom: FFFF00
+    RingBottomLeft: FFFF00
+    MetalclipLeft: 666666
+    MetalclipFrontRight: 666666
+    MetalclipFrontLeft: 666666
+    Knife: 888888
+    Knifesheath: 666666
+    Pickaxe: 888888
   crafting:
     station: Workbench
     level: 1
     costs:
       BronzeNails: 5
-      DeerHide: 10
-      LeatherScraps: 10
-      GreydwarfEye: 10
+      BlackBearPelt_TW: 20
+      Coal: 10
+      Dandelion: 10
   upgrade:
     1:
       Iron: 5

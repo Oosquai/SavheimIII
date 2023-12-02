@@ -1,7 +1,7 @@
 name: JC_Reaper_Knife
 m_weight: 0.3
 m_name: $jc_reaper_knife
-m_description: "A dagger made from a mysterious, otherworldly material.  This weapon is quicker and better at parrying than other daggers, and it deals 10% bonus damage to world bosses."
+m_description: "A dagger made from a mysterious, otherworldly material.  This weapon is quicker than other daggers and deals 10% bonus damage to world bosses."
 clonePrefabName: 
 mockName: 
 customIcon: 
@@ -135,7 +135,7 @@ SE_SET_Equip:
 ShieldStats:
   m_blockPower: 27
   m_blockPowerPerLevel: 1
-  m_timedBlockBonus: 5
+  m_timedBlockBonus: 4
   m_deflectionForce: 10
   m_deflectionForcePerLevel: 5
 m_maxStackSize: 1
