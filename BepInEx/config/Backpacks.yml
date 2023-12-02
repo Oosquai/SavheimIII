@@ -41,7 +41,14 @@ Brown Backpack:
   appearance:
     Sleepbag: hidden
     BackpackStrapTop: hidden
+    BackpackFlap: 666666
     BackpackBody: BD8512
+    PouchFront: 666666
+    PouchLeft: 666666
+    BackpackStrapBottom: 666666
+    ToolstrapTop: 666666
+    ToolstrapBottom: 666666
+    RingBottomLeft: 666666
   crafting:
     station: Workbench
     level: 1
