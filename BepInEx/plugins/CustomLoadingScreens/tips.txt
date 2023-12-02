@@ -4,7 +4,7 @@ Savheim III - Atgiers - AOE knockback.  Lances - knockback and bleed.  Claymores
 Savheim III - Bows - normal draw and projectile speeds.  Greatbows - slower draw speed, faster projectile speed, greater range and damage, knockback.  Crossbows - slow reload, very high damage and knockback.  Zoom with right click while aiming.  Press Interact (default E) to cancel draw.
 Savheim III - Bucklers excel at parrying.  Tower shields let you block for days, and some of them offer special resists.  Medium shields are a blend of both.
 Savheim III - Boss weapons offer a variety of perks, including stronger upgrades, unique effects, and more.  Some are crafted, some are unique drops.
-Savheim III - No more than 3 sockets can be crafted into any piece of gear.
+Savheim III - No more than 3 sockets can be crafted into any piece of gear, and some gear isn't allowed to have any sockets.
 Savheim III - You can reposition some GUI windows by clicking & dragging, or Left-Alt and then click & drag.  Press Esc to get a cursor.
 Savheim III - Put a Rune Focus on your hotbar and then tap that hotkey while facing a lore stone.
 Savheim III - Learn to dodge and parry to make combat much more engaging and effective.  Dodge - hold block and press jump.  Parry - block just in time.  Most weapons have special attacks on the middle mouse button!
