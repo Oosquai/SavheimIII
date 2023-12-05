@@ -1,0 +1,14 @@
+name: BMP_FrostResist_Earring
+clonePrefabName: 
+craftingStation: $piece_forge
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: true
+requireOnlyOneIngredient: false
+reqs:
+- Thunderstone:2:0:True
+- Crystal:2:0:True
+- FreezeGland:2:0:True
+- Silver:4:0:True

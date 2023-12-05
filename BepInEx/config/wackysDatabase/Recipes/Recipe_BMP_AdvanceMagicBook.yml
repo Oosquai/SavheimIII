@@ -5,7 +5,7 @@ minStationLevel: 1
 maxStationLevelCap: 
 repairStation: 
 amount: 1
-disabled: false
+disabled: true
 requireOnlyOneIngredient: false
 reqs:
 - YmirRemains:5:0:True

@@ -79,6 +79,7 @@ groups:
     - HelmetWarriorCarapace_TW
     - HelmetWarriorFlametal_TW
     - HelmetWarriorSilver_TW
+    - HelmetRazorback_TW
     - BMP_AdvanceWizardHat
     - BMP_BeginnersWizardHat
     - BMP_PolarWolfHood
@@ -135,6 +136,7 @@ groups:
     - ArmorWarriorChest_TW
     - ArmorWarriorFlametalChest_TW
     - ArmorWarriorSilverChest_TW
+    - ArmorRazorbackChest_TW
     - BMP_PolarWolfChest
     - BMP_RedWizardChest
 
@@ -185,6 +187,7 @@ groups:
     - ArmorWarriorFlametalLegs_TW
     - ArmorWarriorLegs_TW
     - ArmorWarriorSilverLegs_TW
+    - ArmorRazorbackLegs_TW
     - BMP_PolarWolfLegs
     - BMP_RedWizardLegs
 

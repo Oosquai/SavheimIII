@@ -226,13 +226,13 @@ Teal Backpack:
     Sleepbag: hidden
     BackpackStrapTop: hidden
     BackpackFlap: 00BFFF
-    BackpackBody: 888888
+    BackpackBody: 666666
     PouchFront: 00BFFF
     PouchLeft: 00BFFF
-    BackpackStrapBottom: 888888
-    ToolstrapTop: 888888
-    ToolstrapBottom: 888888
-    RingBottomLeft: 888888
+    BackpackStrapBottom: 666666
+    ToolstrapTop: 666666
+    ToolstrapBottom: 666666
+    RingBottomLeft: 666666
   crafting:
     station: Workbench
     level: 1
@@ -460,3 +460,200 @@ Yellow Backpack:
       ScaleHide: 5
       JuteBlue: 2
       size: 6x4
+
+Black Forest Smuggler:
+  description: "This mystical container allows teleportation of Bronze, Copper, and Tin bars.  This container and all contents will stay with your tombstone on death."
+  size: 2x2
+  unique: global
+  appearance:
+    Sleepbag: hidden
+    BackpackStrapTop: hidden
+    BackpackFlap: 111111
+    BackpackBody: 111111
+    PouchFront: hidden
+    PouchLeft: hidden
+    BackpackStrapBottom: 00FF00
+    ToolstrapTop: hidden
+    ToolstrapBottom: hidden
+    RingBottomLeft: 00FF00
+    MetalclipLeft: hidden
+    MetalclipFrontRight: FFFFFF
+    MetalclipFrontLeft: FFFFFF
+    Knife: hidden
+    Knifesheath: hidden
+    Pickaxe: hidden
+  crafting:
+    station: Workbench
+    level: 1
+    costs:
+      IronNails: 5
+      RazorbackLeather_TW: 20
+      Coal: 10
+      TrophyBonemass: 1
+  valid items:
+    - Bronze
+    - Copper
+    - Tin
+  teleport: true
+
+Swamp Smuggler:
+  description: "This mystical container allows teleportation of Bronze, Copper, Tin, Gold, and Iron bars.  This container and all contents will stay with your tombstone on death."
+  size: 2x2
+  unique: global
+  appearance:
+    Sleepbag: hidden
+    BackpackStrapTop: hidden
+    BackpackFlap: 111111
+    BackpackBody: 111111
+    PouchFront: hidden
+    PouchLeft: hidden
+    BackpackStrapBottom: 6FAB6D
+    ToolstrapTop: hidden
+    ToolstrapBottom: hidden
+    RingBottomLeft: 6FAB6D
+    MetalclipLeft: hidden
+    MetalclipFrontRight: FFFFFF
+    MetalclipFrontLeft: FFFFFF
+    Knife: hidden
+    Knifesheath: hidden
+    Pickaxe: hidden
+  crafting:
+    station: Workbench
+    level: 1
+    costs:
+      IronNails: 5
+      RazorbackLeather_TW: 20
+      Coal: 10
+      TrophyDragonQueen: 1
+  valid items:
+    - Bronze
+    - Copper
+    - Tin
+    - Gold_Bar_Ygg
+    - Iron
+  teleport: true
+
+Mountains Smuggler:
+  description: "This mystical container allows teleportation of Bronze, Copper, Tin, Gold, Iron, Electrum, and Silver bars, as well as Dragon Eggs.  This container and all contents will stay with your tombstone on death."
+  size: 2x2
+  unique: global
+  appearance:
+    Sleepbag: hidden
+    BackpackStrapTop: hidden
+    BackpackFlap: 111111
+    BackpackBody: 111111
+    PouchFront: hidden
+    PouchLeft: hidden
+    BackpackStrapBottom: 7FAFFF
+    ToolstrapTop: hidden
+    ToolstrapBottom: hidden
+    RingBottomLeft: 7FAFFF
+    MetalclipLeft: hidden
+    MetalclipFrontRight: FFFFFF
+    MetalclipFrontLeft: FFFFFF
+    Knife: hidden
+    Knifesheath: hidden
+    Pickaxe: hidden
+  crafting:
+    station: Workbench
+    level: 1
+    costs:
+      IronNails: 5
+      GrizzlyBearPelt_TW: 20
+      Coal: 10
+      TrophyGoblinKing: 1
+  valid items:
+    - Bronze
+    - Copper
+    - Tin
+    - Gold_Bar_Ygg
+    - Iron
+    - Electrum_Bar_Ygg
+    - Silver
+    - DragonEgg
+  teleport: true
+
+Plains Smuggler:
+  description: "This mystical container allows teleportation of Bronze, Copper, Tin, Gold, Iron, Electrum, Silver, and Black metal bars, as well as Dragon Eggs.  This container and all contents will stay with your tombstone on death."
+  size: 2x2
+  unique: global
+  appearance:
+    Sleepbag: hidden
+    BackpackStrapTop: hidden
+    BackpackFlap: 111111
+    BackpackBody: 111111
+    PouchFront: hidden
+    PouchLeft: hidden
+    BackpackStrapBottom: DFCC32
+    ToolstrapTop: hidden
+    ToolstrapBottom: hidden
+    RingBottomLeft: DFCC32
+    MetalclipLeft: hidden
+    MetalclipFrontRight: FFFFFF
+    MetalclipFrontLeft: FFFFFF
+    Knife: hidden
+    Knifesheath: hidden
+    Pickaxe: hidden
+  crafting:
+    station: Workbench
+    level: 1
+    costs:
+      IronNails: 5
+      GrizzlyBearPelt_TW: 20
+      Coal: 10
+      TrophySeekerQueen: 1
+  valid items:
+    - Bronze
+    - Copper
+    - Tin
+    - Gold_Bar_Ygg
+    - Iron
+    - Electrum_Bar_Ygg
+    - Silver
+    - DragonEgg
+    - BlackMetal
+  teleport: true
+
+Insulated Smuggler:
+  description: "This mystical container allows teleportation of Bronze, Copper, Tin, Gold, Iron, Electrum, Silver, Black metal, Flametal, and Tyranium bars, as well as Dragon Eggs and Dvergr extractors.  This container and all contents will stay with your tombstone on death."
+  size: 2x2
+  unique: global
+  appearance:
+    Sleepbag: hidden
+    BackpackStrapTop: hidden
+    BackpackFlap: 00007F
+    BackpackBody: 0000FF
+    PouchFront: hidden
+    PouchLeft: hidden
+    BackpackStrapBottom: FF7F00
+    ToolstrapTop: hidden
+    ToolstrapBottom: hidden
+    RingBottomLeft: FF7F00
+    MetalclipLeft: hidden
+    MetalclipFrontRight: FFFFFF
+    MetalclipFrontLeft: FFFFFF
+    Knife: hidden
+    Knifesheath: hidden
+    Pickaxe: hidden
+  crafting:
+    station: Workbench
+    level: 1
+    costs:
+      IronNails: 5
+      GrizzlyBearPelt_TW: 20
+      TrophySythrak_TW: 1
+      TrophyStormHerald_TW: 1
+  valid items:
+    - Bronze
+    - Copper
+    - Tin
+    - Gold_Bar_Ygg
+    - Iron
+    - Electrum_Bar_Ygg
+    - Silver
+    - DragonEgg
+    - BlackMetal
+    - Flametal
+    - TyraniumBar_TW
+    - DvergrNeedle
+  teleport: true

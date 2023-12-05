@@ -1,0 +1,14 @@
+name: BMP_BeginnersMagicBook
+clonePrefabName: 
+craftingStation: $piece_workbench
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: true
+requireOnlyOneIngredient: false
+reqs:
+- GreydwarfEye:6:0:True
+- Resin:4:0:True
+- Feathers:6:0:True
+- Wood:12:0:True
