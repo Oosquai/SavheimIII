@@ -1,9 +1,9 @@
-- <color=red>MUST CHANGE Controls</color>:  <color=#BBBBBB>Toggle Walk</color>, <color=#BBBBBB>Sit</color>.  Recommended:  , .
+- <color=#FF3F3F>MUST CHANGE Controls</color>:  <color=#00FFFF>Toggle Walk</color> & <color=#00FFFF>Sit</color>.  Recommended:  <color=#00FFFF>,</color> & <color=#00FFFF>.</color>
 - Move windows: click & drag (some need Left-Alt). Esc for cursor.
-- Patch Notes history:  <color=blue>...\Steam\steamapps\common\Valheim\</color>
-<color=yellow>__ 0/_______________________________
+- Tips & Patch Notes history:  <color=#0000FF>...\Steam\steamapps\common\Valheim\</color>
+<color=#FFFF00>__ 0/_______________________________
      0\  Savheim III Patch Notes, 10/12/23</color>
 - Stuff
 
-<color=#888888>------------------------------------------------------------------
+<color=#FFA8A8>------------------------------------------------------------------
 Official Valheim Changelog</color>

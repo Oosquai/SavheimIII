@@ -104,7 +104,7 @@ Red Backpack:
     level: 1
     costs:
       BronzeNails: 5
-      BlackBearPelt_TW: 10
+      RazorbackLeather_TW: 10
       LeatherScraps: 10
       Raspberry: 10
   upgrade:
@@ -385,7 +385,7 @@ Black Backpack:
     level: 1
     costs:
       BronzeNails: 5
-      BlackBearPelt_TW: 10
+      RazorbackLeather_TW: 10
       LeatherScraps: 10
       Coal: 10
   upgrade:
@@ -436,7 +436,7 @@ Yellow Backpack:
     level: 1
     costs:
       BronzeNails: 5
-      BlackBearPelt_TW: 20
+      RazorbackLeather_TW: 20
       Coal: 10
       Dandelion: 10
   upgrade:

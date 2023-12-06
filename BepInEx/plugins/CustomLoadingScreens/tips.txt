@@ -23,7 +23,7 @@ Savheim III - Check your Valheim Compendium (inventory -> raven icon) for useful
 Savheim III - Recommended game settings:  Disable Depth of Field, Chromatic Aberration, and Motion Blur.  You can also disable Key Hints.  You can disable Raven hints if you don't like Hugin, but at least give him a cracker first.
 Savheim III - You've learned to swim while holding things in your hands!  Go swimming!  Wat-er you waiting for??
 Savheim III - Items on the ground in the wild will despawn after 4 hours.  "The wild" means areas away from where you've built.
-Savheim III - Wards do stuff now:  infinite fires, close doors, no death penalty, no food drain, health and stamina regen.
+Savheim III - Wards do stuff now:  infinite fires, structure damage halved, structure repair, close doors, and no food drain.  Improved wards also slowly damage enemies.
 Savheim III - Endgame zones will be entirely new experiences since Savheim II!
 Savheim III - This version of Savheim takes several steps to safeguard performance.
 Savheim III - Slope combat works much better now, but you have to aim properly!
@@ -38,7 +38,7 @@ Savheim III - The Rested buff gives more benefits now, but it can't be teleporte
 Savheim III - Waypoints offer safety from monsters, warmth, and a way to pick up a Rested buff in the field if you sit next to it for long enough.
 Savheim III - Thank you to Iron Gate Studio for making Valheim such a beautiful game, to all the creative modders out there for so many massive additions to it, and to the community for beautiful fanart.
 Savheim III - Thank you to some very talented modders:  Azumatt, blaxxun, wackymole, Therzie, KG, Blacks7ar, Rusty, MidnightsFX, Searica, MSchmoecker, and many more!
-*Savheim III - If you're playing at 3440x1440 resolution, please go to \Valheim\BepInEx\config, delete Azumatt.BowsBeforeHoes.cfg, then remove "_3440x1440" from the filename of Azumatt.BowsBeforeHoes_3440x1440.cfg.
+*Savheim III - If you're playing at 3440x1440 resolution, please go to \Valheim\BepInEx\config, delete Azumatt.BowsBeforeHoes.cfg and Azumatt.FastLink.cfg, then remove "_3440x1440" from the filenames of the alternates for each.
 *Savheim III - The game takes a while to load with so many mods installed.  Please be patient.
 *Savheim III - KNOWN BUG:  Please unequip your current quiver before crafting or equipping a different one.  There is currently a bug with quivers that cause weird interactions when you have a quiver equipped and try to craft or equip a different quiver.
 *Savheim III - KNOWN BUG:  You can rename some NPCs, but the name won't update until you leave and return to the area, causing the nameplate to reload.

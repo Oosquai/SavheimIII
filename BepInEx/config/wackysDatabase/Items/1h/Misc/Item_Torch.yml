@@ -1,7 +1,7 @@
 name: Torch
 m_weight: 1
 m_name: $item_torch
-m_description: "It brings light and precious warmth on cold nights, driving back the darkness.  This can be upgraded with a certain kind of leather."
+m_description: "It brings light and precious warmth on cold nights, driving back the darkness, but it can't withstand the frigid environments at higher altitudes.  This can be upgraded at the workbench."
 clonePrefabName: 
 mockName: 
 customIcon: 
