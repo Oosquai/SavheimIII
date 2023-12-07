@@ -136,8 +136,8 @@ ShieldStats:
   m_blockPower: 24
   m_blockPowerPerLevel: 1
   m_timedBlockBonus: 6
-  m_deflectionForce: 10
-  m_deflectionForcePerLevel: 5
+  m_deflectionForce: 0
+  m_deflectionForcePerLevel: 0
 m_maxStackSize: 1
 m_canBeReparied: true
 m_destroyBroken: false

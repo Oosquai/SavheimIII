@@ -2,8 +2,13 @@
 - Move windows: click & drag (some need Left-Alt). Esc for cursor.
 - Tips & Patch Notes history:  <color=#0000FF>...\Steam\steamapps\common\Valheim\</color>
 <color=#FFFF00>__ 0/_______________________________
-     0\  Savheim III Patch Notes, 10/12/23</color>
-- Stuff
+     0\  Savheim III Patch Notes, 1/1/24</color>
+- Savheim III goes live!
+
+<color=#FFA8A8>------------------------------------------------------------------
+Previous Savheim III Patch Notes</color>
+Patch Notes, 10/12/23
+- Savheim III started development
 
 <color=#FFA8A8>------------------------------------------------------------------
 Official Valheim Changelog</color>

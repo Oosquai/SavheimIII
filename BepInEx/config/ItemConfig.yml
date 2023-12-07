@@ -79,7 +79,6 @@ groups:
     - HelmetWarriorCarapace_TW
     - HelmetWarriorFlametal_TW
     - HelmetWarriorSilver_TW
-    - HelmetRazorback_TW
     - BMP_AdvanceWizardHat
     - BMP_BeginnersWizardHat
     - BMP_PolarWolfHood
@@ -88,6 +87,7 @@ groups:
     - BMP_ShamanHat
     - BMP_TrollMagicHood
     - VDS_AtlantianCrown
+    - HelmetModer_Ygg
 
   Chest:
     - ArmorBronzeChest
@@ -139,6 +139,7 @@ groups:
     - ArmorRazorbackChest_TW
     - BMP_PolarWolfChest
     - BMP_RedWizardChest
+    - DragonChest_Ygg
 
   Legs:
     - ArmorBronzeLegs
@@ -190,6 +191,7 @@ groups:
     - ArmorRazorbackLegs_TW
     - BMP_PolarWolfLegs
     - BMP_RedWizardLegs
+    - DragonLeggings_Ygg
 
   Shoulder:
     - CapeDeerHide
@@ -208,6 +210,7 @@ groups:
     - CapeArcticWolf_TW
     - CapeAshenScale_TW
     - CapeMammoth_TW
+    - Dragon_Cape_Ygg
 
   Utility:
     - BeltStrength
@@ -215,23 +218,11 @@ groups:
     - SaddleLox
     - CryptKey
     - BeltYmir_TW
-#    - bp_explorer
-#    - BeigeBackpack
-#    - BrownBackpack
-#    - RedBackpack
-#    - BlueBackpack
-#    - GreenBackpack
-#    - YellowBackpack
-#    - TealBackpack
-#    - PurpleBackpack
-#    - GrayBackpack
-#    - BlackBackpack
     - BBH_BlackForest_Quiver
     - BBH_OdinPlus_Quiver
     - BBH_PlainsLox_Quiver
     - BBH_Seeker_Quiver
     - JC_blueish_Necklace
-#    - JC_Gem_Bag
     - JC_Necklace_Blue
     - JC_Necklace_Green
     - JC_Necklace_Purple
@@ -271,6 +262,14 @@ groups:
     - JC_SoulRing_Ring
     - NecklaceTyr_TW
     - RingLoki_TW
+    - SaddleBoar_TW
+    - SaddleBear_TW
+    - SaddleProwler_TW
+    - SaddleWarg_TW
+    - SaddleMammoth_TW
+    - Saddle_DBone_Ygg
+    - Saddle_MuleTrollSack_Ygg
+    - BeastHorn_Caller_Ygg
 
   TwoHandedWeapon:
     - AtgeirBlackmetal
@@ -311,16 +310,6 @@ groups:
     - BMP_PoisonStaff
     - BMP_SurtlingStaff
     - BMP_NeckTotem
-    - VAAntler_greataxe
-    - VAatgeir_antler
-    - VABonemassGreatsword
-    - VABonemassWarhammer
-    - VAdagger_bronze_2h
-    - VAdagger_iron_2h
-    - VAdagger_silver_2h
-    - VAElderHammer
-    - VAYagluth_greatsword
-    - VAYagluthAtgeir
     - AtgeirFlint_TW
     - AtgeirSilver_TW
     - BastardBlackmetal_TW
@@ -462,13 +451,6 @@ groups:
     - BMP_LightningScepter
     - BMP_LightningWand
     - BMP_PoisonWand
-    - VAAntler_dagger
-    - VAAntler_Sword
-    - VABonemassDagger
-    - VAElder_mace
-    - VASpearModer
-    - VASwordModer
-    - VAVine_Sword
     - BMP_FlameScepterAncient
     - BMP_IceScepterAncient
     - AxeDvergr_TW
@@ -524,7 +506,6 @@ groups:
     - JC_Shield_Buckler
     - JC_Shield_Tower
     - LanternSoulcatcher
-    - VAElderRoundShield
     - ShieldBlackmetalBuckler_TW
     - ShieldBronzeBanded_TW
     - ShieldBronzeTower_TW
@@ -551,9 +532,6 @@ groups:
     - BBH_Seeker_Bow
     - JC_Reaper_Bow
     - JC_Reaper_Crossbow
-    - VAAntler_Bow
-    - VACrossbowElder
-    - VACrossbowModer
     - BowBlackmetal_TW
     - BowTrollBone_TW
     - CrossbowBlackmetal_TW
@@ -598,10 +576,6 @@ groups:
     - MistTorchArrow
     - TorchArrow
     - SeekerArrow
-    - VAArrowAncient
-    - VAArrowGreenMetal
-    - VABoltWood
-    - VAChitinArrow
     - ArrowBone_TW
     - BoltBlunt_TW
     - BoltBronze_TW
