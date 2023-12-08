@@ -48,7 +48,7 @@ Savheim III - Thank you to Iron Gate Studio for making Valheim such a beautiful 
 Savheim III - Thank you to some very talented modders:  Azumatt, blaxxun, wackymole, Therzie, KG, Blacks7ar, Rusty, MidnightsFX, Searica, MSchmoecker, and many more!
 *Savheim III - Dual wield pairs of swords, clubs, knives, or axes by equipping two of the same class.  Try their special attacks!  Mainhand block and parry are ignored.  Offhand base damage is ignored.  Most gems work in either weapon, but not all - experiment please.
 *Savheim III - If you're playing at 3440x1440 resolution, please go to \Valheim\BepInEx\config, delete Azumatt.BowsBeforeHoes.cfg and Azumatt.FastLink.cfg, then remove "_3440x1440" from the filenames of the alternates for each.
-*Savheim III - The game takes a while to load with so many mods installed (~120 mods!).  Please be patient.
+*Savheim III - The game takes a while to load with so many mods installed (~120 mods!).  Please be patient.  Go get a glass of water and use the restroom.
 *Savheim III - KNOWN BUG:  Please unequip your current quiver before crafting or equipping a different one.  There is currently a bug with quivers that cause weird interactions when you have a quiver equipped and try to craft or equip a different quiver.
 *Savheim III - KNOWN BUG:  You can rename some NPCs, but the name won't update until you leave and return to the area, causing the nameplate to reload.  Teleporting or relogging will do the trick.
 
