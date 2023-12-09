@@ -5,7 +5,7 @@ Savheim III - Bows - normal draw and projectile speeds.  Greatbows - slower draw
 Savheim III - Bucklers excel at parrying.  Tower shields let you block for days, and some of them offer special resists.  Medium shields are a blend of both.
 Savheim III - No more than 3 sockets can be crafted into any piece of gear, and some gear isn't allowed to have any sockets.
 Savheim III - You can reposition some GUI windows by clicking & dragging, or Left-Alt and then click & drag.  Press Esc to get a cursor.
-Savheim III - Put a Rune Focus on your hotbar and then tap that hotkey while facing a lore stone.
+Savheim III - Once you're able to craft them, it's a good idea to keep a Rune Focus and a Soulcatcher Lantern with you on adventures.  Use the Rune Focus on lore stones.  Use the lantern on souls of defeated enemies.
 Savheim III - Learn to dodge and parry to make combat much more engaging and effective.  Dodge - hold block and press jump.  Parry - block just in time.  Most weapons have special attacks on the middle mouse button!
 Savheim III - Block Armor = how much you can block.  [Block Armor * Parry Bonus] = how much you can parry.  Excess damage drains health.  Tower shields drain stamina before health.  Block Force does nothing.
 Savheim III - Backstab: sneaking, attack from behind, and enemy not in combat.  Flanking: Attack an enemy's back.  Critical:  Attack a staggered enemy.

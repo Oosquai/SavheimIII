@@ -588,6 +588,14 @@ groups:
     - ArrowTyranium_TW
     - BoltFlametal_TW
     - BoltTyranium_TW
+    - ArrowExplosiveLightning_TW
+    - ArrowExplosivePoison_TW
+    - ArrowExplosiveFire_TW
+    - ArrowExplosiveFrost_TW
+    - BoltExplosiveLightning_TW
+    - BoltExplosivePoison_TW
+    - BoltExplosiveFire_TW
+    - BoltExplosiveFrost_TW
 
   Consumable:
     - BarleyWine
