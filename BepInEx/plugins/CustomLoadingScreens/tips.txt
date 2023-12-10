@@ -16,7 +16,6 @@ Savheim III - The world gets more dangerous the further from center you travel. 
 Savheim III - Store surtling cores in boat inventories, then press Shift while controlling the boat.  Does not work on custom rafts.  Beware capsizing!
 Savheim III - Mouse over a banner or boat mast to link an image.  Try imgur.com (use the Direct Link URL) or just right-click an online image and select "Copy image address."  Please remember some of us have kids who might be watching us play.
 Savheim III - Lots of important information has been added to item tooltips.  For example, look closely at your Hammer's description for new ways to build, or at the Dverger Circlet for a misterious tip.
-Savheim III - There's now a new tier of stone building unlocked by exploring the Mountains.
 Savheim III - Change these keybinds in your game: Toggle Walk, Sit.  Recommended: , and .  (reserved by mods: Z, X, C, F, G, I, O, P, K, L, F1, F3, F6, Arrow keys, Keypad7, Keypad8, KeypadPlus, KeypadMinus, and Shift-{1-6}).
 Savheim III - Check your Valheim Compendium (inventory -> raven icon) for useful game and mod information, including Active Effects.
 Savheim III - Recommended game settings:  Disable Depth of Field, Chromatic Aberration, and Motion Blur.  You can also disable Key Hints.  You can disable Raven hints if you don't like Hugin, but at least give him a cracker first.
@@ -29,15 +28,16 @@ Savheim III - Slope combat works much better now, but you have to aim properly!
 Savheim III - Harpoons now have a basic secondary attack.  Primary attack tethers, and then the Use key reels the tether in if it's lighter than you.  If it's heavier than you, well, with great power comes great responsibility.
 Savheim III - All hand-held gear now equips instantly, making for more engaging gameplay.  You may sometimes notice animation glitching because of this, but I think it's worth the tradeoff.  Tell me what you think!
 Savheim III - Stealth no longer consumes stamina.  Swim faster and consume less stamina as you level Swimming.  Stamina regenerates faster in general.  Food and rested buffs help even more with stamina.  Being Cold is very bad for stamina.
-Savheim III - Death went to therapy and is nicer now.  You'll no longer drop equipment or consumables when you die, and you'll lose far less experience.  Non-combat skills don't lose any experience.  Resurrect each other with Surtling Cores.
+Savheim III - Death went to therapy and is nicer now.  You'll no longer drop equipment or consumables when you die, and non-combat skills don't lose experience.  Resurrect each other with Surtling Cores.
 Savheim III - Boss powers now have both passive and active aspects, and you get to choose two!  Read about them at the starting stones or in your Valheim Compendium (inventory -> raven icon).  Keybinds are hardcoded to F and G, regardless of in-game settings.
 Savheim III - Most weapon classes have received physics upgrades to give them unique and improved playstyles.  Give them all a second swing, even if you decided against them last playthrough.
 Savheim III - Zone progression:  Meadows -> Black Forest -> Swamp -> Mountains -> Plains -> Mistlands -> Ashlands & Deep North.  Ashlands and Deep North are intended to be equally-deadly end-game zones.
 Savheim III - There are more ways to gain Rested now, and each level of Comfort adds more Rested time than it used to.  F6 toggles a list of pieces while in shelter.  Rest in groups for extra duration!
 Savheim III - Waypoints offer safety from monsters, warmth, and a way to pick up a Rested buff in the field if you sit next to it for long enough.
-Savheim III - Group commands: /invite <name>; /leave; /remove <name>; /promote <name>.  Group benefits:  group gem effects, draggable user interface, group chat (/p), colored names, and group ping (LeftAlt).  
+Savheim III - Group commands: /invite <name>; /leave; /remove <name>; /promote <name>.  Group benefits:  group gem effects, draggable user interface, group chat (/p), colored names, and group ping (LeftAlt).
+Savheim III - Sell trophies to the traders.  Double-click items you want to buy to specify quantities.  Split stacks in your inventory to control quantities you want to sell.
 Savheim III - Thank you to Iron Gate Studio for making Valheim such a beautiful game, to all the creative modders out there for so many massive additions to it, and to the community for beautiful fanart.
-Savheim III - Thank you to some very talented modders:  Azumatt, blaxxun, wackymole, Therzie, KG, Blacks7ar, Rusty, MidnightsFX, Searica, MSchmoecker, and many more!
+Savheim III - Thank you to some very talented modders:  Azumatt, blaxxun, wackymole, Therzie, KG, Blacks7ar, Rusty, Searica, MSchmoecker, and many more!
 *Savheim III - Dual wield pairs of swords, clubs, knives, or axes by equipping two of the same class.  Try their special attacks!  Mainhand block and parry are ignored.  Offhand base damage is ignored.  Most gems work in either weapon, but not all - experiment please.
 *Savheim III - If you're playing at 3440x1440 resolution, please go to \Valheim\BepInEx\config, delete Azumatt.BowsBeforeHoes.cfg and Azumatt.FastLink.cfg, then remove "_3440x1440" from the filenames of the alternates for each.
 *Savheim III - The game takes a while to load with so many mods installed (~120 mods!).  Please be patient.  Go get a glass of water and use the restroom.

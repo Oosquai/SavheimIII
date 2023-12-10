@@ -1,0 +1,128 @@
+[
+  {
+    "prefab": "Wood", 
+    "stack": 1,
+    "price": 5,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "RoundLog", 
+    "stack": 1,
+    "price": 10,
+    "requiredGlobalKey": "defeated_gdking"
+  },
+  {
+    "prefab": "FineWood", 
+    "stack": 1,
+    "price": 20,
+    "requiredGlobalKey": "defeated_gdking"
+  },
+  {
+    "prefab": "ElderBark", 
+    "stack": 1,
+    "price": 30,
+    "requiredGlobalKey": "defeated_bonemass"
+  },
+  {
+    "prefab": "Stone", 
+    "stack": 1,
+    "price": 5,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Obsidian", 
+    "stack": 1,
+    "price": 40,
+    "requiredGlobalKey": "defeated_dragon"
+  },
+  {
+    "prefab": "Feathers", 
+    "stack": 1,
+    "price": 10,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "LeatherScraps", 
+    "stack": 1,
+    "price": 20,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "DeerHide", 
+    "stack": 1,
+    "price": 20,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "FoxPelt_TW", 
+    "stack": 1,
+    "price": 20,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "RazorbackLeather_TW", 
+    "stack": 1,
+    "price": 30,
+    "requiredGlobalKey": "defeated_gdking"
+  },
+  {
+    "prefab": "GrizzlyBearPelt_TW", 
+    "stack": 1,
+    "price": 60,
+    "requiredGlobalKey": "defeated_goblinking"
+  },
+  {
+    "prefab": "SurtlingCore", 
+    "stack": 1,
+    "price": 50,
+    "requiredGlobalKey": "defeated_bonemass"
+  },
+  {
+    "prefab": "SerpentScale", 
+    "stack": 1,
+    "price": 75,
+    "requiredGlobalKey": "defeated_dragon"
+  },
+  {
+    "prefab": "Dandelion", 
+    "stack": 1,
+    "price": 5,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Raspberry", 
+    "stack": 1,
+    "price": 5,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Mushroom", 
+    "stack": 1,
+    "price": 5,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "MushroomYellow", 
+    "stack": 1,
+    "price": 7,
+    "requiredGlobalKey": "defeated_eikthyr"
+  },
+  {
+    "prefab": "Thistle", 
+    "stack": 1,
+    "price": 10,
+    "requiredGlobalKey": "defeated_gdking"
+  },
+  {
+    "prefab": "Blueberries", 
+    "stack": 1,
+    "price": 10,
+    "requiredGlobalKey": "defeated_gdking"
+  },
+  {
+    "prefab": "QueenBee", 
+    "stack": 1,
+    "price": 500,
+    "requiredGlobalKey": "defeated_eikthyr"
+  },
+]
