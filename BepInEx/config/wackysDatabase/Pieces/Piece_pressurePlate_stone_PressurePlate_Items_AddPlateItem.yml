@@ -7,8 +7,8 @@ customIcon:
 clonePrefabName: 
 material: 
 damagedMaterial: 
-craftingStation: $piece_stonecutter
-piecehammerCategory: Misc
+craftingStation: $piece_workbench
+piecehammerCategory: Engineering
 minStationLevel: 1
 amount: 1
 disabled: false
@@ -49,4 +49,5 @@ fermStationData:
 sapData: 
 build:
 - Stone:3:0:True
+- Obsidian:1:0:True
 - SurtlingCore:1:0:True

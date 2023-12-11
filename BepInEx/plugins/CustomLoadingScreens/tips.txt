@@ -3,6 +3,7 @@ Savheim III - Swords - on-demand damage types.  Clubs - stagger.  Daggers - flan
 Savheim III - Atgeirs - AOE knockback.  Lances - knockback and bleed.  Claymores - parry & speed.  Bastard Swords - parry & damage.  Sledges - AOE.  Battlehammers - stagger.  Battleaxes - execute.  Crystal Battleaxes - stagger poke.  Fists - flanking, crit, parry, unique effects, and unique dodge.
 Savheim III - Bows - normal draw and projectile speeds.  Greatbows - slower draw speed, faster projectile speed, greater range and damage, knockback.  Crossbows - slow reload, very high damage and knockback.  Zoom with right click while aiming.  Press Interact (default E) to cancel draw.
 Savheim III - Bucklers excel at parrying.  Tower shields let you block for days, and some of them offer special resists.  Medium shields are a blend of both.
+Savheim III - Dual wield pairs of swords, clubs, knives, or axes by equipping two of the same class.  Try their special attacks!  Mainhand block and parry are ignored.  Offhand base damage is ignored.  Gems should work in either weapon.  Dual_* skills do nothing.
 Savheim III - No more than 3 sockets can be crafted into any piece of gear, and some gear isn't allowed to have any sockets.
 Savheim III - You can reposition some GUI windows by clicking & dragging, or Left-Alt and then click & drag.  Press Esc to get a cursor.
 Savheim III - Once you're able to craft them, it's a good idea to keep a Rune Focus and a Soulcatcher Lantern with you on adventures.  Use the Rune Focus on lore stones.  Use the lantern on souls of defeated enemies.
@@ -27,8 +28,8 @@ Savheim III - This version of Savheim takes several steps to safeguard performan
 Savheim III - Slope combat works much better now, but you have to aim properly!
 Savheim III - Harpoons now have a basic secondary attack.  Primary attack tethers, and then the Use key reels the tether in if it's lighter than you.  If it's heavier than you, well, with great power comes great responsibility.
 Savheim III - All hand-held gear now equips instantly, making for more engaging gameplay.  You may sometimes notice animation glitching because of this, but I think it's worth the tradeoff.  Tell me what you think!
-Savheim III - Stealth no longer consumes stamina.  Swim faster and consume less stamina as you level Swimming.  Stamina regenerates faster in general.  Food and rested buffs help even more with stamina.  Being Cold is very bad for stamina.
-Savheim III - Death went to therapy and is nicer now.  You'll no longer drop equipment or consumables when you die, and non-combat skills don't lose experience.  Resurrect each other with Surtling Cores.
+Savheim III - Stealth no longer consumes stamina.  Swim faster and consume less stamina as you level Swimming.  Stamina regenerates faster in general.  Food and rested buffs help even more with stamina.  Being Cold hurts stamina.
+Savheim III - Death went to therapy and is nicer now.  You'll no longer drop equipment or consumables when you die, and most non-combat skills don't lose experience.  Resurrect each other with Surtling Cores.
 Savheim III - Boss powers now have both passive and active aspects, and you get to choose two!  Read about them at the starting stones or in your Valheim Compendium (inventory -> raven icon).  Keybinds are hardcoded to F and G, regardless of in-game settings.
 Savheim III - Most weapon classes have received physics upgrades to give them unique and improved playstyles.  Give them all a second swing, even if you decided against them last playthrough.
 Savheim III - Zone progression:  Meadows -> Black Forest -> Swamp -> Mountains -> Plains -> Mistlands -> Ashlands & Deep North.  Ashlands and Deep North are intended to be equally-deadly end-game zones.
@@ -36,10 +37,12 @@ Savheim III - There are more ways to gain Rested now, and each level of Comfort 
 Savheim III - Waypoints offer safety from monsters, warmth, and a way to pick up a Rested buff in the field if you sit next to it for long enough.
 Savheim III - Group commands: /invite <name>; /leave; /remove <name>; /promote <name>.  Group benefits:  group gem effects, draggable user interface, group chat (/p), colored names, and group ping (LeftAlt).
 Savheim III - Sell trophies to the traders.  Double-click items you want to buy to specify quantities.  Split stacks in your inventory to control quantities you want to sell.
+Savheim III - You can modify the color and size of text on signs.  Open the prompt as usual and type <color=white>, <color=#FFFFFF>, or <size=5>, then start typing your sign text.  It automatically resets if you enter new text.
 Savheim III - Thank you to Iron Gate Studio for making Valheim such a beautiful game, to all the creative modders out there for so many massive additions to it, and to the community for beautiful fanart.
 Savheim III - Thank you to some very talented modders:  Azumatt, blaxxun, wackymole, Therzie, KG, Blacks7ar, Rusty, Searica, MSchmoecker, and many more!
-*Savheim III - Dual wield pairs of swords, clubs, knives, or axes by equipping two of the same class.  Try their special attacks!  Mainhand block and parry are ignored.  Offhand base damage is ignored.  Most gems work in either weapon, but not all - experiment please.
+*Savheim III - I've intentionally left the BepInEx console enabled.  If you ever see RED error text, please copy it into the Discord/Savheim III/bug-reports channel.
 *Savheim III - If you're playing at 3440x1440 resolution, please go to \Valheim\BepInEx\config, delete Azumatt.BowsBeforeHoes.cfg and Azumatt.FastLink.cfg, then remove "_3440x1440" from the filenames of the alternates for each.
-*Savheim III - The game takes a while to load with so many mods installed (~120 mods!).  Please be patient.  Go get a glass of water and use the restroom.
-*Savheim III - KNOWN BUG:  Please unequip your current quiver before crafting or equipping a different one.  There is currently a bug with quivers that cause weird interactions when you have a quiver equipped and try to craft or equip a different quiver.
-*Savheim III - KNOWN BUG:  You can rename some NPCs, but the name won't update until you leave and return to the area, causing the nameplate to reload.  Teleporting or relogging will do the trick.
+*Savheim III - The game takes a while to load with so many mods installed.  Please be patient.  Go get a glass of water and use the restroom.
+*Savheim III - KNOWN BUG:  Please unequip your current quiver before crafting or equipping a different one.  There is currently a bug with quivers if you have a quiver equipped when you craft or equip a different quiver.
+*Savheim III - KNOWN BUG:  You can rename some NPCs, but the name won't update until you leave and return to the area.  Teleporting or relogging will do the trick.
+*Savheim III - KNOWN BUG:  You will someday discover a very special mount that offers an alternate mode of travel.  DO NOT DISMOUNT WHILE USING THIS ALTERNATE MODE OF TRAVEL, or you'll lose it.

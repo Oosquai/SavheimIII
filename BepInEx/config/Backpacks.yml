@@ -522,7 +522,7 @@ Swamp Smuggler:
     level: 1
     costs:
       IronNails: 5
-      RazorbackLeather_TW: 20
+      RottenPelt_TW: 20
       Coal: 10
       TrophyDragonQueen: 1
   valid items:
@@ -559,7 +559,7 @@ Mountains Smuggler:
     level: 1
     costs:
       IronNails: 5
-      GrizzlyBearPelt_TW: 20
+      WolfPelt: 20
       Coal: 10
       TrophyGoblinKing: 1
   valid items:
@@ -599,7 +599,7 @@ Plains Smuggler:
     level: 1
     costs:
       IronNails: 5
-      GrizzlyBearPelt_TW: 20
+      LoxPelt: 20
       Coal: 10
       TrophySeekerQueen: 1
   valid items:
@@ -640,7 +640,7 @@ Insulated Smuggler:
     level: 1
     costs:
       IronNails: 5
-      GrizzlyBearPelt_TW: 20
+      AshenFur_TW: 20
       TrophySythrak_TW: 1
       TrophyStormHerald_TW: 1
   valid items:

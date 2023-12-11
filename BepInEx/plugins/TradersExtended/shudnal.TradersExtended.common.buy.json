@@ -20,7 +20,7 @@
   {
     "prefab": "ElderBark", 
     "stack": 1,
-    "price": 30,
+    "price": 25,
     "requiredGlobalKey": "defeated_bonemass"
   },
   {
@@ -60,19 +60,13 @@
     "requiredGlobalKey": ""
   },
   {
-    "prefab": "RazorbackLeather_TW", 
-    "stack": 1,
-    "price": 30,
-    "requiredGlobalKey": "defeated_gdking"
-  },
-  {
-    "prefab": "GrizzlyBearPelt_TW", 
-    "stack": 1,
-    "price": 60,
-    "requiredGlobalKey": "defeated_goblinking"
-  },
-  {
     "prefab": "SurtlingCore", 
+    "stack": 1,
+    "price": 50,
+    "requiredGlobalKey": "defeated_bonemass"
+  },
+  {
+    "prefab": "Chain", 
     "stack": 1,
     "price": 50,
     "requiredGlobalKey": "defeated_bonemass"
