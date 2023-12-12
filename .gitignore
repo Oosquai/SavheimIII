@@ -20,3 +20,4 @@ BepInEx/cache/harmony_interop_cache.dat
 BepInEx/cache/chainloader_typeloader.dat
 BepInEx/plugins/ItemDropLister.dll
 BepInEx/plugins/ModAge.dll
+BepInEx/plugins/VNEI.dll
