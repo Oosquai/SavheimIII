@@ -1,6 +1,6 @@
-BepInEx/plugins/DragonRiders.dll filter=lfs diff=lfs merge=lfs -text
-BepInEx/plugins/MonstrumAshlands.dll filter=lfs diff=lfs merge=lfs -text
-BepInEx/plugins/WarfareFireAndIce.dll filter=lfs diff=lfs merge=lfs -text
-BepInEx/plugins/MonstrumDeepNorth.dll filter=lfs diff=lfs merge=lfs -text
-BepInEx/plugins/Monstrum.dll filter=lfs diff=lfs merge=lfs -text
-BepInEx/plugins/Warfare.dll filter=lfs diff=lfs merge=lfs -text
+BepInEx/plugins/SERVER_SIDE/DragonRiders.dll filter=lfs diff=lfs merge=lfs -text
+BepInEx/plugins/SERVER_SIDE/Monstrum.dll filter=lfs diff=lfs merge=lfs -text
+BepInEx/plugins/SERVER_SIDE/MonstrumAshlands.dll filter=lfs diff=lfs merge=lfs -text
+BepInEx/plugins/SERVER_SIDE/MonstrumDeepNorth.dll filter=lfs diff=lfs merge=lfs -text
+BepInEx/plugins/SERVER_SIDE/Warfare.dll filter=lfs diff=lfs merge=lfs -text
+BepInEx/plugins/SERVER_SIDE/WarfareFireAndIce.dll filter=lfs diff=lfs merge=lfs -text
