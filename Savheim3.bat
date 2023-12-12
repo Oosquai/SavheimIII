@@ -7,7 +7,7 @@ git reset --hard origin/main
 git pull
 
 :: Uncomment the following pause if you want to see updates before launching the game.
-pause
+::pause
 
 start valheim.exe
 exit
