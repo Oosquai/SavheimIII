@@ -1,0 +1,14 @@
+name: Dragon_Essence_Ygg
+clonePrefabName: 
+craftingStation: $piece_artisanstation
+minStationLevel: 0
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+requireOnlyOneIngredient: false
+reqs:
+- FreezeGland:24:0:True
+- Spirit_Crystal_Ygg:12:0:True
+- TrophyDragonQueen:1:0:True
+- TrophySGolem:1:0:True
