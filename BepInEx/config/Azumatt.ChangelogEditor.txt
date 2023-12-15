@@ -7,7 +7,7 @@
 - Repositioned GUI frames should stop resetting.
 - Character creation camera settings improved.
 - Food should no longer auto-pull from containers to Cooking Stations or Iron Cooking Stations.
-- Beginner Magic Book (and other items) should no longer be craftable.
+- Beginner Magic Book (and other unintended items) should no longer be craftable.
 - Leveling up Swimming no longer increases swim speed.  It still reduces stamina consumption.
 - Queen Bee price increased from 250 to 300 coins.
 - Upgrading a Torch no longer increases its damage.
@@ -18,6 +18,7 @@
 - Added descriptions of weapon classes to most weapons.
 - Increased stamina consumption on Pickaxe secondary attacks.
 - Balanced special attacks on dual wield axes, knives, maces, and swords.
+- Reduced creature star buffs from 80% hp & 30% dmg per star to 50% & 20%, respectively.
 
 <color=#FFA8A8>----------------------------------------------------------------------------
 Previous Savheim III Patch Notes</color>
