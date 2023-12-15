@@ -1,7 +1,7 @@
 name: SwordSilver
 m_weight: 1
 m_name: $item_sword_silver
-m_description: $item_sword_silver_description
+m_description: $item_sword_silver_description  Swords offer balanced offense, with on-demand slashing and piercing damage.
 clonePrefabName: 
 mockName: 
 customIcon: 

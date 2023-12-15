@@ -1,7 +1,7 @@
 name: SwordNjord_TW
 m_weight: 0.8
 m_name: $sword_njord_TW
-m_description: $sword_njord_description_TW
+m_description: $sword_njord_description_TW  Swords offer balanced offense, with on-demand slashing and piercing damage.
 clonePrefabName: 
 mockName: 
 customIcon: 

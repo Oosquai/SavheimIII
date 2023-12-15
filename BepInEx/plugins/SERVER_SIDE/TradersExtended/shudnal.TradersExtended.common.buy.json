@@ -116,7 +116,7 @@
   {
     "prefab": "QueenBee", 
     "stack": 1,
-    "price": 250,
+    "price": 300,
     "requiredGlobalKey": "defeated_eikthyr"
   },
 ]

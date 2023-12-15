@@ -103,14 +103,14 @@ Damage:
   Blunt: 0
   Chop: 0
   Damage: 0
-  Fire: 14
-  Frost: 14
-  Lightning: 14
+  Fire: 12
+  Frost: 12
+  Lightning: 12
   Pickaxe: 0
-  Pierce: 14
+  Pierce: 12
   Poison: 0
   Slash: 0
-  Spirit: 14
+  Spirit: 12
 Damage_Per_Level:
   Blunt: 0
   Chop: 0
