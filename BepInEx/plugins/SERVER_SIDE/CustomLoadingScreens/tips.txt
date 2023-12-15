@@ -46,3 +46,4 @@ Savheim III - I've intentionally left the BepInEx console enabled.  If you ever 
 *Savheim III - KNOWN BUG:  You can rename some NPCs, but the name won't update until you leave and return to the area.  Teleporting or relogging will do the trick.
 *Savheim III - KNOWN BUG:  You will someday discover a very special mount that offers an alternate mode of travel.  DO NOT DISMOUNT WHILE USING THIS ALTERNATE MODE OF TRAVEL, or you'll lose it.
 *Savheim III - KNOWN BUG:  There's an extra repair piece in the hammer's build inventory called Repair Scroll.  It's functionally the same as the repair hammer and can be ignored (or used for repairs if you like).
+*Savheim III - KNOWN BUG:  Quivers and Backpacks gain the Can't Be Teleported property when logging back in.  Workaround - drop them on the ground and pick them back up to clear it.
