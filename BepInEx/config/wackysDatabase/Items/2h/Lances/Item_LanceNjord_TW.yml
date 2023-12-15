@@ -1,7 +1,7 @@
 name: LanceNjord_TW
 m_weight: 2.5
 m_name: $lance_njord_TW
-m_description: $lance_njord_description_TW
+m_description: $lance_njord_description_TW  Lances keep enemies at a safe distance and inflict bleed damage.
 clonePrefabName: 
 mockName: 
 customIcon: 

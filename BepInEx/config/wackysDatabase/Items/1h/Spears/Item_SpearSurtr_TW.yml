@@ -1,7 +1,7 @@
 name: SpearSurtr_TW
 m_weight: 1.5
 m_name: $spear_surtr_TW
-m_description: $spear_surtr_description_TW
+m_description: $spear_surtr_description_TW  Spears can be thrown.
 clonePrefabName: 
 mockName: 
 customIcon: 

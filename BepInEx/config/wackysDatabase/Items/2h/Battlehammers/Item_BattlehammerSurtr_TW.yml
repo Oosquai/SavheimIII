@@ -1,7 +1,7 @@
 name: BattlehammerSurtr_TW
 m_weight: 4
 m_name: $battlehammer_surtr_TW
-m_description: $battlehammer_surtr_description_TW
+m_description: $battlehammer_surtr_description_TW  Battlehammers excel at staggering foes.
 clonePrefabName: 
 mockName: 
 customIcon: 

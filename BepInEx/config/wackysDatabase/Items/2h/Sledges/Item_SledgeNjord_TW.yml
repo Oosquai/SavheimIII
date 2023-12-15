@@ -1,7 +1,7 @@
 name: SledgeNjord_TW
 m_weight: 4
 m_name: $sledge_njord_TW
-m_description: $sledge_njord_description_TW
+m_description: $sledge_njord_description_TW  Sledges deal massive area effect damage.
 clonePrefabName: 
 mockName: 
 customIcon: 

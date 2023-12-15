@@ -1,7 +1,7 @@
 name: AxeFlint
 m_weight: 1.5
 m_name: $item_axe_flint
-m_description: $item_axe_flint_description
+m_description: $item_axe_flint_description  Axes have a 2-hit combo instead of 3 for greater sustained DPS.
 clonePrefabName: 
 mockName: 
 customIcon: 

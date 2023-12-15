@@ -1,7 +1,7 @@
 name: ClaymoreDvergr_TW
 m_weight: 4
 m_name: $claymore_dvergr_TW
-m_description: $claymore_dvergr_description_TW
+m_description: $claymore_dvergr_description_TW  Claymores have improved parry and a quick poke.
 clonePrefabName: 
 mockName: 
 customIcon: 

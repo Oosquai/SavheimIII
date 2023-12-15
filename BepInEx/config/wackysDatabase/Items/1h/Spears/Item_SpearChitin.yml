@@ -1,7 +1,7 @@
 name: SpearChitin
 m_weight: 1.5
 m_name: $item_spear_chitin
-m_description: $item_spear_chitin_description
+m_description: $item_spear_chitin_description  Spears can be thrown.
 clonePrefabName: 
 mockName: 
 customIcon: 

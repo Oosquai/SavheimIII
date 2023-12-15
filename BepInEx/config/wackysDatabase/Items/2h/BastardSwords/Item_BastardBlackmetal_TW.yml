@@ -1,7 +1,7 @@
 name: BastardBlackmetal_TW
 m_weight: 4
 m_name: $bastard_blackmetal_TW
-m_description: $bastard_blackmetal_description_TW
+m_description: $bastard_blackmetal_description_TW  Bastard swords have improved parry and a heavy secondary attack.
 clonePrefabName: 
 mockName: 
 customIcon: 

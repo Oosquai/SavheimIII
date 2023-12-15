@@ -1,7 +1,7 @@
 name: SledgeBonemass_TW
 m_weight: 4
 m_name: $sledge_bonemass_TW
-m_description: $sledge_bonemass_description_TW
+m_description: $sledge_bonemass_description_TW  Sledges deal massive area effect damage.
 clonePrefabName: 
 mockName: 
 customIcon: 

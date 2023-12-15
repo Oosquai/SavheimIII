@@ -1,7 +1,7 @@
 name: AxeBlackMetal
 m_weight: 2
 m_name: $item_axe_blackmetal
-m_description: $item_axe_blackmetal_description
+m_description: $item_axe_blackmetal_description  Axes have a 2-hit combo instead of 3 for greater sustained DPS.
 clonePrefabName: 
 mockName: 
 customIcon: 

@@ -1,7 +1,7 @@
 name: KnifeIron_TW
 m_weight: 0.3
 m_name: $knife_iron_TW
-m_description: $knife_iron_description_TW
+m_description: $knife_iron_description_TW  Knives have a unique dodge and bonuses to flanking and critical damage.
 clonePrefabName: 
 mockName: 
 customIcon: 

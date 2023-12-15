@@ -1,7 +1,7 @@
 name: BattleaxeDvergr_TW
-m_weight: 2.5
+m_weight: 4
 m_name: $battleaxe_dvergr_TW
-m_description: $battleaxe_dvergr_description_TW
+m_description: $battleaxe_dvergr_description_TW  Battleaxes focus on damage, with a slow but deadly execute on the secondary attack.
 clonePrefabName: 
 mockName: 
 customIcon: 

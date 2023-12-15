@@ -1,7 +1,7 @@
 name: BattleaxeCrystalEmerald_TW
-m_weight: 2.5
+m_weight: 4
 m_name: $battleaxecrystal_emerald_TW
-m_description: $battleaxecrystal_emerald_description_TW
+m_description: $battleaxecrystal_emerald_description_TW  Crystal Battleaxes have a quick, staggering poke.
 clonePrefabName: 
 mockName: 
 customIcon: 

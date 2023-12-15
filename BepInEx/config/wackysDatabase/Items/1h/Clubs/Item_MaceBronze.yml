@@ -1,7 +1,7 @@
 name: MaceBronze
 m_weight: 2
 m_name: $item_mace_bronze
-m_description: $item_mace_bronze_description
+m_description: $item_mace_bronze_description  Maces excel at staggering foes.
 clonePrefabName: 
 mockName: 
 customIcon: 

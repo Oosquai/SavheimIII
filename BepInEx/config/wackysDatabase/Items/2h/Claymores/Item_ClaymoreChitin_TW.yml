@@ -1,7 +1,7 @@
 name: ClaymoreChitin_TW
 m_weight: 4
 m_name: $claymore_chitin_TW
-m_description: $claymore_chitin_description_TW
+m_description: $claymore_chitin_description_TW  Claymores have improved parry and a quick poke.
 clonePrefabName: 
 mockName: 
 customIcon: 

@@ -1,7 +1,7 @@
 name: AxeSilver_TW
 m_weight: 2
 m_name: $axe_silver_TW
-m_description: "$axe_silver_description_TW"
+m_description: $axe_silver_description_TW  Axes have a 2-hit combo instead of 3 for greater sustained DPS.
 clonePrefabName: 
 mockName: 
 customIcon: 

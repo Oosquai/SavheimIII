@@ -1,7 +1,7 @@
 name: AtgeirBronze
 m_weight: 2.5
 m_name: $item_atgeir_bronze
-m_description: $item_atgeir_bronze_description
+m_description: $item_atgeir_bronze_description  Atgeirs excel at area control.
 clonePrefabName: 
 mockName: 
 customIcon: 

@@ -1,7 +1,7 @@
 name: GreatClub_TW
 m_weight: 4
 m_name: $greatclub_TW
-m_description: $greatclub_description_TW
+m_description: $greatclub_description_TW  This giant Woody excels at staggering foes.
 clonePrefabName: 
 mockName: 
 customIcon: 
