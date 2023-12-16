@@ -1,7 +1,7 @@
 name: AxeIron
 m_weight: 2
 m_name: $item_axe_iron
-m_description: $item_axe_iron_description  Axes have a 2-hit combo instead of 3 for greater sustained DPS.
+m_description: $item_axe_iron_description  Whether using one or dual-wieling, axes have a 2-hit combo instead of 3 for greater sustained DPS.
 clonePrefabName: 
 mockName: 
 customIcon: 

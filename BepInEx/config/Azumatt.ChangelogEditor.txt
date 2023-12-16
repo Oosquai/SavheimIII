@@ -1,14 +1,26 @@
 - <color=#FF6F00>MUST CHANGE Controls</color>:  <color=#00FFFF>Toggle Walk</color> & <color=#00FFFF>Sit</color>.  Recommended:  <color=#00FFFF>-</color> & <color=#00FFFF>=</color>
 - Move windows: click & drag (some need Left-Alt). Esc for cursor.
 <color=#FFFF00>__ 0/_______________________________
-     0\  Savheim III Patch Notes, 12/14/23</color>
+     0\  Savheim III Patch Notes, 12/15/23</color>
+- Reduced crafting costs of Bone Sword, Bone Claymore, Bone Bastard Sword, Bone Warpike, and Bronze Knuckles.
+- Reduced damage on Bone Claymore and Bone Bastard Sword.
+- Slightly increased damage on Bone Warpike.
+- Reduced damage on dual scimitars to match black metal swords.
+- Slightly reduced attack speed on dual axe normal attacks.
+- Improved parry on swords to differentiate them when dual-wielded.
+- Added tooltip text to 1h swords, knives, clubs, and axes to explain their intended dual wield styles.
+- Doubled demister range - it's now 4x base game.
+
+<color=#FFA8A8>----------------------------------------------------------------------------
+Previous Savheim III Patch Notes</color>
+Patch Notes, 12/14/23
 - Updated several mods for Valheim update.
 - New characters now spawn with a club.
 - Repositioned GUI frames should stop resetting.
 - Character creation camera settings improved.
 - Food should no longer auto-pull from containers to Cooking Stations or Iron Cooking Stations.
 - Beginner Magic Book (and other unintended items) should no longer be craftable.
-- Leveling up Swimming no longer increases swim speed.  It still reduces stamina consumption.
+- Leveling up Swimming no longer increases swim speed, but it still reduces stamina consumption.
 - Queen Bee price increased from 250 to 300 coins.
 - Upgrading a Torch no longer increases its damage.
 - Giant Club now requires Workbench level 1 instead of 2.
@@ -20,8 +32,6 @@
 - Balanced special attacks on dual wield axes, knives, maces, and swords.
 - Reduced creature star buffs from 80% hp & 30% dmg per star to 50% & 20%, respectively.
 
-<color=#FFA8A8>----------------------------------------------------------------------------
-Previous Savheim III Patch Notes</color>
 Patch Notes, 12/8/23
 - Savheim III server launched for testing.
 

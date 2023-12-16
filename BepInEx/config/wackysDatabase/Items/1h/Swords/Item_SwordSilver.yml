@@ -1,7 +1,7 @@
 name: SwordSilver
 m_weight: 1
 m_name: $item_sword_silver
-m_description: $item_sword_silver_description  Swords offer balanced offense, with on-demand slashing and piercing damage.
+m_description: $item_sword_silver_description  Swords offer balanced offense, with on-demand slashing and piercing damage when using one, or improved parry when dual-wielded.
 clonePrefabName: 
 mockName: 
 customIcon: 
@@ -135,7 +135,7 @@ SE_SET_Equip:
 ShieldStats:
   m_blockPower: 30
   m_blockPowerPerLevel: 2
-  m_timedBlockBonus: 2
+  m_timedBlockBonus: 3
   m_deflectionForce: 0
   m_deflectionForcePerLevel: 0
 m_maxStackSize: 1

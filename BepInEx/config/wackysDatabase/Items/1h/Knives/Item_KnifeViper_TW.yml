@@ -1,7 +1,7 @@
 name: KnifeViper_TW
 m_weight: 0.3
 m_name: $knife_viper_TW
-m_description: $knife_viper_description_TW  Knives have a unique dodge and bonuses to flanking and critical damage.
+m_description: $knife_viper_description_TW  Knives have a unique dodge and bonuses to flanking and critical damage, emphasizing a dodge-heavy playstyle when dual-wielded.
 clonePrefabName: 
 mockName: 
 customIcon: 

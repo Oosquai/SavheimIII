@@ -1,7 +1,7 @@
 name: JC_Reaper_Sword
 m_weight: 0.8
 m_name: $jc_reaper_sword
-m_description: "A sword made from a mysterious, otherworldly material.  This weapon has a quick thrust and deals 10% bonus damage to world bosses.  Swords offer balanced offense, with on-demand slashing and piercing damage."
+m_description: "A sword made from a mysterious, otherworldly material.  This weapon has a quick thrust and deals 10% bonus damage to world bosses.  Swords offer balanced offense, with on-demand slashing and piercing damage when using one, or improved parry when dual-wielded."
 clonePrefabName: 
 mockName: 
 customIcon: 
@@ -135,7 +135,7 @@ SE_SET_Equip:
 ShieldStats:
   m_blockPower: 57
   m_blockPowerPerLevel: 2
-  m_timedBlockBonus: 2
+  m_timedBlockBonus: 3
   m_deflectionForce: 0
   m_deflectionForcePerLevel: 0
 m_maxStackSize: 1

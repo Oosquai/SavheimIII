@@ -1,7 +1,7 @@
 name: MaceChitin_TW
 m_weight: 2
 m_name: $mace_chitin_TW
-m_description: $mace_chitin_description_TW  Maces excel at staggering foes.
+m_description: $mace_chitin_description_TW  Maces excel at staggering foes, especially when dual-wielded.
 clonePrefabName: 
 mockName: 
 customIcon: 

@@ -1,7 +1,7 @@
 name: AxeNjord_TW
 m_weight: 2
 m_name: $axe_njord_TW
-m_description: $axe_njord_description_TW  Axes have a 2-hit combo instead of 3 for greater sustained DPS.
+m_description: $axe_njord_description_TW  Whether using one or dual-wieling, axes have a 2-hit combo instead of 3 for greater sustained DPS.
 clonePrefabName: 
 mockName: 
 customIcon: 

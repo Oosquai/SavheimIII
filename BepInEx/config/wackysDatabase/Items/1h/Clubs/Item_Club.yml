@@ -1,7 +1,7 @@
 name: Club
 m_weight: 2
 m_name: $item_club
-m_description: $item_club_description  Clubs excel at staggering foes.
+m_description: $item_club_description  Clubs excel at staggering foes, especially when dual-wielded.
 clonePrefabName: 
 mockName: 
 customIcon: 
