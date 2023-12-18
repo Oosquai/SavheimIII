@@ -1,7 +1,7 @@
 name: BattleaxeDragon_TW
 m_weight: 4
 m_name: $battleaxe_dragon_TW
-m_description: $battleaxe_dragon_description_TW  Battleaxes focus on damage, with a slow but deadly execute on the secondary attack.
+m_description: $battleaxe_dragon_description_TW
 clonePrefabName: 
 mockName: 
 customIcon: 
@@ -67,7 +67,7 @@ Secondary_Attack:
   m_attackHealthPercentage: 0
   SpeedFactor: 0.2
   DmgMultiplier: 2
-  ForceMultiplier: 8
+  ForceMultiplier: 100
   StaggerMultiplier: 1
   RecoilMultiplier: 0
   AttackRange: 2.5
@@ -153,7 +153,7 @@ spawn_on_terrain_hit:
 m_questItem: false
 m_teleportable: true
 m_backstabbonus: 3
-m_knockback: 0
+m_knockback: 1
 m_useDurability: true
 m_useDurabilityDrain: 1
 m_durabilityDrain: 0

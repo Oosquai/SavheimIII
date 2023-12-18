@@ -1,7 +1,7 @@
 name: SledgeBonemass_TW
 m_weight: 4
 m_name: $sledge_bonemass_TW
-m_description: $sledge_bonemass_description_TW  Sledges deal massive area effect damage.
+m_description: $sledge_bonemass_description_TW  The concussive force of this weapon's special attack emits a toxic cloud and draws enemies toward the center of it.
 clonePrefabName: 
 mockName: 
 customIcon: 
@@ -66,14 +66,14 @@ Secondary_Attack:
   Chain_Attacks: 0
   Hit_Terrain: true
   Custom_AttackSpeed: 1
-  m_attackStamina: 27
+  m_attackStamina: 30
   m_eitrCost: 0
   AttackHealthCost: 0
   m_attackHealthPercentage: 0
   SpeedFactor: 0.3
-  DmgMultiplier: 1
-  ForceMultiplier: 4
-  StaggerMultiplier: 1
+  DmgMultiplier: 0.5
+  ForceMultiplier: -12
+  StaggerMultiplier: 3
   RecoilMultiplier: 0
   AttackRange: 2
   AttackHeight: 0

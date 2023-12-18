@@ -1,7 +1,7 @@
 name: FistIron_TW
 m_weight: 2
 m_name: $fist_iron_TW
-m_description: $fist_iron_description_TW
+m_description: $fist_iron_description_TW  Fist weapons grapple with enemies to hold them close while shredding them to ribbons.
 clonePrefabName: 
 mockName: 
 customIcon: 
@@ -69,7 +69,7 @@ Secondary_Attack:
   m_attackHealthPercentage: 0
   SpeedFactor: 0.2
   DmgMultiplier: 2
-  ForceMultiplier: 6
+  ForceMultiplier: 1.5
   StaggerMultiplier: 2
   RecoilMultiplier: 0
   AttackRange: 2.1
@@ -153,7 +153,7 @@ spawn_on_terrain_hit:
 m_questItem: false
 m_teleportable: true
 m_backstabbonus: 6
-m_knockback: 0
+m_knockback: -50
 m_useDurability: true
 m_useDurabilityDrain: 1
 m_durabilityDrain: 0

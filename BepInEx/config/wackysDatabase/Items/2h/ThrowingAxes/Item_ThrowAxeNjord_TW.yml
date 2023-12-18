@@ -105,12 +105,12 @@ Damage:
   Chop: 0
   Damage: 0
   Fire: 0
-  Frost: 20
+  Frost: 30
   Lightning: 0
   Pickaxe: 0
   Pierce: 0
   Poison: 0
-  Slash: 100
+  Slash: 110
   Spirit: 0
 Damage_Per_Level: 
 Armor:
@@ -124,7 +124,7 @@ SE_Equip:
   EffectName: SE_Decapitator4_TW
 SE_SET_Equip: 
 ShieldStats:
-  m_blockPower: 27
+  m_blockPower: 32
   m_blockPowerPerLevel: 0
   m_timedBlockBonus: 2
   m_deflectionForce: 0

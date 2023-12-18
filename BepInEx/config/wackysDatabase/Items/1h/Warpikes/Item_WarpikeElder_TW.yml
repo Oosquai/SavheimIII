@@ -1,7 +1,7 @@
 name: WarpikeElder_TW
 m_weight: 1.5
 m_name: $warpike_elder_TW
-m_description: $warpike_elder_description_TW
+m_description: $warpike_elder_description_TW  Rather than knocking foes away, the special attack on this weapon temporarily stops the heart of its victim, staggering all but the mightiest of foes.
 clonePrefabName: 
 mockName: 
 customIcon: 
@@ -61,15 +61,15 @@ Secondary_Attack:
   Attack_Random_Animation: 0
   Chain_Attacks: 0
   Hit_Terrain: true
-  Custom_AttackSpeed: 1
+  Custom_AttackSpeed: 1.5
   m_attackStamina: 24
   m_eitrCost: 0
   AttackHealthCost: 0
   m_attackHealthPercentage: 0
   SpeedFactor: 0
-  DmgMultiplier: 2
-  ForceMultiplier: 1.5
-  StaggerMultiplier: 0.7
+  DmgMultiplier: 0.5
+  ForceMultiplier: 0
+  StaggerMultiplier: 8
   RecoilMultiplier: 0
   AttackRange: 1
   AttackHeight: 1.5
@@ -151,7 +151,7 @@ spawn_on_terrain_hit:
 m_questItem: false
 m_teleportable: true
 m_backstabbonus: 3
-m_knockback: 0
+m_knockback: 50
 m_useDurability: true
 m_useDurabilityDrain: 1
 m_durabilityDrain: 0

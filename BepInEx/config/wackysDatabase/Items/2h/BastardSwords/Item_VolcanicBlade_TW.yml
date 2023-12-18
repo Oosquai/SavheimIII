@@ -1,7 +1,7 @@
 name: VolcanicBlade_TW
 m_weight: 4
 m_name: $blade_volcanic_TW
-m_description: $blade_volcanic_description_TW  Bastard swords have improved parry and a heavy secondary attack.
+m_description: $blade_volcanic_description_TW  The special attack has a high chance to stagger enemies, sealing their fate.
 clonePrefabName: 
 mockName: 
 customIcon: 
@@ -15,7 +15,7 @@ Primary_Attack:
   Attack_Random_Animation: 0
   Chain_Attacks: 3
   Hit_Terrain: true
-  Custom_AttackSpeed: 1
+  Custom_AttackSpeed: 1.2
   m_attackStamina: 22
   m_eitrCost: 0
   AttackHealthCost: 0
@@ -60,7 +60,7 @@ Secondary_Attack:
   Attack_Random_Animation: 0
   Chain_Attacks: 0
   Hit_Terrain: true
-  Custom_AttackSpeed: 1
+  Custom_AttackSpeed: 1.1
   m_attackStamina: 44
   m_eitrCost: 0
   AttackHealthCost: 0
@@ -68,7 +68,7 @@ Secondary_Attack:
   SpeedFactor: 0.2
   DmgMultiplier: 3
   ForceMultiplier: 1
-  StaggerMultiplier: 1
+  StaggerMultiplier: 2
   RecoilMultiplier: 0
   AttackRange: 3
   AttackHeight: 1

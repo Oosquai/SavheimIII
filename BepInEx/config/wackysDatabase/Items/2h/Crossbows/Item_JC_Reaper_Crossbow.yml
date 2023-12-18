@@ -1,7 +1,7 @@
 name: JC_Reaper_Crossbow
 m_weight: 1.5
 m_name: $jc_reaper_crossbow
-m_description: "A crossbow made from a mysterious, otherworldly material.  This weapon has an improved reload time and deals 10% bonus damage to world bosses."
+m_description: "A crossbow made from a mysterious, otherworldly material.  This weapon has the unique ability to yank enemies toward you, and it deals 10% bonus damage to world bosses."
 clonePrefabName: 
 mockName: 
 customIcon: 
@@ -22,15 +22,15 @@ Primary_Attack:
   m_attackHealthPercentage: 0
   SpeedFactor: 0.3
   DmgMultiplier: 1
-  ForceMultiplier: 1
-  StaggerMultiplier: 1
-  RecoilMultiplier: 40
+  ForceMultiplier: -2
+  StaggerMultiplier: 4
+  RecoilMultiplier: 0
   AttackRange: 1
   AttackHeight: 1.2
   Spawn_On_Trigger: 
   Requires_Reload: true
   Reload_Animation: reload_crossbow
-  ReloadTime: 3
+  ReloadTime: 3.5
   Reload_Stamina_Drain: 1
   Bow_Draw: false
   Bow_Duration_Min: 0

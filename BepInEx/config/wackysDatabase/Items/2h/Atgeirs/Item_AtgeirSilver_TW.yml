@@ -67,7 +67,7 @@ Secondary_Attack:
   m_attackHealthPercentage: 0
   SpeedFactor: 0.2
   DmgMultiplier: 1
-  ForceMultiplier: 10
+  ForceMultiplier: 2
   StaggerMultiplier: 1
   RecoilMultiplier: 0
   AttackRange: 3
@@ -149,7 +149,7 @@ spawn_on_terrain_hit:
 m_questItem: false
 m_teleportable: true
 m_backstabbonus: 3
-m_knockback: 30
+m_knockback: 50
 m_useDurability: true
 m_useDurabilityDrain: 1
 m_durabilityDrain: 0

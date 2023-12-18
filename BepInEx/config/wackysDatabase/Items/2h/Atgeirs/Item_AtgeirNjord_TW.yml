@@ -67,7 +67,7 @@ Secondary_Attack:
   m_attackHealthPercentage: 0
   SpeedFactor: 0.2
   DmgMultiplier: 1
-  ForceMultiplier: 10
+  ForceMultiplier: 2
   StaggerMultiplier: 1
   RecoilMultiplier: 0
   AttackRange: 3
@@ -105,10 +105,10 @@ Damage:
   Chop: 0
   Damage: 0
   Fire: 0
-  Frost: 15
+  Frost: 27
   Lightning: 0
   Pickaxe: 0
-  Pierce: 130
+  Pierce: 140
   Poison: 0
   Slash: 0
   Spirit: 0
@@ -120,7 +120,7 @@ Damage_Per_Level:
   Frost: 2
   Lightning: 0
   Pickaxe: 0
-  Pierce: 4
+  Pierce: 5
   Poison: 0
   Slash: 0
   Spirit: 0
@@ -134,7 +134,7 @@ Moddifiers:
 SE_Equip: 
 SE_SET_Equip: 
 ShieldStats:
-  m_blockPower: 76
+  m_blockPower: 88
   m_blockPowerPerLevel: 2
   m_timedBlockBonus: 2
   m_deflectionForce: 0
@@ -149,7 +149,7 @@ spawn_on_terrain_hit:
 m_questItem: false
 m_teleportable: true
 m_backstabbonus: 3
-m_knockback: 30
+m_knockback: 50
 m_useDurability: true
 m_useDurabilityDrain: 1
 m_durabilityDrain: 0

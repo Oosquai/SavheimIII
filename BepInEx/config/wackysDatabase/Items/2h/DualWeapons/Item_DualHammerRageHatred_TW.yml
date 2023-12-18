@@ -100,10 +100,10 @@ Secondary_Attack:
     Trail_Effect: 
     Burst_Effect: 
 Damage:
-  Blunt: 130
+  Blunt: 135
   Chop: 0
   Damage: 0
-  Fire: 20
+  Fire: 25
   Frost: 0
   Lightning: 0
   Pickaxe: 0
@@ -112,10 +112,10 @@ Damage:
   Slash: 0
   Spirit: 0
 Damage_Per_Level:
-  Blunt: 6
+  Blunt: 5
   Chop: 0
   Damage: 0
-  Fire: 1
+  Fire: 2
   Frost: 0
   Lightning: 0
   Pickaxe: 0
@@ -134,7 +134,7 @@ SE_Equip:
   EffectName: SE_Adrenaline_TW
 SE_SET_Equip: 
 ShieldStats:
-  m_blockPower: 57
+  m_blockPower: 66
   m_blockPowerPerLevel: 2
   m_timedBlockBonus: 3
   m_deflectionForce: 0
