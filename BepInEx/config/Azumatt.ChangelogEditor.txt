@@ -7,6 +7,10 @@
 - The Stonecutter table now requires Bronze instead of Iron.
 - Buffed Deep North weapons and shields to match the higher difficulty in that zone.
 - Sockets are no longer restricted between utility, ring, and necklace slots.
+- Modified recipe for Gemcutters Table to include Greydwarf Eyes.
+- Adjusted sell prices for all trophies at Traders.
+- Modified Dragon Cape to no longer launch you into orbit.
+- Attempted to remove Repair Scroll and Iron Repair Hammer from Hammer menus.
 
 <color=#FFA8A8>----------------------------------------------------------------------------
 Previous Savheim III Patch Notes</color>

@@ -41,10 +41,3 @@ Savheim III - Thank you to Iron Gate Studio for making Valheim such a beautiful 
 Savheim III - Thank you to some very talented modders:  Azumatt, blaxxun, wackymole, Therzie, KG, Blacks7ar, Rusty, Searica, MSchmoecker, and many more!
 Savheim III - Thank you to Matt, Jake, and Woody for playtesting Savheim III and helping resolve lots of issues before launch!  Thanks to Matt for TotinoTunes and Jake for that awesome Savheim III video in Discord!
 Savheim III - I've intentionally left the BepInEx console enabled.  If you ever see RED error text, please copy it into the Discord/Savheim III/bug-reports channel.
-*Savheim III - SETUP:  Change these keybinds in your game: Toggle Walk & Sit.  Recommended: - & =  (reserved by mods: Z, X, C, F, G, I, O, P, K, L, F1, F3, F6, Arrow keys, Keypad7, Keypad8, KeypadPlus, KeypadMinus, and Shift-{1-6}).
-*Savheim III - SETUP:  If you're playing at 3440x1440 resolution, please go to \Valheim\BepInEx\config\Azumatt.BowsBeforeHoes.cfg, search for OffsetX, and change the value to -903.  In the same directory, open Azumatt.FastLink.cfg, search for Position of the UI, and change the X coordinate to 835.
-*Savheim III - KNOWN BUG:  There is currently a bug with quivers if you have a quiver equipped when you craft or equip a different quiver.  Please unequip your current quiver before crafting or equipping a different one.
-*Savheim III - KNOWN BUG:  You can rename some NPCs, but the name won't update until you leave and return to the area.  Teleporting or relogging will do the trick.
-*Savheim III - KNOWN BUG:  You will someday discover a very special mount that offers an alternate mode of travel.  DO NOT DISMOUNT WHILE USING THIS ALTERNATE MODE OF TRAVEL, or you'll lose it.
-*Savheim III - KNOWN BUG:  There's an extra repair piece in the hammer's build inventory called Repair Scroll.  It's functionally the same as the repair hammer and can be ignored (or used for repairs if you like).
-*Savheim III - KNOWN BUG:  Quivers and Backpacks gain the Can't Be Teleported property when logging back in.  Workaround - drop them on the ground and pick them back up to clear it.

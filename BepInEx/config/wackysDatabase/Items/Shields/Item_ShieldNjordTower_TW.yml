@@ -123,7 +123,7 @@ SE_Equip:
   EffectName: SE_NjordTowerShieldResistance
 SE_SET_Equip: 
 ShieldStats:
-  m_blockPower: 144
+  m_blockPower: 164
   m_blockPowerPerLevel: 6
   m_timedBlockBonus: 0
   m_deflectionForce: 0
