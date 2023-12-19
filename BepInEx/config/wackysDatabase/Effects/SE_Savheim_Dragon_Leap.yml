@@ -39,7 +39,7 @@ SeData:
   m_raiseSkill: None
   m_raiseSkillModifier: 0
   m_skillLevel: Jump
-  m_skillLevelModifier: 50
+  m_skillLevelModifier: 25
   m_skillLevel2: None
   m_skillLevelModifier2: 0
   m_mods: []

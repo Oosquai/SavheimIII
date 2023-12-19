@@ -238,37 +238,37 @@ piece_chest_private:
 #  exclude:
 #    - CookingStationIngredients
 
-rk_cabinet: # rk_ is typically the prefix for containers coming from RockerKitten's mods
-  exclude:
-    - Food
-  includeOverride:
-    - Food
-
-rk_cabinet2:
-  exclude:
-    - Food
-  includeOverride:
-    - Food
-
-rk_barrel:
-  exclude:
-    - Armor
-    - Swords
-
-rk_barrel2:
-  exclude:
-    - Armor
-    - Swords
-
-rk_crate:
-  exclude:
-    - Armor
-    - Swords
-
-rk_crate2:
-  exclude:
-    - Armor
-    - Swords
+#rk_cabinet: # rk_ is typically the prefix for containers coming from RockerKitten's mods
+#  exclude:
+#    - Food
+#  includeOverride:
+#    - Food
+#
+#rk_cabinet2:
+#  exclude:
+#    - Food
+#  includeOverride:
+#    - Food
+#
+#rk_barrel:
+#  exclude:
+#    - Armor
+#    - Swords
+#
+#rk_barrel2:
+#  exclude:
+#    - Armor
+#    - Swords
+#
+#rk_crate:
+#  exclude:
+#    - Armor
+#    - Swords
+#
+#rk_crate2:
+#  exclude:
+#    - Armor
+#    - Swords
 
 # Below you will find the configuration for the charcoal kiln, smelter, blast furnace, 
 # piece_cookingstation, piece_cookingstation_iron, piece_oven,
@@ -288,10 +288,10 @@ blastfurnace:
   exclude: []
 
 piece_cookingstation:
-  exclude: All
+  exclude: Food
 
 piece_cookingstation_iron:
-  exclude: All
+  exclude: Food
 
 piece_oven:
   exclude: []
