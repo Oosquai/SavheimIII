@@ -2,9 +2,10 @@
 - Move windows: click & drag (some need Left-Alt). Esc for cursor.
 <color=#FFFF00>__ 0/_______________________________
      0\  Savheim III Patch Notes, 12/19/23</color>
-- Flint claws now have a leaping seconardy attack.
-- Iron knuckles special attack now has less pull but increased stagger.
-- Dwarven fists special attack now has less pull but increased stagger.
+- Flint claws now have a pouncing special attack.
+- Bronze knuckles special attack now has less pull but more stagger.
+- Iron knuckles special attack now has less pull but more stagger.
+- Dwarven fists special attack now has less pull but more stagger.
 
 <color=#FFA8A8>----------------------------------------------------------------------------
 Previous Savheim III Patch Notes</color>
