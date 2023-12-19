@@ -3,18 +3,17 @@
 <color=#FFFF00>__ 0/_______________________________
      0\  Savheim III Patch Notes, 12/19/23</color>
 - Flint claws now have a leaping seconardy attack.
-- Iron knuckles secondary attack now have reduced pull but increased stagger.
-- Dwarven fists secondary attack now have reduced pull but increased stagger.
+- Iron knuckles special attack now has less pull but increased stagger.
+- Dwarven fists special attack now has less pull but increased stagger.
 
 <color=#FFA8A8>----------------------------------------------------------------------------
 Previous Savheim III Patch Notes</color>
-
 Patch Notes, 12/17/23
 - Adjusted knockback and attack speed on warpikes, atgeirs, lances, and sledges.
 - All Fist weapons now pull enemies toward you.
 - The Stonecutter table now requires Bronze instead of Iron.
 - Buffed Deep North weapons and shields to match the higher difficulty in that zone.
-- Sockets are no longer restricted between utility, ring, and necklace slots.
+- Sockets are no longer restricted between utility, ring, & neck slots.
 - Modified recipe for Gemcutters Table to include Greydwarf Eyes.
 - Adjusted sell prices for all trophies at Traders.
 - Modified Dragon Cape to no longer launch you into orbit.
