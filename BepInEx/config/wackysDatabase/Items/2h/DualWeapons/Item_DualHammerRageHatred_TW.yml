@@ -134,7 +134,7 @@ SE_Equip:
   EffectName: SE_Adrenaline_TW
 SE_SET_Equip: 
 ShieldStats:
-  m_blockPower: 66
+  m_blockPower: 57
   m_blockPowerPerLevel: 2
   m_timedBlockBonus: 3
   m_deflectionForce: 0

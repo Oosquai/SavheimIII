@@ -23,7 +23,7 @@ Primary_Attack:
   SpeedFactor: 0.3
   DmgMultiplier: 1
   ForceMultiplier: 1
-  StaggerMultiplier: 1.5
+  StaggerMultiplier: 1.3
   RecoilMultiplier: 0
   AttackRange: 2.4
   AttackHeight: 0.8
@@ -134,7 +134,7 @@ SE_Equip:
 SE_SET_Equip: 
 ShieldStats:
   m_blockPower: 57
-  m_blockPowerPerLevel: 2
+  m_blockPowerPerLevel: 3
   m_timedBlockBonus: 2
   m_deflectionForce: 0
   m_deflectionForcePerLevel: 0

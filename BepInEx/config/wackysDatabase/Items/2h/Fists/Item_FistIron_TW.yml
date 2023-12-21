@@ -105,7 +105,7 @@ Secondary_Attack:
     Trail_Effect: 
     Burst_Effect: 
 Damage:
-  Blunt: 40
+  Blunt: 50
   Chop: 0
   Damage: 0
   Fire: 0
@@ -153,7 +153,7 @@ spawn_on_terrain_hit:
 m_questItem: false
 m_teleportable: true
 m_backstabbonus: 6
-m_knockback: -50
+m_knockback: -30
 m_useDurability: true
 m_useDurabilityDrain: 1
 m_durabilityDrain: 0

@@ -1,7 +1,7 @@
-name: BastardNjord_TW
-m_weight: 4
-m_name: $bastard_njord_TW
-m_description: $bastard_njord_description_TW  Bastard swords have improved parry and a heavy secondary attack.
+name: KnifeWrench_TW
+m_weight: 0.3
+m_name: Dwarven Parrying Dagger
+m_description: A clever dwarven tool good for stabbing and parrying.  This knife is intended to be used in the offhand while dual wielding.
 clonePrefabName: 
 mockName: 
 customIcon: 
@@ -11,22 +11,22 @@ sizeMultiplier: 1
 scale_weight_by_quality: 0
 Primary_Attack:
   AttackType: Horizontal
-  Attack_Animation: battleaxe_attack
+  Attack_Animation: spear_poke
   Attack_Random_Animation: 0
-  Chain_Attacks: 3
+  Chain_Attacks: 0
   Hit_Terrain: true
   Custom_AttackSpeed: 1
-  m_attackStamina: 22
+  m_attackStamina: 14
   m_eitrCost: 0
   AttackHealthCost: 0
   m_attackHealthPercentage: 0
   SpeedFactor: 0.3
   DmgMultiplier: 1
   ForceMultiplier: 1
-  StaggerMultiplier: 1
+  StaggerMultiplier: 0.7
   RecoilMultiplier: 0
-  AttackRange: 2.6
-  AttackHeight: 1
+  AttackRange: 1.8
+  AttackHeight: 0.8
   Spawn_On_Trigger: 
   Requires_Reload: false
   Reload_Animation: ''
@@ -36,13 +36,13 @@ Primary_Attack:
   Bow_Duration_Min: 0
   Bow_Stamina_Drain: 0
   Bow_Animation_State: ''
-  Attack_Angle: 90
+  Attack_Angle: 40
   Attack_Ray_Width: 0.5
   Lower_Dmg_Per_Hit: true
   Hit_Through_Walls: false
   Multi_Hit: true
   Pickaxe_Special: false
-  Last_Chain_Dmg_Multiplier: 2
+  Last_Chain_Dmg_Multiplier: 1
   Attack_Projectile: 
   Projectile_Vel: 10
   Projectile_Accuraccy: 10
@@ -56,22 +56,22 @@ Primary_Attack:
     Burst_Effect: 
 Secondary_Attack:
   AttackType: Vertical
-  Attack_Animation: swing_sledge
+  Attack_Animation: mace_secondary
   Attack_Random_Animation: 0
   Chain_Attacks: 0
-  Hit_Terrain: true
+  Hit_Terrain: false
   Custom_AttackSpeed: 1
-  m_attackStamina: 44
+  m_attackStamina: 42
   m_eitrCost: 0
   AttackHealthCost: 0
   m_attackHealthPercentage: 0
-  SpeedFactor: 0.2
+  SpeedFactor: 0
   DmgMultiplier: 3
-  ForceMultiplier: 1
+  ForceMultiplier: 4
   StaggerMultiplier: 1
   RecoilMultiplier: 0
-  AttackRange: 3
-  AttackHeight: 1
+  AttackRange: 1.8
+  AttackHeight: 0.7
   Spawn_On_Trigger: 
   Requires_Reload: false
   Reload_Animation: ''
@@ -81,8 +81,8 @@ Secondary_Attack:
   Bow_Duration_Min: 0
   Bow_Stamina_Drain: 0
   Bow_Animation_State: ''
-  Attack_Angle: 30
-  Attack_Ray_Width: 0.5
+  Attack_Angle: 45
+  Attack_Ray_Width: 0.3
   Lower_Dmg_Per_Hit: true
   Hit_Through_Walls: false
   Multi_Hit: true
@@ -93,7 +93,9 @@ Secondary_Attack:
   Projectile_Accuraccy: 10
   Projectiles: 1
   AEffects:
-    Hit_Effects: 
+    Hit_Effects:
+    - vfx_clubhitTW
+    - sfx_club_hitTW
     Hit_Terrain_Effects: 
     Start_Effect: 
     Trigger_Effect: 
@@ -104,22 +106,22 @@ Damage:
   Chop: 0
   Damage: 0
   Fire: 0
-  Frost: 29
-  Lightning: 0
+  Frost: 0
+  Lightning: 10
   Pickaxe: 0
-  Pierce: 0
+  Pierce: 45
   Poison: 0
-  Slash: 141
+  Slash: 45
   Spirit: 0
 Damage_Per_Level:
   Blunt: 0
   Chop: 0
   Damage: 0
   Fire: 0
-  Frost: 2
-  Lightning: 0
+  Frost: 0
+  Lightning: 2
   Pickaxe: 0
-  Pierce: 0
+  Pierce: 5
   Poison: 0
   Slash: 5
   Spirit: 0
@@ -128,15 +130,14 @@ Armor:
   armorPerLevel: 1
 FoodStats: 
 Moddifiers:
-  m_movementModifier: -0.05
+  m_movementModifier: 0
   m_EitrRegen: 0
-SE_Equip:
-  EffectName: SE_Decapitator4_TW
+SE_Equip: 
 SE_SET_Equip: 
 ShieldStats:
-  m_blockPower: 79
+  m_blockPower: 24
   m_blockPowerPerLevel: 3
-  m_timedBlockBonus: 2.5
+  m_timedBlockBonus: 6
   m_deflectionForce: 0
   m_deflectionForcePerLevel: 0
 m_maxStackSize: 1
@@ -148,17 +149,17 @@ spawn_on_hit:
 spawn_on_terrain_hit: 
 m_questItem: false
 m_teleportable: true
-m_backstabbonus: 3
+m_backstabbonus: 6
 m_knockback: 0
 m_useDurability: true
 m_useDurabilityDrain: 1
 m_durabilityDrain: 0
-m_maxDurability: 300
-m_durabilityPerLevel: 100
+m_maxDurability: 200
+m_durabilityPerLevel: 50
 m_equipDuration: 0
-m_skillType: Swords
-m_animationState: TwoHandedClub
-m_itemType: TwoHandedWeapon
+m_skillType: Knives
+m_animationState: Unarmed
+m_itemType: OneHandedWeapon
 m_toolTier: 0
 m_maxQuality: 4
 m_value: 0
@@ -167,7 +168,7 @@ damageModifiers: []
 GEffects:
   Hit_Effects:
   - vfx_HitSparksTW
-  - sfx_sword_hitTW
+  - sfx_spear_hitTW
   - fx_hit_camshakeTW
   Hit_Terrain_Effects: 
   Start_Effect: 
@@ -175,4 +176,4 @@ GEffects:
   Trigger_Effect:
   - fx_swing_camshakeTW
   Trail_Effect:
-  - sfx_claymore_swing_TW
+  - sfx_spear_pokeTW

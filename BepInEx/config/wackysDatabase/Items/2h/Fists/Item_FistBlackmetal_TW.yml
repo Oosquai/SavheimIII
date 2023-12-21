@@ -115,7 +115,7 @@ Damage:
   Pickaxe: 0
   Pierce: 0
   Poison: 0
-  Slash: 80
+  Slash: 90
   Spirit: 0
 Damage_Per_Level:
   Blunt: 0
@@ -127,7 +127,7 @@ Damage_Per_Level:
   Pickaxe: 0
   Pierce: 0
   Poison: 0
-  Slash: 4
+  Slash: 6
   Spirit: 0
 Armor:
   armor: 20
@@ -155,7 +155,7 @@ spawn_on_terrain_hit:
 m_questItem: false
 m_teleportable: true
 m_backstabbonus: 6
-m_knockback: -50
+m_knockback: -30
 m_useDurability: true
 m_useDurabilityDrain: 1
 m_durabilityDrain: 0

@@ -24,7 +24,7 @@ SE_Equip:
   EffectName: SE_Savheim_Poison_Resistance
 SE_SET_Equip: 
 ShieldStats:
-  m_blockPower: 39
+  m_blockPower: 52
   m_blockPowerPerLevel: 6
   m_timedBlockBonus: 0
   m_deflectionForce: 0

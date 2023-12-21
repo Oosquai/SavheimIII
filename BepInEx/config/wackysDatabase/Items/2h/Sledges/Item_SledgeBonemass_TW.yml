@@ -144,8 +144,8 @@ SE_Equip:
   EffectName: SE_Bash_6_TW
 SE_SET_Equip: 
 ShieldStats:
-  m_blockPower: 40
-  m_blockPowerPerLevel: 2
+  m_blockPower: 31
+  m_blockPowerPerLevel: 3
   m_timedBlockBonus: 2
   m_deflectionForce: 0
   m_deflectionForcePerLevel: 0
