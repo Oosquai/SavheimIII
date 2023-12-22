@@ -5,6 +5,8 @@ Beige Backpack:
   appearance:
     Sleepbag: hidden
     BackpackStrapTop: hidden
+    Pot: hidden
+    Teapot: hidden
   crafting:
     station: Workbench
     level: 1
@@ -41,6 +43,8 @@ Brown Backpack:
   appearance:
     Sleepbag: hidden
     BackpackStrapTop: hidden
+    Pot: hidden
+    Teapot: hidden
     BackpackFlap: 666666
     BackpackBody: BD8512
     PouchFront: 666666
@@ -85,6 +89,8 @@ Red Backpack:
   appearance:
     Sleepbag: hidden
     BackpackStrapTop: hidden
+    Pot: hidden
+    Teapot: hidden
     BackpackFlap: 3F3F3F
     BackpackBody: 6F0000
     PouchFront: 3F3F3F
@@ -136,6 +142,8 @@ Blue Backpack:
   appearance:
     Sleepbag: hidden
     BackpackStrapTop: hidden
+    Pot: hidden
+    Teapot: hidden
     BackpackFlap: 002FFF
     BackpackBody: 888888
     PouchFront: 002FFF
@@ -180,6 +188,8 @@ Green Backpack:
   appearance:
     Sleepbag: hidden
     BackpackStrapTop: hidden
+    Pot: hidden
+    Teapot: hidden
     BackpackFlap: 888888
     BackpackBody: 086B08
     PouchFront: 888888
@@ -225,6 +235,8 @@ Teal Backpack:
   appearance:
     Sleepbag: hidden
     BackpackStrapTop: hidden
+    Pot: hidden
+    Teapot: hidden
     BackpackFlap: 00BFFF
     BackpackBody: 666666
     PouchFront: 00BFFF
@@ -270,6 +282,8 @@ Purple Backpack:
   appearance:
     Sleepbag: hidden
     BackpackStrapTop: hidden
+    Pot: hidden
+    Teapot: hidden
     BackpackFlap: C000C0
     BackpackBody: 6000C0
     PouchFront: C000C0
@@ -321,6 +335,8 @@ Gray Backpack:
   appearance:
     Sleepbag: hidden
     BackpackStrapTop: hidden
+    Pot: hidden
+    Teapot: hidden
     BackpackFlap: 555555
     BackpackBody: 3F3F3F
     PouchFront: 555555
@@ -366,6 +382,8 @@ Black Backpack:
   appearance:
     Sleepbag: hidden
     BackpackStrapTop: hidden
+    Pot: hidden
+    Teapot: hidden
     BackpackFlap: 333333
     BackpackBody: 333333
     PouchFront: 333333
@@ -417,6 +435,8 @@ Yellow Backpack:
   appearance:
     Sleepbag: hidden
     BackpackStrapTop: hidden
+    Pot: hidden
+    Teapot: hidden
     BackpackFlap: 333333
     BackpackBody: 333333
     PouchFront: 333333
@@ -468,6 +488,8 @@ Black Forest Smuggler:
   appearance:
     Sleepbag: hidden
     BackpackStrapTop: hidden
+    Pot: hidden
+    Teapot: hidden
     BackpackFlap: 111111
     BackpackBody: 111111
     PouchFront: hidden
@@ -503,6 +525,8 @@ Swamp Smuggler:
   appearance:
     Sleepbag: hidden
     BackpackStrapTop: hidden
+    Pot: hidden
+    Teapot: hidden
     BackpackFlap: 111111
     BackpackBody: 111111
     PouchFront: hidden
@@ -540,6 +564,8 @@ Mountains Smuggler:
   appearance:
     Sleepbag: hidden
     BackpackStrapTop: hidden
+    Pot: hidden
+    Teapot: hidden
     BackpackFlap: 111111
     BackpackBody: 111111
     PouchFront: hidden
@@ -580,6 +606,8 @@ Plains Smuggler:
   appearance:
     Sleepbag: hidden
     BackpackStrapTop: hidden
+    Pot: hidden
+    Teapot: hidden
     BackpackFlap: 111111
     BackpackBody: 111111
     PouchFront: hidden
@@ -621,6 +649,8 @@ Insulated Smuggler:
   appearance:
     Sleepbag: hidden
     BackpackStrapTop: hidden
+    Pot: hidden
+    Teapot: hidden
     BackpackFlap: 00007F
     BackpackBody: 0000FF
     PouchFront: hidden
