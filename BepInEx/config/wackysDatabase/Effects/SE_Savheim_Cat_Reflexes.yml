@@ -1,5 +1,5 @@
-Name: SE_Savheim_Dragon_Leap
-Status_m_name: Dragon Leap
+Name: SE_Savheim_Cat_Reflexes
+Status_m_name: Cat Reflexes
 Category: ''
 IconName: DragonCape_icon_ygg
 CustomIcon: 
@@ -38,8 +38,8 @@ SeData:
   m_eitrRegenMultiplier: 1
   m_raiseSkill: None
   m_raiseSkillModifier: 0
-  m_skillLevel: Jump
-  m_skillLevelModifier: 25
+  m_skillLevel: None
+  m_skillLevelModifier: 0
   m_skillLevel2: None
   m_skillLevelModifier2: 0
   m_mods: []
@@ -49,8 +49,8 @@ SeData:
   m_stealthModifier: 0
   m_addMaxCarryWeight: 0
   m_speedModifier: 0
-  m_maxMaxFallSpeed: 10
-  m_fallDamageModifier: -1
+  m_maxMaxFallSpeed: 15
+  m_fallDamageModifier: -0.5
   m_tickTimer: 0
   m_healthOverTimeTimer: 0
   m_healthOverTimeTicks: 0

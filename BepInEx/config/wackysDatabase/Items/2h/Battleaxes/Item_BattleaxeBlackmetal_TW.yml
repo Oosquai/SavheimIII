@@ -60,7 +60,7 @@ Secondary_Attack:
   Attack_Random_Animation: 0
   Chain_Attacks: 0
   Hit_Terrain: true
-  Custom_AttackSpeed: 0.5
+  Custom_AttackSpeed: 0.6
   m_attackStamina: 32
   m_eitrCost: 0
   AttackHealthCost: 0

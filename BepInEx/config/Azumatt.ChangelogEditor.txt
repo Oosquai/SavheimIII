@@ -1,12 +1,19 @@
 - <color=#FF6F00>MUST CHANGE Controls</color>:  <color=#00FFFF>Toggle Walk</color> & <color=#00FFFF>Sit</color>.  Recommended:  <color=#00FFFF>-</color> & <color=#00FFFF>=</color>
 - Move windows: click & drag (some need Left-Alt). Esc for cursor.
 <color=#FFFF00>__ 0/_______________________________
-     0\  Savheim III Patch Notes, 12/22/23</color>
-- Updated several mods - no end-user changes.
-- Attempted to enable comfort piece list - toggle with F6 while Resting.
+     0\  Savheim III Patch Notes, 12/23/23</color>
+- Boat URL interface now requires holding down right mouse button to access.
+- Wards no longer auto-close doors.
+- Slightly increased speed of Battleaxe special attack for those that have the overhead execute.
+- Added book and earring utility items, especially for mages, but useful to all.  Check workbench and forge.
+- Black Troll Cape now has some fall damage protection.
 
 <color=#FFA8A8>----------------------------------------------------------------------------
 Previous Savheim III Patch Notes</color>
+Patch Notes, 12/22/23
+- Updated several mods - no end-user changes.
+- Enabled comfort piece list - toggle with F6 while Resting.
+
 Patch Notes, 12/20/23
 - Reduced pull on fist and claw weapons.
 - Increased base damage on most knives, fists, and claws.

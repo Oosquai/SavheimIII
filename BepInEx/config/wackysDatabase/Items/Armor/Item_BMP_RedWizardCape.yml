@@ -14,8 +14,8 @@ Secondary_Attack:
 Damage: 
 Damage_Per_Level: 
 Armor:
-  armor: 0.5
-  armorPerLevel: 0.5
+  armor: 0.25
+  armorPerLevel: 0.25
 FoodStats: 
 Moddifiers:
   m_movementModifier: 0

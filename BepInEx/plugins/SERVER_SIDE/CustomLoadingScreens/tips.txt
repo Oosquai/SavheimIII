@@ -19,11 +19,11 @@ Savheim III - Stealth no longer consumes stamina.  Swimming consumes less stamin
 Savheim III - Torches are much more useful now!  They protect from Cold in a small radius, though they fade quickly in Mountains.  They last longer, and they can be upgraded at the workbench for greater duration and damage.
 Savheim III - No more than 3 sockets can be crafted into any piece of gear, and some gear isn't allowed to have any sockets.  You must increase the level of your Gemcutters table to add additional sockets.
 Savheim III - Try to unlock as many recipes as you can...  Bronze Nails?  What do I need those for?  Craft them and see!
-Savheim III - Once you're able to craft them, it's a good idea to keep a Rune Focus and a Soulcatcher Lantern with you on adventures.  Use the Rune Focus on lore stones.  Use the lantern on souls of defeated enemies (these only spawn if you have a lantern).
+Savheim III - Once you can craft them, it's a good idea to keep a Rune Focus and a Soulcatcher Lantern with you on adventures.  Use the Rune Focus on lore stones.  Use the lantern on souls of defeated enemies.
 Savheim III - Wards do stuff now:  infinite fires, structure damage halved, structure repair, structure weatherproofing, auto-close doors, and no food drain.  Improved wards also slowly damage enemies.
 Savheim III - You can modify the color of text on signs.  Open the sign prompt as usual and type < color=white> or < color=#FFFFFF> (remove the space between "< color"), then type your message.  Use multiple tags for rainbow signs!  The color automatically resets if you enter new text.
 Savheim III - Store surtling cores in boat inventories, then press Shift while controlling the boat.  Does not work on custom rafts.  Beware capsizing!
-Savheim III - Mouse over a banner or boat mast to link an image.  Please remember some of us have kids who might be watching us play.
+Savheim III - Mouse over a banner or boat mast to link an image.  Hold right mouse button while looking at boat to access.  Please remember some of us have kids who might be watching us play.
 Savheim III - You've learned to swim while holding things in your hands, and you can dive under the water!  Go swimming!  Wat-er you waiting for??
 Savheim III - Boss powers now have both passive and active aspects, and you get to choose two!  Read about them at the starting stones or in your Valheim Compendium (inventory -> raven icon).  Keybinds are hardcoded to F and G, regardless of in-game settings.
 Savheim III - Death went to therapy and is nicer now.  You'll no longer drop equipment, ammo, or consumables when you die, and most non-combat skills don't lose experience.  Resurrect each other with Surtling Cores.
