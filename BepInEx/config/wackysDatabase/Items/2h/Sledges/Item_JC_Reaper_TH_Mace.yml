@@ -1,7 +1,7 @@
 name: JC_Reaper_TH_Mace
 m_weight: 4
 m_name: $jc_reaper_th_mace
-m_description: "A giant mace made from a mysterious, otherworldly material.  This weapon has a larger explosion on its special attack and deals 10% bonus damage to world bosses."
+m_description: "A giant mace made from a mysterious, otherworldly material that upgrades more strongly than others.  This weapon has a larger explosion on its special attack and deals 10% bonus damage to world bosses."
 clonePrefabName: 
 mockName: 
 customIcon: 
@@ -121,17 +121,17 @@ Damage:
   Slash: 0
   Spirit: 32
 Damage_Per_Level:
-  Blunt: 2
+  Blunt: 4
   Chop: 0
   Damage: 0
-  Fire: 2
-  Frost: 2
-  Lightning: 2
+  Fire: 4
+  Frost: 4
+  Lightning: 4
   Pickaxe: 0
   Pierce: 0
   Poison: 0
   Slash: 0
-  Spirit: 2
+  Spirit: 4
 Armor:
   armor: 20
   armorPerLevel: 1
@@ -143,7 +143,7 @@ SE_Equip:
 SE_SET_Equip: 
 ShieldStats:
   m_blockPower: 63
-  m_blockPowerPerLevel: 3
+  m_blockPowerPerLevel: 4
   m_timedBlockBonus: 2
   m_deflectionForce: 0
   m_deflectionForcePerLevel: 0

@@ -7,6 +7,8 @@
 - Slightly increased speed of Battleaxe special attack for those that have the overhead execute.
 - Added book and earring utility items, especially for mages, but useful to all.  Check workbench and forge.
 - Black Troll Cape now has some fall damage protection.
+- Increased eitr cost on poison wands and staves by 50%.
+- Increased drop rates of gems from non-boss enemies.
 
 <color=#FFA8A8>----------------------------------------------------------------------------
 Previous Savheim III Patch Notes</color>

@@ -1,7 +1,7 @@
 name: JC_Reaper_Spear
 m_weight: 1.5
 m_name: $jc_reaper_spear
-m_description: "A spear made from a mysterious, otherworldly material.  This weapon flies faster and farther than any other spear when thrown, and it deals 10% bonus damage to world bosses.  Spears can be thrown."
+m_description: "A spear made from a mysterious, otherworldly material that upgrades more strongly than others.  This weapon flies faster and farther than any other spear when thrown, and it deals 10% bonus damage to world bosses.  Spears can be thrown."
 clonePrefabName: 
 mockName: 
 customIcon: 
@@ -115,14 +115,14 @@ Damage_Per_Level:
   Blunt: 0
   Chop: 0
   Damage: 0
-  Fire: 2
-  Frost: 2
-  Lightning: 2
+  Fire: 4
+  Frost: 4
+  Lightning: 4
   Pickaxe: 0
-  Pierce: 2
+  Pierce: 4
   Poison: 0
   Slash: 0
-  Spirit: 2
+  Spirit: 4
 Armor:
   armor: 15
   armorPerLevel: 1
@@ -134,7 +134,7 @@ SE_Equip:
 SE_SET_Equip: 
 ShieldStats:
   m_blockPower: 53
-  m_blockPowerPerLevel: 3
+  m_blockPowerPerLevel: 4
   m_timedBlockBonus: 2
   m_deflectionForce: 0
   m_deflectionForcePerLevel: 0
