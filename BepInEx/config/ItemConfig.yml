@@ -39,6 +39,7 @@ groups:
     - HelmetYule
     - HelmetCarapace
     - HelmetMage
+    - HelmetFenring
     - HelmetArcticBear_TW
     - HelmetBlackBear_TW
     - HelmetBold_TW
@@ -100,6 +101,7 @@ groups:
     - ArmorWolfChest
     - ArmorCarapaceChest
     - ArmorMageChest
+    - ArmorFenringChest
     - ArmorBoldCarapaceChest_TW
     - ArmorBoldChest_TW
     - ArmorBoldFlametalChest_TW
@@ -152,6 +154,7 @@ groups:
     - ArmorWolfLegs
     - ArmorCarapaceLegs
     - ArmorMageLegs
+    - ArmorFenringLegs
     - ArmorBoldCarapaceLegs_TW
     - ArmorBoldFlametalLegs_TW
     - ArmorBoldLegs_TW

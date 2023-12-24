@@ -9,6 +9,7 @@
 - Black Troll Cape now has some fall damage protection.
 - Increased eitr cost on poison wands and staves by 50%.
 - Increased drop rates of gems from non-boss enemies.
+- Added Ancient Seeds to Haldor's inventory.
 
 <color=#FFA8A8>----------------------------------------------------------------------------
 Previous Savheim III Patch Notes</color>

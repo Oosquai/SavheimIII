@@ -60,6 +60,12 @@
     "requiredGlobalKey": ""
   },
   {
+    "prefab": "AncientSeed", 
+    "stack": 1,
+    "price": 30,
+    "requiredGlobalKey": "defeated_gdking"
+  },
+  {
     "prefab": "SurtlingCore", 
     "stack": 1,
     "price": 50,
