@@ -282,10 +282,10 @@ charcoal_kiln:
     - Wood
 
 smelter:
-  exclude: [] # This is an example of how to allow everything to be pulled from the bonfire but still have it in the config file.
+  exclude: Ores # This is an example of how to allow everything to be pulled from the bonfire but still have it in the config file.
 
 blastfurnace:
-  exclude: []
+  exclude: Ores
 
 piece_cookingstation:
   exclude: Food

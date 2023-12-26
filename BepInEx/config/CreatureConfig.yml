@@ -43,3 +43,6 @@ Seeker brood:
     amount: 0
   Plains:
     amount: 0
+
+Bonemass:
+  health: 0.7
