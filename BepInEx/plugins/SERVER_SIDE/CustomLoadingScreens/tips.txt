@@ -37,6 +37,6 @@ Savheim III - The world gets more dangerous the further from center you travel. 
 Savheim III - Endgame zones will be entirely new experiences since Savheim II!
 Savheim III - This version of Savheim takes several steps to safeguard performance.
 Savheim III - Thank you to Iron Gate Studio for making Valheim such a beautiful game, to all the creative modders out there for so many massive additions to it, and to the community for beautiful fanart.
-Savheim III - Thank you to some very talented modders:  Azumatt, blaxxun, wackymole, Therzie, KG, Blacks7ar, Rusty, Searica, MSchmoecker, and many more!
+Savheim III - Thank you to some very talented modders:  Azumatt, blaxxun, wackymole, Therzie, KG, Blacks7ar, Rusty, Searica, MSchmoecker, and more!
 Savheim III - Thank you to Matt, Jake, and Woody for playtesting Savheim III and helping resolve lots of issues before launch!  Thanks to Matt for TotinoTunes and Jake for that awesome Savheim III video in Discord!
 Savheim III - I've intentionally left the BepInEx console enabled.  If you ever see RED error text, please copy it into the Discord/Savheim III/bug-reports channel.

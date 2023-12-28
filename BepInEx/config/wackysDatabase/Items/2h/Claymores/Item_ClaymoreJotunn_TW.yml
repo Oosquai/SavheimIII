@@ -1,7 +1,7 @@
 name: ClaymoreJotunn_TW
 m_weight: 4
 m_name: $claymore_jotunn_TW
-m_description: $claymore_jotunn_description_TW  Claymores have improved parry and a quick poke.
+m_description: $claymore_jotunn_description_TW
 clonePrefabName: 
 mockName: 
 customIcon: 
@@ -104,24 +104,24 @@ Damage:
   Chop: 0
   Damage: 0
   Fire: 0
-  Frost: 20
+  Frost: 30
   Lightning: 0
   Pickaxe: 0
   Pierce: 0
   Poison: 0
-  Slash: 150
+  Slash: 140
   Spirit: 0
 Damage_Per_Level:
   Blunt: 0
   Chop: 0
   Damage: 0
   Fire: 0
-  Frost: 3
+  Frost: 4
   Lightning: 0
   Pickaxe: 0
   Pierce: 0
   Poison: 0
-  Slash: 6
+  Slash: 3
   Spirit: 0
 Armor:
   armor: 20
@@ -131,7 +131,7 @@ Moddifiers:
   m_movementModifier: -0.05
   m_EitrRegen: 0
 SE_Equip:
-  EffectName: SE_Executioner_25_TW
+  EffectName: SE_Impale_TW
 SE_SET_Equip: 
 ShieldStats:
   m_blockPower: 79

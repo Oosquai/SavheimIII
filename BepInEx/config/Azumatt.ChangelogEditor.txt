@@ -2,7 +2,13 @@
 - Move windows: click & drag (some need Left-Alt). Esc for cursor.
 <color=#FFFF00>__ 0/_______________________________
      0\  Savheim III Patch Notes, 12/28/23</color>
-- 
+- Modified networking mods to see if that stops disconnects, possibly at the expense of multiplayer performance.  Let me know!
+- Re-enabled ability to wield equipment while swimming, hopefully without severe Swamp lag.  Let me know!
+- Improved Woody's and Matt's aim when trying to hit Crawlers with ranged attacks (aka updated Crawler hitboxes).
+- Increased base armor of Stag Leather Armor set.
+- Reduced base armor of Troll Leather Armor set.
+- Reduced crafting cost of Cultist Cape from 6 Ulv Trophies to 1.
+- Reduced crafting costs of {Comfort} In A Bottle recipes. (hint: craft some Queen's Jam)
 
 <color=#FFA8A8>----------------------------------------------------------------------------
 Previous Savheim III Patch Notes</color>
