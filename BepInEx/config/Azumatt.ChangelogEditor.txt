@@ -1,7 +1,12 @@
 - <color=#FF6F00>MUST CHANGE Controls</color>:  <color=#00FFFF>Toggle Walk</color> & <color=#00FFFF>Sit</color>.  Recommended:  <color=#00FFFF>-</color> & <color=#00FFFF>=</color>
 - Move windows: click & drag (some need Left-Alt). Esc for cursor.
 <color=#FFFF00>__ 0/_______________________________
-     0\  Savheim III Patch Notes, 12/26/23</color>
+     0\  Savheim III Patch Notes, 12/28/23</color>
+- 
+
+<color=#FFA8A8>----------------------------------------------------------------------------
+Previous Savheim III Patch Notes</color>
+Patch Notes, 12/26/23
 - Modified several utility mods to try and improve network performance, both for disconnects and group lag.  Let me know!
 - Smelters and Blast Furnaces no longer auto-pull ore from chests, so you can control what goes in and in what order.
 - Wards are back to basic functionality.  This will hopefully fix backpack/quiver teleport issues, and maybe the kiln clogging up.
@@ -10,11 +15,7 @@
 - Advance Magic Book (I miss the D too...  any time Jake isn't ...  nevermind) now uses Serpent Scales instead of Ancient Seeds.
 - Reduced Bonemass' health by 30%.
 - Increased damage on 1h axe non-dual-wielding special attack.
-- Slightly increased gem drop rates.
-
-<color=#FFA8A8>----------------------------------------------------------------------------
-Previous Savheim III Patch Notes</color>
-Patch Notes, 12/24/23
+- Slightly increased gem drop rates.Patch Notes, 12/24/23
 - Temporarily removed the ability to wield equipment while swimming.  Please take note of any perceived performance differences and let Sav know.
 
 Patch Notes, 12/23/23
