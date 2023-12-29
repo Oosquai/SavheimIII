@@ -3,6 +3,7 @@
 <color=#FFFF00>__ 0/_______________________________
      0\  Savheim III Patch Notes, 12/29/23</color>
 - Soul Catcher Lantern is now significantly cheaper to craft.
+- Soul Catcher gem crafting costs reduced significantly.
 - Experimenting with networking mods to try and resolve disconnects.  Thanks for patience!
 
 <color=#FFA8A8>----------------------------------------------------------------------------

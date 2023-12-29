@@ -9,5 +9,6 @@ disabled: false
 requireOnlyOneIngredient: false
 reqs:
 - GreydwarfEye:12:0:False
-- SurtlingCore:2:0:False
-- Bronze:10:0:False
+- SurtlingCore:4:0:False
+- Guck:4:0:False
+- Iron:10:0:False
