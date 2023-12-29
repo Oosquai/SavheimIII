@@ -312,6 +312,8 @@ groups:
     - BMP_LightningStaff
     - BMP_PoisonStaff
     - BMP_SurtlingStaff
+    - BMP_FlameStaff
+    - BMP_ThunderStaff
     - BMP_NeckTotem
     - AtgeirFlint_TW
     - AtgeirSilver_TW

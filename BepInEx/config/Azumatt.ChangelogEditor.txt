@@ -2,9 +2,11 @@
 - Move windows: click & drag (some need Left-Alt). Esc for cursor.
 <color=#FFFF00>__ 0/_______________________________
      0\  Savheim III Patch Notes, 12/29/23</color>
+- We've migrated to a new server host!  If all goes well this should be totally transparent to everyone, except hopefully a lack of disconnects!
+- Cleaned up git repo for config files with moveable GUI frames; removed file manipulations from batch scripts.
 - Soul Catcher Lantern is now significantly cheaper to craft.
-- Soul Catcher gem crafting costs reduced significantly.
-- Experimenting with networking mods to try and resolve disconnects.  Thanks for patience!
+- Soul Catcher gems are now significantly cheaper to craft.
+- Flame Staff will now stay with your character when you die.
 
 <color=#FFA8A8>----------------------------------------------------------------------------
 Previous Savheim III Patch Notes</color>
