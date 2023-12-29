@@ -519,7 +519,7 @@ Black Forest Smuggler:
   teleport: true
 
 Swamp Smuggler:
-  description: "This mystical container allows teleportation of Bronze, Copper, Tin, Gold, and Iron bars.  This container and all contents will stay with your tombstone on death."
+  description: "This mystical container allows teleportation of Bronze, Copper, Tin, and Iron bars.  This container and all contents will stay with your tombstone on death."
   size: 2x2
   unique: global
   appearance:
@@ -553,12 +553,11 @@ Swamp Smuggler:
     - Bronze
     - Copper
     - Tin
-    - Gold_Bar_Ygg
     - Iron
   teleport: true
 
 Mountains Smuggler:
-  description: "This mystical container allows teleportation of Bronze, Copper, Tin, Gold, Iron, Electrum, and Silver bars, as well as Dragon Eggs.  This container and all contents will stay with your tombstone on death."
+  description: "This mystical container allows teleportation of Bronze, Copper, Tin, Iron, and Silver bars, as well as Dragon Eggs.  This container and all contents will stay with your tombstone on death."
   size: 2x2
   unique: global
   appearance:
@@ -592,15 +591,13 @@ Mountains Smuggler:
     - Bronze
     - Copper
     - Tin
-    - Gold_Bar_Ygg
     - Iron
-    - Electrum_Bar_Ygg
     - Silver
     - DragonEgg
   teleport: true
 
 Plains Smuggler:
-  description: "This mystical container allows teleportation of Bronze, Copper, Tin, Gold, Iron, Electrum, Silver, and Black metal bars, as well as Dragon Eggs.  This container and all contents will stay with your tombstone on death."
+  description: "This mystical container allows teleportation of Bronze, Copper, Tin, Iron, Silver, and Black metal bars, as well as Dragon Eggs.  This container and all contents will stay with your tombstone on death."
   size: 2x2
   unique: global
   appearance:
@@ -634,16 +631,14 @@ Plains Smuggler:
     - Bronze
     - Copper
     - Tin
-    - Gold_Bar_Ygg
     - Iron
-    - Electrum_Bar_Ygg
     - Silver
     - DragonEgg
     - BlackMetal
   teleport: true
 
 Insulated Smuggler:
-  description: "This mystical container allows teleportation of Bronze, Copper, Tin, Gold, Iron, Electrum, Silver, Black metal, Flametal, and Tyranium bars, as well as Dragon Eggs and Dvergr extractors.  This container and all contents will stay with your tombstone on death."
+  description: "This mystical container allows teleportation of Bronze, Copper, Tin, Iron, Silver, Black metal, Flametal, and Tyranium bars, as well as Dragon Eggs and Dvergr extractors.  This container and all contents will stay with your tombstone on death."
   size: 2x2
   unique: global
   appearance:
@@ -677,9 +672,7 @@ Insulated Smuggler:
     - Bronze
     - Copper
     - Tin
-    - Gold_Bar_Ygg
     - Iron
-    - Electrum_Bar_Ygg
     - Silver
     - DragonEgg
     - BlackMetal
