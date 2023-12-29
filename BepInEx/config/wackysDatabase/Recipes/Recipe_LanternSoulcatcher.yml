@@ -1,0 +1,13 @@
+name: LanternSoulcatcher
+clonePrefabName: 
+craftingStation: $jc_transmution_table
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: $jc_transmution_table
+amount: 1
+disabled: false
+requireOnlyOneIngredient: false
+reqs:
+- GreydwarfEye:12:0:False
+- SurtlingCore:2:0:False
+- Bronze:10:0:False
