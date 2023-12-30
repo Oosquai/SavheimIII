@@ -1,15 +1,21 @@
 - <color=#FF6F00>MUST CHANGE Controls</color>:  <color=#00FFFF>Toggle Walk</color> & <color=#00FFFF>Sit</color>.  Recommended:  <color=#00FFFF>-</color> & <color=#00FFFF>=</color>
 - Move windows: click & drag (some need Left-Alt). Esc for cursor.
 <color=#FFFF00>__ 0/_______________________________
-     0\  Savheim III Patch Notes, 12/29/23</color>
+     0\  Savheim III Patch Notes, 12/30/23</color>
+- Removed SpawnThat and SpeedyPaths at least temporarily to see if it resolves disconnects.
+- This means ore won't respawn and paths no longer let you run faster.
+- I'll work on finding a way to at least respawn ore eventually.  First, let's fix these disconnects!
+- Thanks for patience, everyone!
+
+<color=#FFA8A8>----------------------------------------------------------------------------
+Previous Savheim III Patch Notes</color>
+Patch Notes, 12/29/23
 - We've migrated to a new server host!  If all goes well this should be totally transparent to everyone, except hopefully a lack of disconnects!
 - Cleaned up git repo for config files with moveable GUI frames; removed file manipulations from batch scripts.
 - Soul Catcher Lantern is now significantly cheaper to craft.
 - Soul Catcher gems are now significantly cheaper to craft.
 - Flame Staff will now stay with your character when you die.
 
-<color=#FFA8A8>----------------------------------------------------------------------------
-Previous Savheim III Patch Notes</color>
 Patch Notes, 12/28/23
 - Modified networking mods to see if that stops disconnects, possibly at the expense of multiplayer performance.  Let me know!
 - Re-enabled ability to wield equipment while swimming, hopefully without severe Swamp lag.  Let me know!
@@ -116,5 +122,5 @@ Patch Notes, 12/8/23
 Patch Notes, 10/12/23
 - Savheim III started development.
 
-<color=#888888>----------------------------------------------------------------------------
+<color=#8888FF>----------------------------------------------------------------------------
 Iron Gate Studio Valheim Changelog</color>
