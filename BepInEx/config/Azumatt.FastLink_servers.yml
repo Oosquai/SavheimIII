@@ -2,12 +2,12 @@
 # Servers are automatically sorted alphabetically when shown in the list.
 # This file live updates the in-game listing. Feel free to change it while in the main menu.
 
-<color=yellow>1. Savheim III Server</color>:
+<color=green>Savheim III Server</color>:
   address: 172.240.238.76
   port: 27770
   password: jheimIII_ib
 
-<color=red>2. *OLD* Savheim III Server *OLD*</color>:
+<color=red>*OLD* Savheim III Server *OLD*</color>:
   address: 51.81.166.199
   port: 5665
   password: jheimIII

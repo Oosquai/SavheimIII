@@ -47,6 +47,14 @@ Primary_Attack:
   Projectile_Vel: 40
   Projectile_Accuraccy: 0
   Projectiles: 1
+  Skill_Accuracy: 
+  Launch_Angle: 
+  Projectile_Burst: 
+  Burst_Interval: 
+  Destory_Previous_Projectile: 
+  PerBurst_Resourse_usage: 
+  Looping_Attack: 
+  Consume_Item: 
   AEffects:
     Hit_Effects: 
     Hit_Terrain_Effects: 
@@ -54,6 +62,7 @@ Primary_Attack:
     Trigger_Effect: 
     Trail_Effect: 
     Burst_Effect: 
+  AEffectsPLUS: 
 Secondary_Attack:
   AttackType: Projectile
   Attack_Animation: staff_shield
@@ -92,6 +101,14 @@ Secondary_Attack:
   Projectile_Vel: 0
   Projectile_Accuraccy: 1
   Projectiles: 1
+  Skill_Accuracy: 
+  Launch_Angle: 
+  Projectile_Burst: 
+  Burst_Interval: 
+  Destory_Previous_Projectile: 
+  PerBurst_Resourse_usage: 
+  Looping_Attack: 
+  Consume_Item: 
   AEffects:
     Hit_Effects: 
     Hit_Terrain_Effects: 
@@ -100,6 +117,7 @@ Secondary_Attack:
     Trigger_Effect: 
     Trail_Effect: 
     Burst_Effect: 
+  AEffectsPLUS: 
 Damage:
   Blunt: 24
   Chop: 0
@@ -173,3 +191,4 @@ GEffects:
   - BMP_Sfx_SurtlingStaff_Bomb_Throw
   Trail_Effect:
   - BMP_Sfx_SurtlingStaff_Bomb_Throw
+GEffectsPLUS: 

@@ -83,4 +83,40 @@
     "price": 75,
     "requiredGlobalKey": "defeated_dragon"
   },
+  {
+    "prefab": "TrophyDeer", 
+    "stack": 1,
+    "price": 25,
+    "requiredGlobalKey": "defeated_eikthyr"
+  },
+  {
+    "prefab": "TrophyNeck", 
+    "stack": 1,
+    "price": 35,
+    "requiredGlobalKey": "defeated_eikthyr"
+  },
+  {
+    "prefab": "TrophyGreydwarfShaman", 
+    "stack": 1,
+    "price": 45,
+    "requiredGlobalKey": "defeated_gdking"
+  },
+  {
+    "prefab": "TrophyWraith", 
+    "stack": 1,
+    "price": 55,
+    "requiredGlobalKey": "defeated_bonemass"
+  },
+  {
+    "prefab": "DragonEgg", 
+    "stack": 1,
+    "price": 125,
+    "requiredGlobalKey": "defeated_dragon"
+  },
+  {
+    "prefab": "GoblinTotem", 
+    "stack": 1,
+    "price": 95,
+    "requiredGlobalKey": "defeated_goblinking"
+  },
 ]
