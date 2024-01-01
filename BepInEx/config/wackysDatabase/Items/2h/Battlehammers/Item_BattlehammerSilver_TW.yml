@@ -61,14 +61,14 @@ Secondary_Attack:
   Chain_Attacks: 0
   Hit_Terrain: true
   Custom_AttackSpeed: 1
-  m_attackStamina: 30
+  m_attackStamina: 36
   m_eitrCost: 0
   AttackHealthCost: 0
   m_attackHealthPercentage: 0
   SpeedFactor: 0.3
   DmgMultiplier: 3
   ForceMultiplier: 1
-  StaggerMultiplier: 2
+  StaggerMultiplier: 2.5
   RecoilMultiplier: 0
   AttackRange: 2.5
   AttackHeight: 1
