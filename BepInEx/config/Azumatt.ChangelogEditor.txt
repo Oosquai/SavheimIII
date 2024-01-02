@@ -1,7 +1,13 @@
 - <color=#FF6F00>MUST CHANGE Controls</color>:  <color=#00FFFF>Toggle Walk</color> & <color=#00FFFF>Sit</color>.  Recommended:  <color=#00FFFF>-</color> & <color=#00FFFF>=</color>
 - Move windows: click & drag (some need Left-Alt). Esc for cursor.
 <color=#FFFF00>__ 0/_______________________________
-     0\  Savheim III Patch Notes, 1/1/24</color>
+     0\  Savheim III Patch Notes, 1/1/24, #2</color>
+- Removed AzuAntiCheat mod.
+- Reduced Eitr and Black Core costs of some Mistlands recipes.
+
+<color=#FFA8A8>----------------------------------------------------------------------------
+Previous Savheim III Patch Notes</color>
+Patch Notes, 1/1/24
 - Updated out of date mods: AzuCraftyBoxes, GlassPieces, HarpoonExtended, Jewelcrafting, OdinsKingdom, Seasonality, WackysDatabase.
 - Temporarily removed mods to try to resolve disconnects:  AxeComboWhenChoppingTree, InstantMonsterDrop, NoDropsFromMonsterKill, TorchesAreFires, VikingsDoSwim, WieldEquipmentWhileSwimming
 - Added Network mod back in to see if it's related to disconnects.
@@ -13,8 +19,6 @@
 - Added a new craftable ring:  Ring of Onyx Legacy.  It's intended to help find Haldor, Hildir, and Hildir's quests.  Only really useful in no-map playthroughs, which isn't us.  Put it in a box?
 - Sliding Glass Doors no longer automatically open and close.  We can re-enable this later.
 
-<color=#FFA8A8>----------------------------------------------------------------------------
-Previous Savheim III Patch Notes</color>
 Patch Notes, 12/31/23
 - Removed unsupported mod:  LetMePlay.  (hid annoying yellow build cursor, disabled some snow and ash weather particles for performance, but 1+ year unsupported)
 - Reverted server log settings to defaults.
