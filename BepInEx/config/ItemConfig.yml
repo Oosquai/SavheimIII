@@ -725,6 +725,12 @@ groups:
     - SerpentScale
     - ArcticSerpentScale_TW
 
+  IncreaseStackSize:
+    - stackable
+    - SurtlingCore
+    - Coins
+    - Ammo
+
 NoLossOnDeath:
   loss: no
 
@@ -734,5 +740,5 @@ DontSink:
 AllWood:
   weight factor: 0.5
 
-stackable:
+IncreaseStackSize:
   stack factor: 4
