@@ -3,12 +3,12 @@
 <color=#FFFF00>__ 0/_______________________________
      0\  Savheim III Patch Notes, 1/3/24</color>
 - For reals lowered cost of boss soul gem crafting.
-- Tried again to double drop chances for unique boss weapons.
 - Added Seeker Brute trophies to vendor stock.
 - Re-enabled auto open/close on Sliding Glass Doors.
 - Modified method for increasing all stack sizes.  Result should be the same, but hopefully with less glitching.  Let me know!
 - Arctic serpent scales now float.
 - Significantly reduced stamina cost of all fist special attacks.
+- Significantly increased range of demister.
 - Re-enabled mods:  AzuAntiCheat, AxeComboWhenChoppingTree, InstantMonsterDrop, NoDropsFromMonsterKill, TorchesAreFires, VikingsDoSwim, WieldEquipmentWhileSwimming.
 - Removed mod:  TimedItemDestruction.  Default game behavior is fine as is.
 
