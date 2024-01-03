@@ -119,4 +119,10 @@
     "price": 95,
     "requiredGlobalKey": "defeated_goblinking"
   },
+  {
+    "prefab": "TrophySeekerBrute", 
+    "stack": 1,
+    "price": 205,
+    "requiredGlobalKey": "defeated_queen"
+  },
 ]

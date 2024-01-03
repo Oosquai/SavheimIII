@@ -723,6 +723,7 @@ groups:
 
   DontSink:
     - SerpentScale
+    - ArcticSerpentScale_TW
 
 NoLossOnDeath:
   loss: no
@@ -732,3 +733,6 @@ DontSink:
 
 AllWood:
   weight factor: 0.5
+
+stackable:
+  stack factor: 4
