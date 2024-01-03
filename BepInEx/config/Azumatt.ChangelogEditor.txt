@@ -9,9 +9,8 @@
 - Modified method for increasing all stack sizes.  Result should be the same, but hopefully with less glitching.  Let me know!
 - Arctic serpent scales now float.
 - Significantly reduced stamina cost of all fist special attacks.
-- Re-enabled mods:  AzuAntiCheat, AxeComboWhenChoppingTree, InstantMonsterDrop, NoDropsFromMonsterKill, TorchesAreFires.
+- Re-enabled mods:  AzuAntiCheat, AxeComboWhenChoppingTree, InstantMonsterDrop, NoDropsFromMonsterKill, TorchesAreFires, VikingsDoSwim, WieldEquipmentWhileSwimming.
 - Removed mod:  TimedItemDestruction.  Default game behavior is fine as is.
-- (Still temporarily disabled for further swim bug testing:  VikingsDoSwim, WieldEquipmentWhileSwimming)
 
 <color=#FFA8A8>----------------------------------------------------------------------------
 Previous Savheim III Patch Notes</color>
