@@ -86,6 +86,12 @@
   {
     "prefab": "TrophyGjall",
     "stack": 1,
+    "price": 24,
+    "requiredGlobalKey": ""
+  },
+  {
+    "prefab": "Bilebag",
+    "stack": 1,
     "price": 16,
     "requiredGlobalKey": ""
   },

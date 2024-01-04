@@ -46,3 +46,19 @@ Seeker brood:
 
 Bonemass:
   health: 0.7
+
+Gjall:
+  stars:
+    0: [10, 2]
+    1: [15, 5]
+    2: [20, 10]
+    3: [30, 20]
+    4: [25, 35]
+    5: [25, 35]
+  effect:
+    Armored: 0
+    Aggressive: 0
+    Quick: 0
+    Regenerating: 0
+    Curious: 0
+    Splitting: 0

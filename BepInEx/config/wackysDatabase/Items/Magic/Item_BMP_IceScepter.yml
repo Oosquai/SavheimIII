@@ -17,7 +17,7 @@ Primary_Attack:
   Hit_Terrain: true
   Custom_AttackSpeed: 1
   m_attackStamina: 0
-  m_eitrCost: 30
+  m_eitrCost: 24
   AttackHealthCost: 0
   m_attackHealthPercentage: 0
   SpeedFactor: 0.3
@@ -62,7 +62,7 @@ Secondary_Attack:
   Hit_Terrain: true
   Custom_AttackSpeed: 1
   m_attackStamina: 0
-  m_eitrCost: 75
+  m_eitrCost: 55
   AttackHealthCost: 0
   m_attackHealthPercentage: 0
   SpeedFactor: 0
@@ -101,7 +101,7 @@ Secondary_Attack:
     Trail_Effect: 
     Burst_Effect: 
 Damage:
-  Blunt: 20
+  Blunt: 7
   Chop: 0
   Damage: 0
   Fire: 0
