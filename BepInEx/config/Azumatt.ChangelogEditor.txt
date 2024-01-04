@@ -10,7 +10,6 @@
 - Gjall can no longer spawn with greater than 2 stars.
 - Gjall can no longer spawn with effects (they can still be infused).
 - Gjall trophies are worth 50% more coins.
-- Bilebags can now be sold to vendors.
 - Neck Totem is now cheaper to craft and upgrade.
 - Neck Totem summons now have significantly more health.
 

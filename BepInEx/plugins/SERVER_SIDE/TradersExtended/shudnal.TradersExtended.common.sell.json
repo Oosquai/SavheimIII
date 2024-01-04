@@ -90,12 +90,6 @@
     "requiredGlobalKey": ""
   },
   {
-    "prefab": "Bilebag",
-    "stack": 1,
-    "price": 16,
-    "requiredGlobalKey": ""
-  },
-  {
     "prefab": "TrophyGoblin",
     "stack": 1,
     "price": 10,
