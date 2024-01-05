@@ -560,7 +560,7 @@ groups:
     - Hoe
     - RuneFocus
 
-  Ammo:
+  ArrowsAndBolts:
     - ArrowBronze
     - ArrowFire
     - ArrowFlint
@@ -705,7 +705,7 @@ groups:
     - ScorchedWood_TW
 
   AllEquipment:
-    - Ammo
+    - ArrowsAndBolts
     - Bow
     - Chest
     - Helmet
@@ -726,10 +726,10 @@ groups:
     - ArcticSerpentScale_TW
 
   IncreaseStackSize:
-    - stackable
+    - ArrowsAndBolts
     - SurtlingCore
     - Coins
-    - Ammo
+    - stackable
 
 NoLossOnDeath:
   loss: no
@@ -740,5 +740,5 @@ DontSink:
 AllWood:
   weight factor: 0.5
 
-IncreaseStackSize:
-  stack factor: 4
+#IncreaseStackSize:
+#  stack factor: 4
