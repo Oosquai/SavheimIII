@@ -17,13 +17,13 @@ Primary_Attack:
   Hit_Terrain: true
   Custom_AttackSpeed: 1
   m_attackStamina: 0
-  m_eitrCost: 95
+  m_eitrCost: 69
   AttackHealthCost: 0
   m_attackHealthPercentage: 0
   SpeedFactor: 0.3
   DmgMultiplier: 1
   ForceMultiplier: 1
-  StaggerMultiplier: 1
+  StaggerMultiplier: 1.5
   RecoilMultiplier: 0
   AttackRange: 2
   AttackHeight: 1.2
@@ -107,7 +107,7 @@ Damage:
   Frost: 0
   Lightning: 200
   Pickaxe: 0
-  Pierce: 50
+  Pierce: 200
   Poison: 0
   Slash: 0
   Spirit: 0
@@ -117,9 +117,9 @@ Damage_Per_Level:
   Damage: 0
   Fire: 0
   Frost: 0
-  Lightning: 8
+  Lightning: 4
   Pickaxe: 0
-  Pierce: 2
+  Pierce: 4
   Poison: 0
   Slash: 0
   Spirit: 0

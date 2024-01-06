@@ -17,7 +17,7 @@ Primary_Attack:
   Hit_Terrain: true
   Custom_AttackSpeed: 1
   m_attackStamina: 0
-  m_eitrCost: 28
+  m_eitrCost: 23
   AttackHealthCost: 0
   m_attackHealthPercentage: 0
   SpeedFactor: 0.3
@@ -112,7 +112,7 @@ Damage:
   Slash: 0
   Spirit: 0
 Damage_Per_Level:
-  Blunt: 0
+  Blunt: 1
   Chop: 0
   Damage: 0
   Fire: 6

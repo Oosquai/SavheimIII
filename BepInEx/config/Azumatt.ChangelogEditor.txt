@@ -1,11 +1,13 @@
 - <color=#FF6F00>MUST CHANGE Controls</color>:  <color=#00FFFF>Toggle Walk</color> & <color=#00FFFF>Sit</color>.  Recommended:  <color=#00FFFF>-</color> & <color=#00FFFF>=</color>
 - Move windows: click & drag (some need Left-Alt). Esc for cursor.
 <color=#FFFF00>__ 0/_______________________________
-     0\  Savheim III Patch Notes, 1/4/24, #2</color>
+     0\  Savheim III Patch Notes, 1/5/24</color>
 - Reverted stack size calculations.  Ammo, coins, and surtling cores should be 4x again.  Let me know if I can replace any that were lost.
 - Added Staff of Odin to the game.  Check your Galdr table.  Read the tooltips.  Hint: Fall damage is calculated from distance, not speed.  Have fun.
 - Reduced eitr cost of ancient scepters.
 - Removed AzuAntiCheat mod - performance?
+- Magic balance pass for several late-game magic weapons.  Some buffs, some nerfs, mostly to weapons no one's found yet.
+- Added mining node respawns back into the game.  Let me know if you notice additional performance issues please.
 
 <color=#FFA8A8>----------------------------------------------------------------------------
 Previous Savheim III Patch Notes</color>
