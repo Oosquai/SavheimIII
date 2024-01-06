@@ -7,11 +7,6 @@
   port: 27770
   password: jheimIII_ib
 
-<color=red>*OLD* Savheim III Server *OLD*</color>:
-  address: 51.81.166.199
-  port: 5665
-  password: jheimIII
-
 #Example Server:
 #  address: example.com
 #  port: 1234
