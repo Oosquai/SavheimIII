@@ -148,6 +148,7 @@ FoodStats:
 Moddifiers:
   m_movementModifier: -0.05
   m_EitrRegen: 0
+  m_BaseItemStaminaModifier: 
 SE_Equip: 
 SE_SET_Equip: 
 ShieldStats:

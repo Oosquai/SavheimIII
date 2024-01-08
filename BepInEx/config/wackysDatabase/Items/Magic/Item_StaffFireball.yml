@@ -17,7 +17,7 @@ Primary_Attack:
   Hit_Terrain: true
   Custom_AttackSpeed: 1
   m_attackStamina: 0
-  m_eitrCost: 30
+  m_eitrCost: 26
   AttackHealthCost: 0
   m_attackHealthPercentage: 0
   SpeedFactor: 0.3
@@ -62,7 +62,7 @@ Secondary_Attack:
   Hit_Terrain: true
   Custom_AttackSpeed: 0.9
   m_attackStamina: 0
-  m_eitrCost: 70
+  m_eitrCost: 60
   AttackHealthCost: 0
   m_attackHealthPercentage: 0
   SpeedFactor: 0.2

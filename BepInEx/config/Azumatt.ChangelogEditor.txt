@@ -1,7 +1,20 @@
 - <color=#FF6F00>MUST CHANGE Controls</color>:  <color=#00FFFF>Toggle Walk</color> & <color=#00FFFF>Sit</color>.  Recommended:  <color=#00FFFF>-</color> & <color=#00FFFF>=</color>
 - Move windows: click & drag (some need Left-Alt). Esc for cursor.
 <color=#FFFF00>__ 0/_______________________________
-     0\  Savheim III Patch Notes, 1/6/24</color>
+     0\  Savheim III Patch Notes, 1/7/24</color>
+- Updated WackysDatabase mod.
+- Added DropThat! mod.
+- Increased drop chances for unique weapons from all bosses and mini-bosses.
+- Added chances for crystal fusion box drops from all bosses and mini-bosses.  Harder bosses drop better boxes, and bosses are more likely to drop them than mini-bosses.
+- Increased drop chances for loot from all Ashlands and Deep North mobs.
+- Increased gem drop chances in Ashlands and Deep North.
+- Normalized block stats on Soul Catcher Lantern.  Thanks, Woody!
+- Reduced eitr cost of Staff of Embers on both normal and special attacks.
+- Reduced Surtling spawn rate in Ashlands.
+
+<color=#FFA8A8>----------------------------------------------------------------------------
+Previous Savheim III Patch Notes</color>
+Patch Notes, 1/6/24
 - Modified crafting recipe for Ymir forge and the first two upgrades so they can be built from Ashlands drops only.  Go to Ashlands before Deep North!
 - Removed old server IP from title screen.
 - Significantly increased drop rates on gem fusion boxes for all tiers of boxes.
@@ -10,8 +23,6 @@
 - Giant skulls, ribs, swords, and armor in the Mistlands should now respawn slowly.
 (Improved drop rates for enemies in Ashlands and Deep North coming soon!)
 
-<color=#FFA8A8>----------------------------------------------------------------------------
-Previous Savheim III Patch Notes</color>
 Patch Notes, 1/5/24
 - Reverted stack size calculations.  Ammo, coins, and surtling cores should be 4x again.  Let me know if I can replace any that were lost.
 - Added Staff of Odin to the game.  Check your Galdr table.  Read the tooltips.  Hint: Fall damage is calculated from distance, not speed.  Have fun.
@@ -133,6 +144,8 @@ Patch Notes, 12/19/23
 - Bronze knuckles special attack now has less pull but more stagger.
 - Iron knuckles special attack now has less pull but more stagger.
 - Dwarven fists special attack now has less pull but more stagger.
+
+<color=yellow>SAVHEIM III GOES LIVE!  12/18/23</color>
 
 Patch Notes, 12/17/23
 - Adjusted knockback and attack speed on warpikes, atgeirs, lances, and sledges.
