@@ -1,0 +1,13 @@
+name: MistTorchArrow
+clonePrefabName: 
+craftingStation: $piece_fletchertable_TW
+minStationLevel: 2
+maxStationLevelCap: 
+repairStation: 
+amount: 20
+disabled: false
+requireOnlyOneIngredient: false
+reqs:
+- Wood:8:0:True
+- Eitr:2:0:True
+- DeerHide:2:0:True

@@ -1,0 +1,684 @@
+Beige Backpack:
+  description: "Carry stuff in whichever colorful style suits your viking taste, or just keep it in your inventory if you're that uncultured.  This container and all contents will stay with your tombstone on death."
+  size: 4x2
+  unique: global
+  appearance:
+    Sleepbag: hidden
+    BackpackStrapTop: hidden
+    Pot: hidden
+    Teapot: hidden
+  crafting:
+    station: Workbench
+    level: 1
+    costs:
+      BronzeNails: 5
+      DeerHide: 10
+      LeatherScraps: 10
+  upgrade:
+    1:
+      Iron: 5
+      ElderBark: 10
+      Guck: 2
+      size: 4x3
+    2:
+      Silver: 5
+      WolfPelt: 3
+      JuteRed: 2
+      size: 4x4
+    3:
+      BlackMetal: 5
+      LinenThread: 10
+      LoxPelt: 2
+      size: 5x4
+    4:
+      Carapace: 5
+      ScaleHide: 5
+      JuteBlue: 2
+      size: 6x4
+
+Brown Backpack:
+  description: "Carry stuff in whichever colorful style suits your viking taste, or just keep it in your inventory if you're that uncultured.  This container and all contents will stay with your tombstone on death."
+  size: 4x2
+  unique: global
+  appearance:
+    Sleepbag: hidden
+    BackpackStrapTop: hidden
+    Pot: hidden
+    Teapot: hidden
+    BackpackFlap: 666666
+    BackpackBody: BD8512
+    PouchFront: 666666
+    PouchLeft: 666666
+    BackpackStrapBottom: 666666
+    ToolstrapTop: 666666
+    ToolstrapBottom: 666666
+    RingBottomLeft: 666666
+  crafting:
+    station: Workbench
+    level: 1
+    costs:
+      BronzeNails: 5
+      DeerHide: 10
+      FoxPelt_TW: 10
+  upgrade:
+    1:
+      Iron: 5
+      ElderBark: 10
+      Guck: 2
+      size: 4x3
+    2:
+      Silver: 5
+      WolfPelt: 3
+      JuteRed: 2
+      size: 4x4
+    3:
+      BlackMetal: 5
+      LinenThread: 10
+      LoxPelt: 2
+      size: 5x4
+    4:
+      Carapace: 5
+      ScaleHide: 5
+      JuteBlue: 2
+      size: 6x4
+
+Red Backpack:
+  description: "Carry stuff in whichever colorful style suits your viking taste, or just keep it in your inventory if you're that uncultured.  This container and all contents will stay with your tombstone on death."
+  size: 4x2
+  unique: global
+  appearance:
+    Sleepbag: hidden
+    BackpackStrapTop: hidden
+    Pot: hidden
+    Teapot: hidden
+    BackpackFlap: 3F3F3F
+    BackpackBody: 6F0000
+    PouchFront: 3F3F3F
+    PouchLeft: 3F3F3F
+    BackpackStrapBottom: 3F3F3F
+    ToolstrapTop: 3F3F3F
+    ToolstrapBottom: 3F3F3F
+    RingBottomLeft: 3F3F3F
+    MetalclipLeft: 666666
+    MetalclipFrontRight: 666666
+    MetalclipFrontLeft: 666666
+    Knife: 888888
+    Knifesheath: 666666
+    Pickaxe: 888888
+  crafting:
+    station: Workbench
+    level: 1
+    costs:
+      BronzeNails: 5
+      RazorbackLeather_TW: 10
+      LeatherScraps: 10
+      Raspberry: 10
+  upgrade:
+    1:
+      Iron: 5
+      ElderBark: 10
+      Guck: 2
+      size: 4x3
+    2:
+      Silver: 5
+      WolfPelt: 3
+      JuteRed: 2
+      size: 4x4
+    3:
+      BlackMetal: 5
+      LinenThread: 10
+      LoxPelt: 2
+      size: 5x4
+    4:
+      Carapace: 5
+      ScaleHide: 5
+      JuteBlue: 2
+      size: 6x4
+
+Blue Backpack:
+  description: "Carry stuff in whichever colorful style suits your viking taste, or just keep it in your inventory if you're that uncultured.  This container and all contents will stay with your tombstone on death."
+  size: 4x2
+  unique: global
+  appearance:
+    Sleepbag: hidden
+    BackpackStrapTop: hidden
+    Pot: hidden
+    Teapot: hidden
+    BackpackFlap: 002FFF
+    BackpackBody: 888888
+    PouchFront: 002FFF
+    PouchLeft: 002FFF
+    BackpackStrapBottom: 002FFF
+    ToolstrapTop: 002FFF
+    ToolstrapBottom: 002FFF
+    RingBottomLeft: 002FFF
+  crafting:
+    station: Workbench
+    level: 1
+    costs:
+      BronzeNails: 5
+      DeerHide: 10
+      TrollHide: 10
+  upgrade:
+    1:
+      Iron: 5
+      ElderBark: 10
+      Guck: 2
+      size: 4x3
+    2:
+      Silver: 5
+      WolfPelt: 3
+      JuteRed: 2
+      size: 4x4
+    3:
+      BlackMetal: 5
+      LinenThread: 10
+      LoxPelt: 2
+      size: 5x4
+    4:
+      Carapace: 5
+      ScaleHide: 5
+      JuteBlue: 2
+      size: 6x4
+
+Green Backpack:
+  description: "Carry stuff in whichever colorful style suits your viking taste, or just keep it in your inventory if you're that uncultured.  This container and all contents will stay with your tombstone on death."
+  size: 4x2
+  unique: global
+  appearance:
+    Sleepbag: hidden
+    BackpackStrapTop: hidden
+    Pot: hidden
+    Teapot: hidden
+    BackpackFlap: 888888
+    BackpackBody: 086B08
+    PouchFront: 888888
+    PouchLeft: 888888
+    BackpackStrapBottom: 888888
+    ToolstrapTop: 888888
+    ToolstrapBottom: 888888
+    RingBottomLeft: 888888
+  crafting:
+    station: Workbench
+    level: 1
+    costs:
+      BronzeNails: 5
+      DeerHide: 10
+      LeatherScraps: 10
+      Dandelion: 10
+  upgrade:
+    1:
+      Iron: 5
+      ElderBark: 10
+      Guck: 2
+      size: 4x3
+    2:
+      Silver: 5
+      WolfPelt: 3
+      JuteRed: 2
+      size: 4x4
+    3:
+      BlackMetal: 5
+      LinenThread: 10
+      LoxPelt: 2
+      size: 5x4
+    4:
+      Carapace: 5
+      ScaleHide: 5
+      JuteBlue: 2
+      size: 6x4
+
+Teal Backpack:
+  description: "Carry stuff in whichever colorful style suits your viking taste, or just keep it in your inventory if you're that uncultured.  This container and all contents will stay with your tombstone on death."
+  size: 4x2
+  unique: global
+  appearance:
+    Sleepbag: hidden
+    BackpackStrapTop: hidden
+    Pot: hidden
+    Teapot: hidden
+    BackpackFlap: 00BFFF
+    BackpackBody: 666666
+    PouchFront: 00BFFF
+    PouchLeft: 00BFFF
+    BackpackStrapBottom: 666666
+    ToolstrapTop: 666666
+    ToolstrapBottom: 666666
+    RingBottomLeft: 666666
+  crafting:
+    station: Workbench
+    level: 1
+    costs:
+      BronzeNails: 5
+      DeerHide: 10
+      TrollHide: 10
+      Dandelion: 10
+  upgrade:
+    1:
+      Iron: 5
+      ElderBark: 10
+      Guck: 2
+      size: 4x3
+    2:
+      Silver: 5
+      WolfPelt: 3
+      JuteRed: 2
+      size: 4x4
+    3:
+      BlackMetal: 5
+      LinenThread: 10
+      LoxPelt: 2
+      size: 5x4
+    4:
+      Carapace: 5
+      ScaleHide: 5
+      JuteBlue: 2
+      size: 6x4
+
+Purple Backpack:
+  description: "Carry stuff in whichever colorful style suits your viking taste, or just keep it in your inventory if you're that uncultured.  This container and all contents will stay with your tombstone on death."
+  size: 4x2
+  unique: global
+  appearance:
+    Sleepbag: hidden
+    BackpackStrapTop: hidden
+    Pot: hidden
+    Teapot: hidden
+    BackpackFlap: C000C0
+    BackpackBody: 6000C0
+    PouchFront: C000C0
+    PouchLeft: C000C0
+    BackpackStrapBottom: C000C0
+    ToolstrapTop: C000C0
+    ToolstrapBottom: C000C0
+    RingBottomLeft: C000C0
+    MetalclipLeft: 666666
+    MetalclipFrontRight: 666666
+    MetalclipFrontLeft: 666666
+    Knife: 888888
+    Knifesheath: 666666
+    Pickaxe: 888888
+  crafting:
+    station: Workbench
+    level: 1
+    costs:
+      BronzeNails: 5
+      TrollHide: 10
+      FoxPelt_TW: 10
+      Raspberry: 10
+  upgrade:
+    1:
+      Iron: 5
+      ElderBark: 10
+      Guck: 2
+      size: 4x3
+    2:
+      Silver: 5
+      WolfPelt: 3
+      JuteRed: 2
+      size: 4x4
+    3:
+      BlackMetal: 5
+      LinenThread: 10
+      LoxPelt: 2
+      size: 5x4
+    4:
+      Carapace: 5
+      ScaleHide: 5
+      JuteBlue: 2
+      size: 6x4
+
+Gray Backpack:
+  description: "Carry stuff in whichever colorful style suits your viking taste, or just keep it in your inventory if you're that uncultured.  This container and all contents will stay with your tombstone on death."
+  size: 4x2
+  unique: global
+  appearance:
+    Sleepbag: hidden
+    BackpackStrapTop: hidden
+    Pot: hidden
+    Teapot: hidden
+    BackpackFlap: 555555
+    BackpackBody: 3F3F3F
+    PouchFront: 555555
+    PouchLeft: 555555
+    BackpackStrapBottom: 555555
+    ToolstrapTop: 555555
+    ToolstrapBottom: 555555
+    RingBottomLeft: 555555
+  crafting:
+    station: Workbench
+    level: 1
+    costs:
+      BronzeNails: 5
+      DeerHide: 10
+      LeatherScraps: 10
+      Coal: 10
+  upgrade:
+    1:
+      Iron: 5
+      ElderBark: 10
+      Guck: 2
+      size: 4x3
+    2:
+      Silver: 5
+      WolfPelt: 3
+      JuteRed: 2
+      size: 4x4
+    3:
+      BlackMetal: 5
+      LinenThread: 10
+      LoxPelt: 2
+      size: 5x4
+    4:
+      Carapace: 5
+      ScaleHide: 5
+      JuteBlue: 2
+      size: 6x4
+
+Black Backpack:
+  description: "Carry stuff in whichever colorful style suits your viking taste, or just keep it in your inventory if you're that uncultured.  This container and all contents will stay with your tombstone on death."
+  size: 4x2
+  unique: global
+  appearance:
+    Sleepbag: hidden
+    BackpackStrapTop: hidden
+    Pot: hidden
+    Teapot: hidden
+    BackpackFlap: 333333
+    BackpackBody: 333333
+    PouchFront: 333333
+    PouchLeft: 333333
+    BackpackStrapBottom: 333333
+    ToolstrapTop: 333333
+    ToolstrapBottom: 333333
+    RingBottomLeft: 333333
+    MetalclipLeft: 666666
+    MetalclipFrontRight: 666666
+    MetalclipFrontLeft: 666666
+    Knife: 888888
+    Knifesheath: 666666
+    Pickaxe: 888888
+  crafting:
+    station: Workbench
+    level: 1
+    costs:
+      BronzeNails: 5
+      RazorbackLeather_TW: 10
+      LeatherScraps: 10
+      Coal: 10
+  upgrade:
+    1:
+      Iron: 5
+      ElderBark: 10
+      Guck: 2
+      size: 4x3
+    2:
+      Silver: 5
+      WolfPelt: 3
+      JuteRed: 2
+      size: 4x4
+    3:
+      BlackMetal: 5
+      LinenThread: 10
+      LoxPelt: 2
+      size: 5x4
+    4:
+      Carapace: 5
+      ScaleHide: 5
+      JuteBlue: 2
+      size: 6x4
+
+Yellow Backpack:
+  description: "Carry stuff in whichever colorful style suits your viking taste, or just keep it in your inventory if you're that uncultured.  This container and all contents will stay with your tombstone on death."
+  size: 4x2
+  unique: global
+  appearance:
+    Sleepbag: hidden
+    BackpackStrapTop: hidden
+    Pot: hidden
+    Teapot: hidden
+    BackpackFlap: 333333
+    BackpackBody: 333333
+    PouchFront: 333333
+    PouchLeft: FFFF00
+    BackpackStrapBottom: FFFF00
+    ToolstrapTop: FFFF00
+    ToolstrapBottom: FFFF00
+    RingBottomLeft: FFFF00
+    MetalclipLeft: 666666
+    MetalclipFrontRight: 666666
+    MetalclipFrontLeft: 666666
+    Knife: 888888
+    Knifesheath: 666666
+    Pickaxe: 888888
+  crafting:
+    station: Workbench
+    level: 1
+    costs:
+      BronzeNails: 5
+      RazorbackLeather_TW: 20
+      Coal: 10
+      Dandelion: 10
+  upgrade:
+    1:
+      Iron: 5
+      ElderBark: 10
+      Guck: 2
+      size: 4x3
+    2:
+      Silver: 5
+      WolfPelt: 3
+      JuteRed: 2
+      size: 4x4
+    3:
+      BlackMetal: 5
+      LinenThread: 10
+      LoxPelt: 2
+      size: 5x4
+    4:
+      Carapace: 5
+      ScaleHide: 5
+      JuteBlue: 2
+      size: 6x4
+
+Black Forest Smuggler:
+  description: "This mystical container allows teleportation of Bronze, Copper, and Tin bars.  This container and all contents will stay with your tombstone on death."
+  size: 2x2
+  unique: global
+  appearance:
+    Sleepbag: hidden
+    BackpackStrapTop: hidden
+    Pot: hidden
+    Teapot: hidden
+    BackpackFlap: 111111
+    BackpackBody: 111111
+    PouchFront: hidden
+    PouchLeft: hidden
+    BackpackStrapBottom: 00FF00
+    ToolstrapTop: hidden
+    ToolstrapBottom: hidden
+    RingBottomLeft: 00FF00
+    MetalclipLeft: hidden
+    MetalclipFrontRight: FFFFFF
+    MetalclipFrontLeft: FFFFFF
+    Knife: hidden
+    Knifesheath: hidden
+    Pickaxe: hidden
+  crafting:
+    station: Workbench
+    level: 1
+    costs:
+      IronNails: 5
+      RazorbackLeather_TW: 20
+      Coal: 10
+      TrophyBonemass: 1
+  valid items:
+    - Bronze
+    - Copper
+    - Tin
+  teleport: true
+
+Swamp Smuggler:
+  description: "This mystical container allows teleportation of Bronze, Copper, Tin, and Iron bars.  This container and all contents will stay with your tombstone on death."
+  size: 2x2
+  unique: global
+  appearance:
+    Sleepbag: hidden
+    BackpackStrapTop: hidden
+    Pot: hidden
+    Teapot: hidden
+    BackpackFlap: 111111
+    BackpackBody: 111111
+    PouchFront: hidden
+    PouchLeft: hidden
+    BackpackStrapBottom: 6FAB6D
+    ToolstrapTop: hidden
+    ToolstrapBottom: hidden
+    RingBottomLeft: 6FAB6D
+    MetalclipLeft: hidden
+    MetalclipFrontRight: FFFFFF
+    MetalclipFrontLeft: FFFFFF
+    Knife: hidden
+    Knifesheath: hidden
+    Pickaxe: hidden
+  crafting:
+    station: Workbench
+    level: 1
+    costs:
+      IronNails: 5
+      RottenPelt_TW: 20
+      Coal: 10
+      TrophyDragonQueen: 1
+  valid items:
+    - Bronze
+    - Copper
+    - Tin
+    - Iron
+  teleport: true
+
+Mountains Smuggler:
+  description: "This mystical container allows teleportation of Bronze, Copper, Tin, Iron, and Silver bars, as well as Dragon Eggs.  This container and all contents will stay with your tombstone on death."
+  size: 2x2
+  unique: global
+  appearance:
+    Sleepbag: hidden
+    BackpackStrapTop: hidden
+    Pot: hidden
+    Teapot: hidden
+    BackpackFlap: 111111
+    BackpackBody: 111111
+    PouchFront: hidden
+    PouchLeft: hidden
+    BackpackStrapBottom: 7FAFFF
+    ToolstrapTop: hidden
+    ToolstrapBottom: hidden
+    RingBottomLeft: 7FAFFF
+    MetalclipLeft: hidden
+    MetalclipFrontRight: FFFFFF
+    MetalclipFrontLeft: FFFFFF
+    Knife: hidden
+    Knifesheath: hidden
+    Pickaxe: hidden
+  crafting:
+    station: Workbench
+    level: 1
+    costs:
+      IronNails: 5
+      WolfPelt: 20
+      Coal: 10
+      TrophyGoblinKing: 1
+  valid items:
+    - Bronze
+    - Copper
+    - Tin
+    - Iron
+    - Silver
+    - DragonEgg
+  teleport: true
+
+Plains Smuggler:
+  description: "This mystical container allows teleportation of Bronze, Copper, Tin, Iron, Silver, and Black metal bars, as well as Dragon Eggs.  This container and all contents will stay with your tombstone on death."
+  size: 2x2
+  unique: global
+  appearance:
+    Sleepbag: hidden
+    BackpackStrapTop: hidden
+    Pot: hidden
+    Teapot: hidden
+    BackpackFlap: 111111
+    BackpackBody: 111111
+    PouchFront: hidden
+    PouchLeft: hidden
+    BackpackStrapBottom: DFCC32
+    ToolstrapTop: hidden
+    ToolstrapBottom: hidden
+    RingBottomLeft: DFCC32
+    MetalclipLeft: hidden
+    MetalclipFrontRight: FFFFFF
+    MetalclipFrontLeft: FFFFFF
+    Knife: hidden
+    Knifesheath: hidden
+    Pickaxe: hidden
+  crafting:
+    station: Workbench
+    level: 1
+    costs:
+      IronNails: 5
+      LoxPelt: 20
+      Coal: 10
+      TrophySeekerQueen: 1
+  valid items:
+    - Bronze
+    - Copper
+    - Tin
+    - Iron
+    - Silver
+    - DragonEgg
+    - BlackMetal
+  teleport: true
+
+Insulated Smuggler:
+  description: "This mystical container allows teleportation of Bronze, Copper, Tin, Iron, Silver, Black metal, Flametal, and Tyranium bars, as well as Dragon Eggs and Dvergr extractors.  This container and all contents will stay with your tombstone on death."
+  size: 2x2
+  unique: global
+  appearance:
+    Sleepbag: hidden
+    BackpackStrapTop: hidden
+    Pot: hidden
+    Teapot: hidden
+    BackpackFlap: 00007F
+    BackpackBody: 0000FF
+    PouchFront: hidden
+    PouchLeft: hidden
+    BackpackStrapBottom: FF7F00
+    ToolstrapTop: hidden
+    ToolstrapBottom: hidden
+    RingBottomLeft: FF7F00
+    MetalclipLeft: hidden
+    MetalclipFrontRight: FFFFFF
+    MetalclipFrontLeft: FFFFFF
+    Knife: hidden
+    Knifesheath: hidden
+    Pickaxe: hidden
+  crafting:
+    station: Workbench
+    level: 1
+    costs:
+      IronNails: 5
+      AshenFur_TW: 20
+      TrophySythrak_TW: 1
+      TrophyStormHerald_TW: 1
+  valid items:
+    - Bronze
+    - Copper
+    - Tin
+    - Iron
+    - Silver
+    - DragonEgg
+    - BlackMetal
+    - Flametal
+    - TyraniumBar_TW
+    - DvergrNeedle
+    - AshenEgg_TW
+    - ArcticEgg_TW
+  teleport: true

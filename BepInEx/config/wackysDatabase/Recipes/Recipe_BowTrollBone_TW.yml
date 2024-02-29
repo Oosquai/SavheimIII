@@ -1,0 +1,13 @@
+name: BowTrollBone_TW
+clonePrefabName: 
+craftingStation: $piece_fletchertable_TW
+minStationLevel: 1
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+requireOnlyOneIngredient: false
+reqs:
+- FineWood:6:3:True
+- TrollBone_TW:6:3:True
+- TrollHide:2:2:True

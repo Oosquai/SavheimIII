@@ -1,0 +1,13 @@
+name: SpearBlackmetal_TW
+clonePrefabName: 
+craftingStation: $piece_forge
+minStationLevel: 4
+maxStationLevelCap: 
+repairStation: 
+amount: 1
+disabled: false
+requireOnlyOneIngredient: false
+reqs:
+- FineWood:10:5:True
+- BlackMetal:16:8:True
+- LinenThread:5:5:True
